@@ -1,0 +1,1043 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS K - LAW
+
+Subclass K
+
+K17720           	Law in general. Comparative and uniform law. Jurisprudence
+K136.5             		Periodicals
+K3744              		Bibliography
+K46                 		Monographic series
+K48                 		Encyclopedias
+K5054              		Dictionaries.  Words and phrases
+K58                 		Maxims.  Quotations
+K(64)               		Yearbooks
+K6870              		Directories
+K8589              		Legal research
+K94                 		Legal composition and draftsmanship
+K100103            		Legal education
+K109110            		Law societies.  International bar associations
+K115130            		The legal profession
+K133                		Legal aid.  Legal assistance to the poor
+K140165            		History of law
+K170                		Biography
+K(175)              		Congresses
+K(176)(177)        		Collected works (nonserial)
+K(179)              		Addresses, essays, lectures
+K181184.7          		Miscellany
+K190195            		Ethnological jurisprudence.  Primitive law
+K201487            		Jurisprudence.  Philosophy and theory of law
+K202                   			Periodicals
+K212213               			Methodology
+K215218               			History
+K236                   			Universality and nonuniversality of law
+K237264               			The concept of law
+K270274               			Acts and events
+K280286               			Sources of law
+K288296               			Interpretation and construction of law.  Lacunae in law
+K300304               			Classification of law.  Typology
+K321474               			Schools of legal theory
+K325328                 				Historical jurisprudence
+K330344                 				Positivism
+K366380                 				Sociology of law.  Sociological jurisprudence
+K400474                 				Natural law
+K486487               			Relation of law to other topics
+K(520)5582         		Comparative law.  International uniform law
+K524525               			Treaties and other international agreements
+K540546               			Trials
+K578579               			Concepts applying to several branches of law
+K583(591)             			Legal systems compared
+K592597               			Regional divisions.  Interregional comparative law
+K600615               			Private law
+
+K605615                 				Unification
+K623968               			Civil law
+K625709                 				Persons
+K670709                    				Domestic relations.  Family law
+K720792                 				Property
+K795798                 				Trusts and trustees
+K805821                 				Succession upon death
+K830968                 				Obligations
+K840917                    					Contracts
+K920                        					Restitution.  Quasi contracts.  Unjust enrichment
+K923968                    					Torts
+K970                   			Compensation to victims of crime.  Reparation
+K10001395             			Commercial law
+K10101014               				The merchant.  Business enterprises
+K10211022               				Commercial agency
+K10241132               				Commercial contracts
+K10261045                  					Sale of goods
+K10541065.5                					Negotiable instruments
+K10661089                  					Banking
+K10941096                  					Loan of money
+K11001109                  					Secured transactions
+K11121116                  					Investments
+K11301132                  					Carriage of goods and passengers.  Carriers
+K11501231               				Maritime law
+K11951223                  					Maritime social legislation
+K12261231                  					Marine insurance
+K12411287               				Insurance
+K13011366               				Business associations
+K13701395               				Insolvency and bankruptcy.  Creditors' rights
+K14011578             			Intellectual property
+K14111485               				Copyright
+K15001578               				Industrial property
+K17001973             			Social legislation
+K17011841               				Labor law
+K18611929               				Social insurance
+K19601973               				Public welfare.  Public assistance
+K21002385             			Courts.  Procedure
+K21102155               				Court organization and procedure
+K22012385               				Civil procedure
+K2390                  			Negotiated settlement.  Compromise
+K24002405             			Arbitration and award
+K3150                  			Public law
+K31543370             			Constitutional law
+K3161                    				Constitutional history
+K3169                    				The state
+K31713179               				Constitutional principles
+K31843188               				Form and structure of government
+K3195                    				National territory
+K3201                    				Foreign relations administration
+K3220                    				Public policy
+K32243278               				Individual and state
+
+K32803282               				Church and state
+K32893367               				Organs of government
+K32903304                  					The people.  Election law
+K33103329                  					The legislature
+K33323363                  					Heads of state and the central government
+K3367                       					The judiciary
+K3370                    				Constitutional courts and procedure
+K3375                  			Colonial law
+K34003431             			Administrative law
+K34023417               				The administrative process
+K34203431               				Administrative organization
+K34403460             			Civil service.  Government officials and employees
+K34763560             			Public property.  Public restraint on private property
+K35663578             			Public health
+K3581(3598)           			Environmental law
+K36013611             			Medical legislation
+K36153622             			Veterinary laws.  Veterinary medicine and hygiene.  Prevention
+of cruelty to animals
+K36253649             			Food.  Drugs.  Cosmetics
+K36513654             			Alcohol.  Alcoholic beverages
+K36613674             			Public safety
+K37003705             			Control of social activities
+K37403762             			Education
+K37703795             			Science and arts.  Research
+K38203836             			Economic constitution, policy, planning, and development
+K38404375             			Regulation of industry, trade, and commerce.  Occupational law
+K38423862               				Trade regulations.  Control of trade practices
+K38703918               				Primary production.  Extractive industries
+K39213925               				Manufacturing industries
+K39263935               				Food processing industries
+K39413974               				Trade and commerce
+K39783992               				Public utilities
+K40114343               				Transportation and communication
+K43604375               				Professions and occupations
+K44304675             			Public finance
+K44534640               				National revenue
+K46504675               				State and local finance
+K47004705             			Government measures in time of war, national emergency, or
+economic crisis
+K47204780             			National defense.  Military law
+K47254734               				The military establishment.  Armed forces
+K47404760               				Military criminal law and procedure
+K50005582             			Criminal law and procedure
+K5015.45350             				Criminal law
+K54015570               				Criminal procedure
+K55755582               				Juvenile criminal law and procedure
+K70007720          		Private international law.  Conflict of laws
+K70517054             			International unification, approximation, and harmonization
+K70607081             			Choice of law
+K7085                  			Retroactive law.  Intertemporal law
+K7090                  			Juristic acts
+
+K71207197             			Persons
+K71257140               				Natural persons
+K71457148               				Juristic persons.  Associations
+K71557197               				Domestic relations.  Family law
+K71577179                  					Marriage.  Husband and wife
+K71817197                  					Parent and child.  Guardian and ward
+K72007218             			Property
+K7222                  			Trust and trustees
+K72307245             			Succession upon death
+K72607338             			Obligations
+K72657305               				Contracts
+K7310                    				Restitution.  Quasi contracts.  Unjust enrichment
+K73157338               				Torts
+K73407512             			Commercial law
+K73507444               				Commercial contracts
+K74497460               				Maritime law
+K7470                    				Insurance
+K74857495               				Business associations.  Business corporations
+K75107512               				Insolvency and bankruptcy.  Creditors' rights
+K75507582             			Intellectual property
+K75557557               				Copyright
+K75707582               				Industrial property
+K75857595             			Social legislation
+K76117688             			Civil procedure.  International civil procedure
+K7690                  			Arbitration and award
+K7720                  			Recognition of foreign administrative acts
+
+Subclass KB
+
+KB1-4855	Religious law in general.  Comparative religious law.
+Jurisprudence
+KB2-4		Bibliography
+KB7-68		Periodicals
+KB68		Annuals.  Annuaires
+KB70.A-Z		Monographic series.  By title, A-Z
+KB73		Collections.  Compilations (General and comprehensive)
+KB74-78		Auxiliary sciences
+KB90.A-Z		Encyclopedias.  Law dictionaries.  Terms and phrases.
+Vocabularies.  By author or title, A-Z
+KB100.A-Z		Proverbia.  Legal maxims.  Brocardica juris.  Regulae juris.  			By author or title, A-Z
+KB122		Biography (Collective)
+KB130		Legal research.  Legal bibliography.  Methods of
+bibliographic research
+KB150		Conferences.  Symposia
+KB160		General works.  Treatises
+KB162-250		Legal systems compared
+KB270-280		Theory, philosophy, and science of religious law
+KB400-4855		Interdisciplinary discussion of subjects
+KB400			Ritual law.  Religious observances and rituals
+
+KB410 			Law reform and policies. Criticism
+KB479 			Private law (General)
+KB480482 			Private international law. Conflict of laws
+KB491 			Civil law (General)
+KB524530 			Persons
+KB531619 			Domestic relations. Family law
+KB622628.5 			Guardianship. Guardian and ward
+KB632636.2 			Inheritance and succession
+KB636.3 			Gifts. Charitable gifts. Donations
+KB640726 			Property. Res in commercio
+KB810962.8 			Obligations. Contracts and transactions
+KB12701278 			Labor laws and legislation
+KB14681550 			Social laws and legislation. Welfare. Charities
+KB15721690 			Courts and procedure
+KB20002035 			Public law. The State
+KB21012862 			Constitutions and religion. Constitutional and
+administrative law
+KB2870 			Civil service. Employees of state, communal agencies,
+and religious corporations
+KB30003034 			Police and public safety
+KB3040.53056 			Public property. Government property
+KB30753096.5 			Public health
+KB30983121.7 			Medical legislation
+KB3122 			Veterinary medicine and hygiene. Veterinary public health  KB31233123.5 			Animal protection. Animal welfare. Animal rights
+KB31243125 			Birth control. Family planning
+KB31273135 			Environmental law
+KB31373183 			Cultural affairs
+KB31903429 			Economic law
+KB3440-3500.7 			Transportation and communication
+KB35153522 			Professions. Intelligentsia
+KB35263694			Public finance
+KB37093726 			Government measures in time of war, national emergency,
+or economic crisis
+KB37353780 			Military law
+KB37904855 			Criminal law and procedure
+
+Subclass KBM
+
+KBM1-4855	Jewish law.  Halakah
+Halakah
+KBM523.6			Even ha#ezer law (General)
+KBM523.72			oshen mishpa law (General)
+KBM523.84855 		Mishpat Ivri
+KBM523.8 			Bibliography
+KBM523.82 			Monographic series
+KBM523.9 			Legal education. Study and teaching
+KBM524 			General works
+
+KBM524.12524.26 			The concept of Jewish law
+KBM524.3 			Sources of Jewish law (Mishpat Ivri)
+KBM524.32.34 			Methodology of law development
+KBM524.36 			Influence of other legal systems on Jewish law
+KBM524.38 			Law reform and policies. Criticism
+KBM524.4.AZ 			Concepts applying to several branches of the law, AZ
+KBM524.42 			Private law
+KBM524.43 			Conflict of laws. Plurality of laws conflict
+KBM524.5 			Assistance in emergencies
+KBM524.6530 			Persons
+KBM531619 			Domestic relations. Family law
+KBM622628.5 			Guardian and ward. Apotropos
+KBM632636.2 			Inheritance and succession
+KBM636.3 			Gifts. Charitable gifts. Donations
+KBM6391424 			Dinei mamonot
+KBM14681547 			Social laws and legislation
+KBM15721942 			Courts and procedure
+KBM20002024 			Public law. The state and the Jewish community. Kehillah
+KBM20702614 			Constitutional law. Constitutional principles of the Jewish
+community
+KBM27112840 			Administrative law and process of communal agencies
+KBM2970 			Civil service. Employees of communal agencies
+KBM30003036.5 			Police and public safety
+KBM3040.53073 			Public property. Communal property. Restraints on private
+property
+KBM30753097 			Public health
+KBM30983122 			Medical legislation
+KBM31243125 			Birth control. Family planning
+KBM31273134 			Environmental law
+KBM31373183			Cultural affairs
+KBM31903436 			Economic law
+KBM34403504.5 			Transportation and communication
+KBM35153519 			Professions
+KBM35263695 			Public finance
+KBM37093729 			Measures in time of war, national emergency, or economic
+crisis
+KBM37383785 			Community defense. Military law
+KBM37904855			Criminal law and procedure
+
+Subclass KBP
+
+KBP1-4860	Islamic law.  Shar§#ah.  Fiqh
+KBP2.28 		Bibliography
+KBP9.5 		Monographic series
+KBP1014.5 		Societies. Associations
+KBP15 		Congresses. Conferences
+KBP18 		Academies. Institutes
+KBP40 		Encyclopedias. Dictionaries
+
+KBP40.2 		Maxims. Quotations
+KBP40.5 		Directories
+KBP41 		Legal research
+KBP4243 		Legal education. Study and teaching
+KBP5069		History, development and application of Islamic law
+KBP70-75.4		Biography
+KBP100136.8		Sources
+KBP144 		General works
+KBP173.25.6 		Islamic law and other disciplines or subjects
+KBP174190.5 		Observances and practice of Islam
+KBP250420		Schools of thought. Islamic legal schools. Madh~hib
+KBP425466.3 		Uãl alfiqh. Jurisprudence and theory of law. Science of
+legal reasoning
+KBP469 		Influence of other legal systems on Islamic law
+KBP470 		Law reform. Criticism. Tan§m
+KBP480485 		Conflict of laws. Tan~zu’ alqaw~n§n
+KBP4904860 		Furã# alfiqh. Substantive law. Branches of law
+KBP490.2.95 			General works. Treatises
+KBP491497.95			Particular genres
+KBP500509.8 			General concepts
+KBP524638 			Aw~l shakh§yah
+KBP6391154 			Mu#~mal~t
+KBP11551194 			Intellectual and industrial property
+KBP12341259 			Unfair competition
+KBP12701467 			Labor laws and legislation
+KBP14681569 			Social laws and legislation
+KBP15721942 			Courts and procedure
+KBP20002035 			Public law. The state and Islam
+KBP21012612 			Constitution of the state. Constitutional law
+KBP27302968 			Government and administration. Siy~sah. Administrative
+process
+KBP2970 			Civil service. Employees of communal agencies
+KBP30003037 			Police and public safety
+KBP3040.53072 			Public property. Government property
+KBP30753096.5 			Public health
+KBP30983121.5 			Medical legislation
+KBP3122 			Veterinary medicine and hygiene. Veterinary public health
+KBP31233123.5 			Animal protection. Animal welfare. Animal rights
+KBP31243125 			Birth control. Family planning
+KBP31273135 			Environmental law
+KBP31373183.3 			Cultural affairs
+KBP31903437			Economic law
+KBP34403512 			Transportation and communication
+KBP35153521 			Professions. Intelligentsia
+KBP35263705 			Public finance
+KBP37093727 			Government measures in time of war, national emergency,
+or economic crisis
+KBP37383785 			Military law
+
+KBP37904860 			Criminal law and procedure
+
+Subclass KBR
+
+KBR24090	History of canon law
+KBR219		Bibliography
+KBR21		Annuals. Annuaires. Yearbooks
+KBR22		Monographic series
+KBR2741.7		Official acts of the Holy See
+KBR42-54.5		Decisions of ecclesiastical tribunals and courts, and related
+materials
+KBR56		Encyclopedias. Law dictionaries. Terms and phrases.
+Vocabularia
+KBR64		Directories
+KBR7483		Auxiliary sciences
+KBR100.AZ		Proverbia. Legal maxims. Brocardica juris. Regulae juris
+KBR105.AZ		Formularies. Clauses and forms. Formularia
+KBR122-124		Collective biography of canonists or jurists
+KBR127129.5		Trials
+KBR130132		Legal research. Legal bibliography. Methods of bibliographic
+research
+KBR133134		Legal education. Study and teaching
+KBR136148		Societies. Associations. Academies, etc.
+KBR150		Conferences. Symposia
+KBR160		General works
+KBR190-2154.5		Sources
+KBR21552157		Canon law and other disciplines or subjects
+KBR21602204.5		Canonical jurisprudence. Canonical science
+KBR22052206.3		Influence of other legal systems on Canon law
+KBR2207		Law reform and policies. Criticism
+KBR2208.AZ		General concepts and principles, AZ
+KBR22242295		Ius ecclesiasticum privatum
+KBR2310-3026		Constitution of the Church
+KBR30403070		The teaching office of the church. Magisterium. De ecclesiae
+munere docendi
+KBR3077-3165		Sacraments. Administration of sacraments. De sacramentis
+et administratione
+KBR31803182		Sacramentals. Sacramentalia
+KBR31843256		Other acts of divine worship. De ceteris actibus Cultus Divini
+KBR32643280		Social work of the Church. Public welfare. Caritas
+KBR33203460		Church property. Church economics and finance.
+Administration
+KBR35003774		Penal (Criminal) law. De lege poenali
+KBR37803983		Judiciary. Ecclesiastical courts and procedure. De
+processibus
+KBR4000-4090		Church and state relationships. De relationibus inter
+ecclesiam et status. Ius publicum ecclesiae
+
+
+Subclass KBU
+
+KBU24820	Law of the Roman Catholic Church. The Holy See
+KBU219		Bibliography
+KBU21		Annuals. Annuaires. Yearbooks
+KBU22		Monographic series
+KBU2526		Official gazette of the Holy See
+KBU26.8-41.5 		Official acts of the Holy See
+KBU4254.5		Decisions of ecclesiastical tribunals and courts, and related
+materials
+KBU56		Encyclopedias
+KBU56.5		Dictionaries. Terms and phrases. Vocabularies
+KBU64		Directories
+KBU102		Form books. Clauses and forms
+KBU127129.5		Trials
+KBU130132		Legal research. Legal bibliography. Methods of bibliographic
+research
+KBU133		Legal education. Study and teaching
+KBU136148		Societies. Associations. Academies, etc.
+KBU149		Academies. Institutes
+KBU150		Conferences. Symposia
+KBU160		General works
+KBU180.AZ		Works on diverse aspects of a particular subject and falling
+within several branches of the law. By subject, AZ
+KBU195-1565		Collections. Compilations. Selections
+KBU2155-2157		Canon law and other disciplines or subjects
+KBU21602204		Canonical jurisprudence. Theory and science of canon law
+KBU22052206		Influence of other legal systems on canon law
+KBU2207		Law reform and policies. Criticism
+KBU2208.AZ		Concepts applying to several branches of the law, AZ
+KBU22102212		The codes of canon law
+KBU2215-2308		General norms and principles. De normis generalibus
+KBU2310-3026		Constitution of the Church
+KBU30403070		The teaching office of the Church. Magisterium. De
+ecclesiae munere docendi
+KBU3075-3165		Sacraments. Administration of sacraments. De sacramentis
+et administratione
+KBU31803182		Sacramentals. Sacramentalia
+KBU31843256		Other acts of divine worship. De ceteris actibus Cultus Divini
+KBU32643280		Social work of the Church. Public welfare. Caritas
+KBU32823310		Medical ethics and legislation. Church policy
+KBU33203460		Church property. Church economics and finance
+KBU35003774		Sanctions in the Church. Criminal law. De sanctionibus in
+Ecclesia. De lege poenali
+KBU37803985		Courts and procedure. De processibus
+KBU40004097		Church and state relationships. De relationibus inter
+ecclesiam et status. Ius publicum ecclesiae
+KBU4112-4820		Local Church government
+
+
+Subclass KD
+
+KD                 	Law of the United Kingdom and Ireland
+KD519500            		England and Wales
+KD88509312            		Local laws of England
+KD93209355            		Local laws of Wales
+KD94009500            		Wales
+KDC51990             		Scotland
+KDE 21580             		Northern Ireland
+KDG26540             		Isle of Man.  Channel Islands
+KDK211950            		Ireland (Eire)
+
+Subclass KDZ
+
+KDZ14999           	America.  North America
+KDZ11011199          		Organization of American States (OAS)
+KDZ2001-2499.2		Bermuda
+KDZ3001-3499		Greenland
+KDZ4001-4499		St. Pierre and Miquelon
+
+Subclass KE
+
+KE                 	Law of Canada
+KE19450             		Federal law.  Common and collective provincial law
+                   		Individual provinces and territories
+KEA1599                			Alberta
+KEB1599                			British Columbia
+KEM1599                			Manitoba
+KEN1599                			New Brunswick
+KEN12011799            			Newfoundland
+KEN54015999            			Northwest Territories
+KEN74017999            			Nova Scotia
+KEO11199               			Ontario
+KEP1599                			Prince Edward Island
+KEQ11199               			Quebec
+KES1599                			Saskatchewan
+KEY1599                			Yukon Territory
+KEZ19999             		Individual cities, AZ
+
+Subclass KF
+
+KF	Law of the United States
+KF19827             		Federal law.  Common and collective state law
+                   		Individual states
+KFA1599                			Alabama
+KFA12011799            			Alaska
+KFA24012999            			Arizona
+KFA36014199            			Arkansas
+KFC11199               			California
+KFC18012399            			Colorado
+KFC36014199            			Connecticut
+
+KFD1599                			Delaware
+KFD12011799            			District of Columbia
+KFF1599                			Florida
+KFG1599                			Georgia
+KFH1599                			Hawaii
+KFI1599                			Idaho
+KFI12011799            			Illinois
+KFI30013599            			Indiana
+KFI42014799            			Iowa
+KFK1599                			Kansas
+KFK12011799            			Kentucky
+KFL1599                			Louisiana
+KFM1599                			Maine
+KFM12011799            			Maryland
+KFM24012999            			Massachusetts
+KFM42014799            			Michigan
+KFM54015999            			Minnesota
+KFM66017199            			Mississippi
+KFM78018399            			Missouri
+KFM90019599            			Montana
+KFN1599                			Nebraska
+KFN6011199             			Nevada
+KFN12011799            			New Hampshire
+KFN18012399            			New Jersey
+KFN36014199            			New Mexico
+KFN50016199            			New York
+KFN74017999            			North Carolina
+KFN86019199            			North Dakota
+KFO1599                			Ohio
+KFO12011799            			Oklahoma
+KFO24012999            			Oregon
+KFP1599                			Pennsylvania
+KFR1599                			Rhode Island
+KFS18012399            			South Carolina
+KFS30013599            			South Dakota
+KFT1599                			Tennessee
+KFT12011799            			Texas
+KFU1599                			Utah
+KFV1599                			Vermont
+KFV24012999            			Virginia
+KFW1599                			Washington
+KFW12011799            			West Virginia
+KFW24012999            			Wisconsin
+KFW42014799            			Wyoming
+KFX19999             		Individual cities, AZ
+KFZ18012399          		Northwest Territory
+KFZ86019199          		Confederate States of America
+
+Subclass KG
+
+KG1999            	Latin America (General)
+
+KG30013999        	Mexico and Central America (General)
+KGA19000             		Belize
+KGB19000             		Costa Rica
+KGC19800             		El Salvador
+KGD19990             		Guatemala
+KGE19990             		Honduras
+KGF19900             		Mexico
+KGG19800             		Nicaragua
+KGH18000             		Panama
+KGH90019499          		Panama Canal Zone
+                 	West Indies.  Caribbean area
+KGJ1999              		General
+KGJ70017499          		Anguilla
+KGK1499              		Antigua and Barbuda
+KGK10011499          		Aruba
+KGL1499              		Bahamas
+KGL10011499          		Barbados
+KGL20012499          		Bonaire
+KGL30013499          		British Leeward Islands
+KGL40014499          		British Virgin Islands
+KGL50015999          		British West Indies
+KGL60016499          		British Windward Islands
+KGM1499              		Cayman Islands
+KGN19800             		Cuba
+KGP1499              		Curaçao
+KGP20012499          		Dominica
+KGQ19800             		Dominican Republic
+KGR1499              		Dutch Leeward Islands (General)
+KGR10011499          		Dutch West Indies (Netherlands Antilles)
+KGR20012499          		Dutch Windward Islands (General)
+KGR30013499          		French West Indies (General)
+KGR40014499          		Grenada
+KGR50015499          		Guadeloupe
+KGS19000             		Haiti
+KGT1499              		Jamaica
+KGT10011499          		Martinique
+KGT20012499          		Montserrat
+KGU1499              		Navassa Islands
+KGV18200             		Puerto Rico
+KGW1499              		Saba
+KGW20012499          		Saint Christopher (Saint Kitts), Nevis, and Anguilla
+KGW30013499          		Saint Lucia
+KGW50015499          		Saint Vincent and the Grenadines
+KGW70017499          		Sint Eustatius
+KGW80018499          		Sint Maarten
+KGX1499             		Trinidad and Tobago
+KGY1499              		Turks and Caicos Islands
+KGZ1499              		Virgin Islands of the United States
+
+Subclass KH
+
+
+KH1999            	South America (General)
+KHA19800             		Argentina
+KHC18200             		Bolivia
+KHD19900             		Brazil
+KHF19800             		Chile
+KHH19900             		Colombia
+KHK19990             		Ecuador
+KHL19000             		Falkland Islands
+KHM19000             		French Guiana
+KHN19000             		Guyana
+KHP19700             		Paraguay
+KHQ19800             		Peru
+KHS19000             		Surinam
+KHU19800             		Uruguay
+KHW19900             		Venezuela
+
+Subclasses KJ-KKZ
+
+KJ                 	Europe
+KJ21040             		History of Law
+KJ1601040             		Germanic law
+KJA23660             		Roman law
+KJC29799             		Regional comparative and uniform law
+KJE57975             		Regional organization and integration.  Comparative law
+KJG14999             		Albania
+KJH1499              		Andorra
+KJJ14999             		Austria
+KJK14999             		Belgium
+KJM14999             		Bulgaria
+KJN1499              		Cyprus
+KJP14999             		Czechoslovakia
+KJR14999             		Denmark
+KJS14985             		Estonia
+KJT14999             		Finland
+                   		France
+KJV29158               			National laws
+KJW514360              			Individual regions, provinces, departments, etc.
+KJW52019600            			Individual cities
+                   		Germany
+KK29799.3             			Germany and West Germany
+KKA79796               			East Germany
+KKBKKC                     			Individual states, provinces, and cities
+KKE14999             		Greece
+KKF14999             		Hungary
+KKG1499              		Iceland
+KKH14999             		Italy
+KKI14890             		Latvia
+KKJ1499              		Liechtenstein
+KKJ5019890           		Lithuania
+KKK1499              		Luxembourg
+KKK10011499          		Malta
+
+KKL1499              		Monaco
+KKM14999             		Netherlands
+KKN14999             		Norway
+KKP14999             		Poland
+KKQ14999             		Portugal
+KKR14999             		Romania
+KKS1499              		San Marino
+KKT14999             		Spain
+KKV1-4999		Sweden
+KKW14999             		Switzerland
+KKX14999             		Turkey
+KKY14999             		Ukraine (1991    )
+KKZ14999             		Yugoslavia
+
+Subclass KL
+
+                 	Asia and Eurasia, Africa, Pacific Area, and Antarctica
+KL25915             		History of law.  The ancient orient
+KL2135                			General
+KL147177              			Ancient legal systems compared
+KL190420              			Sources
+KL7002215             			Mesopotamia.  AssyroBabylonian law
+KL10001299            			Sumer
+KL16001899            			Assyria
+KL22002499            			Babylonia
+KL28003099            			Egypt
+KL35003799            			Elam
+KL41104399            			Greek law
+KL47004999            			Hittite law
+KL53005599            			Persia
+KL59006199            			Phoenicia
+            		Eurasia
+                     			Turkey, see KKX
+KLA19999               			Russia.  Soviet Union
+KLB16499               			Russia (Federation, 1992    )
+KLD1490                			Armenian S.S.R. (to 1991)
+KLE1490                			Azerbaijan
+KLF1490                			Belarus (Republic)
+                     			Estonia, see KJS
+KLH1490                			Georgia (Republic)
+                     			Latvia, see KKI
+                    			Lithuania, see KKJ
+KLM1490                			Moldova
+KLN1489                			Russian S.F.S.R. (to 1991)
+KLP14989               			Ukraine (19191991)
+KLP90019499            			Zakavkazskaia Sotsialisticheskaia Federativnaia Sovetskaia
+Respublika (to 1936)
+KLQ1499                			Bukharskaia Narodnaia Sovetskaia Respublika (to 1924)
+KLR1490                			Kazakhstan
+KLR10011499            			Khorezmskaia Sovetskaia Sotsialisticheskaia Respublika (to 1924)
+KLS1490                			Kyrgyzstan
+
+KLT1490                			Tadjikistan
+KLV1490                			Turkmenistan
+KLW1490                			Uzbekistan
+
+Subclass KM
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+             		Asia
+KM1999                			General
+              			Middle East.  Southwest Asia
+KMC1799                  				Regional comparative and uniform law
+KME10-799				Regional organization and integration
+KMF1293.5                				Armenia (Republic)
+KMF10011490              				Bahrain
+KMG1489                  				Gaza
+KMH14990                 				Iran
+KMJ14990                 				Iraq
+KMK14990                 				Israel
+
+KML1490                  				Jerusalem
+KMM1490                  				Jordan
+KMM501994                				West Bank (Territory under Israeli occupation, 1967    )
+KMN1499                  				Kuwait
+KMP1490                  				Lebanon
+KMQ1490                  				Oman
+KMQ10011499              				Palestine (to 1948)
+KMS1490                  				Qatar
+KMT14990                 				Saudi Arabia
+                       				Southern Yemen, see KMY
+KMU1490                  				Syria
+KMV19870                 				United Arab Emirates
+KMX10011526              				Yemen
+KMY1489               				Yemen (People's Democratic Republic) (to 1990)
+
+Subclass KN
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+Asia
+              			South Asia.  Southeast Asia.  East Asia
+KNC1999                  				Regional comparative and uniform law
+KNE150499                				Regional organization and integration
+KNF14990                 				Afghanistan
+KNG14990                 				Bangladesh
+KNH1490                  				Bhutan
+KNK1490                  				Brunei
+KNL14990                 				Burma
+KNM14990                 				Cambodia
+KNN19000                 				China
+KNP1599                  				China (Republic, 1949   ).  Taiwan
+KNQ19665                 				China (People's Republic, 1949    )
+KNR1489                  				Hong Kong
+
+KNS14999              	   			India
+KNTKNU                  					States, cities, etc.
+KNV1489                  				French Indochina
+KNW14990                 				Indonesia
+KNX14999                 				Japan
+KNY10220                   					Cities, etc.
+
+Subclass KP
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+Asia
+South Asia.  Southeast Asia.  East Asia
+KPA14990                 				Korea.  South Korea
+KPC14990                 				Democratic People's Republic of Korea.  North Korea
+KPE14990                 				Laos
+KPF1489                  				Macao
+KPG16999                 				Malaysia
+KPG70019999                					States of East and West Malaysia (1957    ) (Part 1)
+
+KPH14990                   					States of East and West Malaysia (1957    ) (Part 2)
+KPH50015490              				Maldives
+KPJ1490                  				Mongolia
+KPK1490                  				Nepal
+KPL14990                 				Pakistan
+KPM14990                 				Philippines
+KPP1499                  				Singapore
+KPS14990                 				Sri Lanka
+KPT14990                 				Thailand
+KPV18094                 				Vietnam
+KPW1489        				Vietnam.  South Vietnam
+
+Subclass KQ
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+             		Africa
+KQ2197                			History of law
+KQ20109000            			Law of indigenous peoples
+KQC1999                			Regional comparative and uniform law
+KQE101249              			Regional organization and integration
+KQG14990               			Algeria
+KQH14990               			Angola
+KQJ1490                			Benin
+KQK1490                			Botswana
+KQM1499                			British Central Africa Protectorate
+KQP1499                			British Indian Ocean Territory
+KQP10011499            			British Somaliland
+KQT1490                			Burkina Faso
+KQV1490                			Burundi
+KQW18020               			Cameroon
+KQX1490                			Cape Verde
+
+
+Subclass KR
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+Africa
+KRB1490                			Central African Republic
+KRC1490                			Chad
+KRE1490                			Comoros
+KRG1490                			Congo
+KRK1490                			Djibouti
+KRL1499                			East Africa Protectorate
+KRM14990               			Egypt
+KRN1-499			Eritrea
+KRP14990               			Ethiopia
+KRR1499                			French Equatorial Africa
+KRS1499                			French West Africa
+KRU1490                			Gabon
+KRV1489                			Gambia
+KRW1499                			German East Africa
+KRX14990               			Ghana
+KRY1499                			Gibraltar
+
+Subclass KS
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+Africa
+KSA1490                			Guinea
+KSC1490                			GuineaBissau
+KSE1490                			Equatorial Guinea
+KSE601699              			Ifni
+KSG1499                			Italian East Africa
+KSG10011499            			Italian Somaliland
+KSH14990               			Ivory Coast
+KSK14990               			Kenya
+KSL1490                			Lesotho
+KSN1490                			Liberia
+KSP14990               			Libya
+KSR1490                			Madagascar
+KSS1490                			Malawi
+KST1490                			Mali
+KSU1490                			Mauritania
+KSV1490                			Mauritius
+KSV50015490            			Mayotte
+KSW14990               			Morocco
+KSX14990               			Mozambique
+KSY14990               			Namibia
+KSZ1490                			Niger
+
+Subclass KT
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+Africa
+
+KTA19150               			Nigeria
+KTC1499                			Réunion
+KTD1490                			Rwanda
+KTE1490                			Saint Helena
+KTF1490                			São Tomé and Principe
+KTG14990               			Senegal
+KTH1490                			Seychelles
+KTJ1490                			Sierra Leone
+KTK1490                			Somalia
+KTL19560               			South Africa, Republic of
+KTN1499                			Spanish West Africa (to 1958)
+KTN601699              			Spanish Sahara (to 1975)
+KTQ14990               			Sudan
+KTR1490                			Swaziland
+KTT19910               			Tanzania
+KTU1490                			Togo
+KTV14990               			Tunisia
+KTW1490                			Uganda
+KTX14990               			Zaire
+KTY1490                			Zambia
+KTY15011599            			Zanzibar (to 1964)
+KTZ1490                			Zimbabwe
+
+Subclass KU
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+Pacific Area
+KU14999               			Australia
+KUAKUH                				States and territories
+                       				External territories
+KUN501599                  					Norfolk Island
+KUN30013050              				Cities, communities, etc.
+KUQ14990               			New Zealand
+
+Subclass KV
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+Pacific Area
+Pacific area jurisdictions
+                 				Regional comparative and uniform law
+KVB1-999					Australia and New Zealand
+KVC1-999					Other Pacific area jurisdictions
+KVE200349                				Regional organization and integration
+KVH1490                  				American Samoa
+KVH10011499              				British New Guinea (Territory of Papua)
+KVL1489                  				Cook Islands
+KVM1489                  				Easter Island
+KVN1490                  				Fiji
+KVP1100                  				French Polynesia
+KVP10011099              				German New Guinea (to 1914)
+KVQ1490                  				Guam
+
+KVR1490                  				Kiribati
+KVS1490                  				Marshall Islands
+KVS501990                				Micronesia (Federated States)
+KVS25012999              				Midway Islands
+KVU1499                  				Nauru
+KVU10011099              				Netherlands New Guinea (to 1963)
+KVW1490                  				New Caledonia
+
+Subclass KW
+
+Asia and Eurasia, Africa, Pacific Area, and Antarctica
+Pacific Area
+Pacific area jurisdictions
+KWA1489                  				Niue
+KWC1490                  				Northern Mariana Islands
+KWE1499                  				Pacific Islands (Trust Territory)
+KWG1490                  				Palau
+KWH1490                  				Papua New Guinea
+KWL1499                  				Pitcairn Island
+KWL20012490              				Solomon Islands
+KWP1490                  				Tonga
+KWQ1490                  				Tuvalu
+KWR1490                  				Vanuatu
+KWT1489                  				Wake Island
+KWT20012490              				Wallis and Futuna Islands
+KWW1490                  				Western Samoa
+KWX                		Antarctica
+
+Subclass KZ
+
+KZ26795             	Law of nations
+KZ25.5                		Bibliography
+KZ2438                		Societies, etc.
+KZ2737                  			National
+KZ(60)62.5            		Intergovernmental congresses and conferences
+KZ(63)1152            		Sources.  Fontes juris gentium
+KZ118194                			Treaties and other international agreements
+KZ119165                  				To 1920
+KZ170173                  				1920
+KZ176182.5                				Boundary treaties
+KZ183183.5                				Treaties of arbitration, investigation, etc.
+KZ184194                  				Peace treaties
+KZ199218                			Judicial decisions and arbitral awards.  Law reports
+KZ2211152               			By region or country
+KZ11651208            		Trials
+KZ11681208              			War crime trials
+KZ12341236            		Legal research.  Legal bibliography
+KZ12491252            		International law and other disciplines
+KZ12551273            		Theory and principles
+KZ12671273              			Domain of the law of nations
+KZ12841285.5          		Methodology
+
+KZ12871296            		Codification of the law of nations
+KZ12981304            		The law of treaties.  System of treaty law
+KZ(1319)(1327)        		International legal regimes
+KZ13293085            		Early/Medieval development to ca. 1900.  Ius Naturae et Gentium
+KZ13301339              			Peace of Westphalia to the French Revolution (16481789)
+KZ13451369              			French Revolution to the American Civil War (17891861)
+KZ13731387.2            			American Civil War to the First Conference of the Hague
+(18611899)
+KZ20643085              			Publicists.  Writers on public international law
+KZ30923405            		20th century
+KZ31103405              			Publicists.  Writers on public international law
+KZ3410                 		21st century
+KZ36703881            		Objects of the law of nations.  Territory and its different parts
+KZ3900(5490)          		The international legal community and members
+KZ3910(5490)            			Subjects of the law of nations
+KZ40024080                				The state
+KZ4110                     				By region
+KZ41124820                				By state
+KZ4850(5490)              				Intergovernmental organizations.  IGOs
+KZ4853(4934)                					The League of Nations
+KZ(4935)5275                					The United Nations
+KZ(5330)(5490)              					Regional organizations
+KZ55106299            		International law of peace and peace enforcement
+KZ55865893              			The system of collective security
+KZ56155893                				Arms control and disarmament regimes
+KZ56375645                  					Conventional arms control
+KZ56475686                  					Nuclear (Strategic) arms limitation
+KZ56875788.5                					Nuclear weapon free zones and zones of peace
+KZ58345865                  					Other weapons of mass destruction
+KZ58705893                  					Mutual and balanced reduction of armed forces
+KZ59005967              				Military pact systems for collective selfdefense
+KZ60096299              				Pacific settlement of international disputes and conflict
+resolution
+KZ61156299                					Arbitration and adjudication
+KZ63506785            		Enforced settlement of international disputes
+KZ63606373              			Nonmilitary coercion
+KZ6374(6377)            			Threat of force
+KZ63786795              			Law of war and neutrality.  Jus belli
+KZ64276437                				Warfare on land
+KZ64406530                				Humanitarian law
+KZ65406660                				Warfare on sea
+KZ66656714                				Air warfare
+KZ67306785                				The end of war.  Armistice.  Surrender.  Postliminy
+KZA1002(4205)           	Law of the sea
+KZA10401065               		Intergovernmental congresses and conferences
+KZA11181122               		Treaties and other international agreements
+KZA13401417               		Concepts and principles
+KZA1340                      			Mare clausum doctrine
+KZA13481405                 			Mare liberum doctrine
+KZA14301690               		Maritime boundaries
+KZA16301664                 			Continental shelf
+
+KZA(3481)(3900)           		Marine resources conservation and development
+KZA(3891)(3900)             			Highseas fisheries and fisheries regimes
+KZA4130(4205)             		Public order of the oceans
+KZD10026715             	Space law.  Law of outer space
+KZD10401065               		Intergovernmental congresses and conferences
+KZD11181122               		Treaties and other international agreements
+KZD13401400               		Concepts and principles.  Theory
+KZD13901400                 			Regulated use theory
+KZD1410                    		The source of the law of space
+KZD14201455               		Boundaries
+KZD34894406               		Peaceful uses of outer space
+KZD3489.53608             			Space resources
+KZD40304326                 			Public order in space and outer space
+KZD40804210                   				Space flight
+KZD(4301)4310                 				Space communication
+KZD4320.24326               			Rescue operations in outer space
+KZD44404406                 			Liability for accidents
+KZD56146715               		Unpeaceful uses of outer space
+KZD56205622.2               			Treaties and other international agreements
+KZD56485680.2               			Disarmament and demilitarization regimes in outer space

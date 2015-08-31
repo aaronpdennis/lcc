@@ -1,0 +1,635 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS H - SOCIAL SCIENCES
+
+Subclass H
+
+H1-99	Social sciences (General)
+
+Subclass HA
+
+HA1-4737	Statistics
+HA29-32		Theory and method of social science statistics
+HA36-37		Statistical services.  Statistical bureaus
+HA38-39		Registration of vital events.  Vital
+records
+HA154-4737		Statistical data
+HA154-155			Universal statistics
+HA175-473			By region or country
+
+Subclass HB
+
+HB1-3840	Economic theory.  Demography
+HB71-74		Economics as a science.  Relation to other 
+subjects
+HB75-130		History of economics.  History of economic 
+theory
+Including special economic schools
+HB131-147		Methodology
+HB135-147			Mathematical economics.  Quantitative methods
+Including econometrics, input-output
+analysis, game theory
+HB201-206		Value.  Utility
+HB221-236		Price
+HB238-251		Competition.  Production.  Wealth
+HB501		Capital.  Capitalism
+HB522-715		Income.  Factor shares
+HB535-551			Interest
+HB601			Profit
+HB615-715			Entrepreneurship.  Risk and uncertainty.
+Property
+HB801-843		Consumption.  Demand
+HB846-846.8		Welfare theory
+HB848-3697		Demography.  Population.  Vital events
+HB3711-3840		Business cycles.  Economic fluctuations
+
+Subclass HC
+
+HC10-1085	Economic history and conditions
+HC79		Special topics
+
+				Including air pollution, automation, 
+					consumer demand, famines, flow of funds, 
+					etc.
+HC92		Economic geography of the oceans (General)
+HC94-1085		By region or country
+
+Subclass HD
+
+HD28-9999	Industries.  Land use.  Labor
+HD28-70		Management.  Industrial management
+HD39-40.7			Capital.  Capital investments
+HD41			Competition
+HD45-45.2			Technological innovations.  Automation
+HD47-47.4			Costs
+HD49-49.5			Crisis management.  Emergency management.
+				Inflation
+HD50-50.5			Delegation of authority.  Decentralization.
+Span of control
+HD56-57.5			Industrial productivity
+HD58			Location of industry
+HD58.7-58.95			Organizational behavior, change and
+				effectiveness.  Corporate culture
+HD59-59.6			Public relations.  Industrial publicity
+HD60-60.5			Social responsibility of business
+HD61			Risk in industry.  Risk management
+HD62			Standardization.  Simplification.  Waste
+HD62.2-62.8			Management of special enterprises
+HD66-66.2			Work groups.  Team work in industry.
+				Quality circles
+HD69			Other
+					Including business consultants, 
+						capacity, size of industries, etc.
+HD72-88		Economic growth, development, planning
+HD101-1395.5		Land use
+			Land tenure
+HD1286-1289				Communal ownership
+HD1290-1291				Municipal ownership
+HD1301-1313				Nationalization (Agrarian socialism)
+HD1326-1329				Large holdings
+HD1330-1331				Landlord and peasant
+HD1332-1333.5				Land reform.  Agrarian reform
+HD1334-1335				Consolidation of land holdings
+HD1336-1339				Small holdings.  Peasant proprietors.
+Parcellation
+HD1361-1395.5			Real estate business
+HD1401-2210		Agriculture
+HD1428-1431			International cooperation
+HD1470-1476			Size of farms
+HD1478			Sharecropping
+HD1483-1486			Agricultural associations, societies, etc.
+HD1491-1491.5			Cooperative agriculture
+
+HD1492-1492.5			Collective farms
+HD1493-1493.5			Government owned and operated farms.  State
+				farms.  Sovkhozes
+HD1501-1542			Agricultural classes
+					Including farm tenancy, agricultural 
+						laborers
+HD1549			Gleaning
+HD1580			Reclamation of agricultural land.  Melioration
+HD1635-1702			Utilization and culture of special classes of
+				lands
+					Including pasture lands, water resources
+						development
+HD1711-1741			Irrigation
+HD2321-4730.9		Industry
+HD2329			Industrialization
+HD2330			Rural industries
+HD2331-2336			Home labor.  Home-based businesses
+HD2337-2339			Sweatshops
+HD2340.8-2346.5			Small and medium-sized businesses, artisans, 
+				handicrafts, trades
+HD2350.8-2356		Large industry.  Factory system.  Big business
+HD2365-2385			Contracting.  Letting of contracts
+HD2421-2429			Trade associations
+HD2709-2930.7			Corporations
+					Including international business enter-
+						prises, diversification, industrial
+						concentration, public utilities
+HD2951-3575			Cooperation.  Cooperative societies
+HD3611-4730.9			Industrial policy.  The state and industrial 
+organization
+					Including licensing of occupations and
+						professions, subsidies, inspection,
+						government ownership, municipal 
+services
+HD4801-8943		Labor.  Work.  Working class
+HD4861-4895			Labor systems
+HD4909-5100.9			Wages
+HD5106-5267			Hours of labor
+					Including overtime, shift work, sick
+						leave, vacations
+HD5306-5474			Labor disputes.  Strikes and lockouts
+HD5481-5630.7			Industrial arbitration.  Mediation  and 
+conciliation
+HD5650-5660			Employee participation in management.  
+				Employee ownership.  Industrial democracy.
+Works councils
+HD5701-6000.9			Labor market.  Labor supply.  Labor demand
+					Including unemployment, manpower policy,
+						occupational training, employment
+						agencies
+HD6050-6305			Classes of labor
+
+					Including women, children, students, 
+						middle-aged and older persons, 
+						minorities
+HD6350-6940.7			Trade unions.  Labor unions.  Workers'
+				associations
+HD6941-6948			Employers' associations
+HD6951-6957			Industrial sociology.  Social conditions of 
+				labor
+HD6958.5-6976			Industrial relations
+HD6977-7080			Cost and standard of living
+HD7088-7252			Social insurance.  Social security.  Pension
+HD7255-7256			Vocational rehabilitation.  Employment of
+people with disabilities
+HD7260-7780.8			Industrial hygiene. Industrial welfare
+HD7795-8027			Labor policy.  Labor and the state
+HD8031			Labor in politics.  Political activity of the
+working class
+HD8038			Professions (General).  Professional employees
+HD8039			By industry or trade
+HD8045-8943			By region or country
+HD9000-9999		Special industries and trades
+HD9000-9495			Agricultural industries
+HD9502-9502.5			Energy industries.  Energy policy.  Fuel trade
+HD9506-9624			Mineral industries.  Metal trade
+HD9650-9663			Chemical industries
+HD9665-9675			Pharmaceutical industry
+HD9680-9714			Mechanical industries
+					Including electric utilities, electronic 
+						industries, and machinery
+HD9715-9717.5			Construction industry
+HD9720-9975			Manufacturing industries
+HD9999			Miscellaneous industries and trades
+
+Subclass HE
+
+HE1-9990	Transportation and communications
+HE199-199.5		Freight (General)
+HE199.9		Passenger traffic (General)
+HE305-311		Urban transportation
+HE323-328		Transportation geography.  Trade routes
+HE331-380		Traffic engineering.  Roads and highways.  
+				Streets
+HE369-373			Traffic surveys (General)
+HE374-377			Bridges
+HE379-380			Tunnels.  Vehicular tunnels
+HE380.8-971		Water transportation
+HE380.8-560			Waterways
+HE561-971			Shipping
+HE730-943				Merchant marine.  Ocean shipping.  Coastwise
+					shipping
+HE1001-5600		Railroads.  Rapid transit systems
+
+HE5601-5725		Automotive transportation
+				Including trucking, bus lines, and
+					taxicab service
+HE5746-5749		Stage lines
+HE5751-5870		Ferries
+HE5880-5990		Express service
+HE6000-7500		Postal service.  Stamps.  Philately
+HE7511-7549		Pneumatic service
+HE7601-8700.9		Telecommunication industry.  Telegraph
+HE8660-8688			Wireless telegraph.  Radiotelegraphy
+HE8689-8700.95			Radio and television broadcasting
+HE8701-9680.7		Telephone industry
+HE9713-9715		Cellular telephone services industry.  Wireless 
+telephone industry
+HE9719-9721		Artificial satellite telecommunications
+HE9723-9737		Signaling
+HE9751-9756		Messenger service
+HE9761-9900		Air transportation.  Airlines
+
+Subclass HF
+
+HF1-6182	Commerce
+HF294-343		Boards of trade.  Chambers of commerce.
+			Merchants' associations
+HF1014		Balance of trade
+HF1021-1027		Commercial geography.  Economic geography
+HF1040-1054		Commodities.  Commercial products
+HF1701-2701		Tariff.  Free trade.  Protectionism
+HF3000-4055		By region or country
+HF5001-6182		Business
+HF5381-5386			Vocational guidance.  Career devlopment
+HF5387-5387.5			Business ethics
+HF5410-5417.5			Marketing.  Distribution of products
+HF5419-5422			Wholesale trade
+HF5428-5429.6			Retail trade
+HF5429.7-5430.6			Shopping centers.  Shopping malls
+HF5437-5444			Purchasing.  Selling.  Sales personnel.  Sales 
+				executives
+HF5446-5459			Canvassing.  Peddling
+HF5460-5469.5			Department stores.  Mail order business.
+Supermarkets.  Convenience stores
+HF5469.7-5481		 	Markets.  Fairs
+HF5482-5482.4			Secondhand trade
+HF5482.6-5482.65			Black market
+HF5484-5495			Warehouses.  Storage
+HF5520-5541			Office equipment and supplies
+HF5546-5548.6			Office management
+HF5548.7-5548.85			Industrial psychology
+HF5549-5549.5			Personnel management.  Employment 
+				management
+HF5601-5689			Accounting.  Bookkeeping
+
+HF5691-5716			Business mathematics.  Commercial arithmetic
+					Including tables, etc.
+HF5717-5734.7			Business communication
+					Including business report writing, 
+						business correspondence
+HF5735-5746			Business records management
+HF5761-5780			Shipment of goods.  Delivery of goods
+HF5801-6182			Advertising
+
+Subclass HG
+
+HG1-9999	Finance
+HG178		Liquidity
+HG179		Personal finance
+HG201-1496		Money
+HG258-312			Precious metals.  Bullion
+HG315			Small coins
+HG321-329			Mints.  Assaying
+HG335-339			Counterfeiting
+HG348-353.5			Paper money
+HG361-363			Legal tender
+HG381-395			International coinage
+HG401-421			Bimetallism
+HG451-1496			By region or country
+HG1501-3550		Banking
+HG1621-1638			Interest rates.  Interest tables
+HG1641-1643			Bank loans.  Bank credit.  Commercial loans
+HG1651-1654			Discount
+HG1655			Acceptances
+HG1656			Bank reserves.  Bank liquidity.  Loan loss 
+reserves
+HG1660			Bank accounts.  Bank deposits.  Deposit 
+banking
+HG1662			Insurance of deposits.  Deposit insurance
+HG1685-1704			Drafts.  Checks
+HG1706-1708			Accounting.  Bookkeeping
+HG1709			Data processing
+HG1710-1710.5			Electronic funds transfers
+HG1722			Bank mergers
+HG1723			Bank stocks.  Banking as an investment
+HG1725-1778			Banks and the state.  State supervision of
+				banks
+HG1811-2351			Special classes of banks and financial
+				institutions
+HG2397-3550			By region or country
+HG3691-3769		Credit.  Debt.  Loans
+				Including credit institutions, credit
+					instruments, consumer credit, bank-
+					ruptcy
+HG3810-4000		Foreign exchange.  International finance.
+International monetary system
+
+HG4001-4285		Finance management.  Business finance.
+			Corporation finance
+HG4301-4480.9		Trust services.  Trust companies
+HG4501-6051		Investment, capital formation, speculation
+HG4530			Investment companies.  Investment trusts.  
+Mutual funds
+HG4538			Foreign investments
+HG4551-4598			Stock exchanges
+HG4621			Stockbrokers.  Security dealers.  Investment 
+advisers
+HG4701-4751			Government securities.  Industrial securities.
+Venture capital
+HG4900-5993			By region or country
+HG6001-6051			Speculation
+HG6105-6270.9		Lotteries
+HG8011-9999		Insurance
+HG8053.5-8054.45			Insurance for professions.  Malpractice
+				insurance.  Professional liability insurance
+HG8059			Business insurance
+HG8075-8107			Insurance business.  Insurance management
+HG8111-8123			Government policy.  State supervision
+HG8205-8220			Government insurance
+HG8501-8745			By region or country
+HG8751-9295			Life insurance
+HG8779-8793				Actuarial science.  Statistical theory and
+					methodology applied to insurance
+HG8799-8830				By class insured, by risk, by plan
+HG8835-8899				Life insurance business.  Management
+HG8901-8914				Government policy.  State supervision
+HG8941-9200.5				By region or country
+HG9201-9245				Mutual life insurance.  Assessment life
+					insurance.  Fraternal life insurance
+HG9251-9262				Industrial life insurance
+HG9271				Child insurance.  Life insurance for
+					children
+HG9291-9295			Maternity insurance
+HG9301-9343			Accident insurance
+HG9371-9399			Health insurance
+HG9651-9899			Fire insurance
+HG9956-9969			Casualty insurance
+HG9969.5-9999			Other insurance
+					Including automobile, burglary, credit,
+						disaster, title insurance
+
+Subclass HJ
+
+HJ9-9940	Public finance
+HJ9-99.8		Periodicals.  Serials.  By region or country
+HJ210-240		History
+HJ241-1620		By region or country
+HJ2005-2216		Income and expenditure.  Budget
+
+HJ2240-5908		Revenue.  Taxation.  Internal revenue
+HJ2321-2323			Tax incidence.  Tax shifting.  Tax equity
+HJ2326-2327			Progressive taxation
+HJ2336-2337			Tax exemption
+HJ2338			Taxation of government property
+HJ2351			Inflation and taxation
+HJ2351.4			Tax revenue estimating
+HJ2361-3192.7			By region or country      
+HJ3801-3844			Revenue from sources other than taxation
+HJ3863-3925			Direct taxation
+HJ4113-4601			Property tax
+HJ4629-4830			Income tax
+HJ4919-4936			Capitation.  Poll tax
+HJ5309-5510			Administrative fees.  User charges.  
+License fees
+HJ6603-7390		Customs administration
+HJ7461-7980		Expenditures.  Government spending
+HJ8001-8899		Public debts
+HJ8052			Sinking funds.  Amortization
+HJ8101-8899			By region or country
+HJ9103-9695		Local finance.  Municipal finance
+				Including the revenue, budget, expenditure, 
+					etc. of counties, boroughs, communes, 
+					municipalities, etc.
+HJ9701-9940		Public accounting.  Auditing
+
+Subclass HM
+
+HM(1)-1281	Sociology
+(HM1-299)		These are obsolete numbers no longer used
+			by the Library of Congress
+HM435-477		History of sociology.  History of sociological
+theory
+HM461-473			Schools of sociology.  Schools of social thought
+HM481-554		Theory.  Method.  Relations to other subjects
+HM621-656		Culture
+HM661-696		Social control
+HM701		Social systems
+HM706		Social structure
+HM711-806		Groups and organizations
+HM756-781			Community
+HM786-806			Organizational sociology.  Organization theory
+HM811-821		Deviant behavior.  Social deviance
+HM826		Social institutions
+HM831-901		Social change
+HM1001-1281		Social psychology
+HM1041-1101			Social perception.  Social cognition
+Including perception of the self and
+others, prejudices, stereotype
+HM1106-1171			Interpersonal relations.  Social behavior
+HM1176-1281			Social influence.  Social pressure
+
+
+Subclass HN
+
+HN1-995	Social history and conditions.  Social problems.
+Social reform
+HN30-39		The church and social problems
+HN41-46		Community centers.  Social centers
+HN50-995		By region or country
+
+Subclass HQ
+
+HQ1-2044	The Family.  Marriage.  Women
+HQ12-449		Sexual life
+HQ19-30.7			Sexual behavior and attitudes.  Sexuality
+HQ31-64			Sex instruction and sexual ethics
+HQ71-72			Sexual deviations
+HQ74-74.2			Bisexuality
+HQ75-76.8			Homosexuality.  Lesbianism
+HQ77-77.2			Transvestism
+HQ77.7-77.95			Transexualism
+HQ79			Sadism.  Masochism.  Fetishism, etc.
+HQ101-440.7			Prostitution
+HQ447			Masturbation
+HQ449			Emasculation.  Eunuchs, etc.
+HQ450-472		Erotica
+HQ503-1064		The family.  Marriage.  Home
+HQ750-755.5			Eugenics
+HQ755.7-759.92			Parents.  Parenthood
+					Including parent and child, husbands,
+						fathers, wives, mothers
+HQ760-767.7			Family size
+HQ767.8-792.2			Children.  Child development
+					Including child rearing, child life,
+						play, socialization, children's rights
+HQ793-799.2			Youth.  Adolescents.  Teenagers
+HQ799.5-799.9			Young men and women
+HQ799.95-799.97			Adulthood
+HQ800-800.4			Single people
+HQ801-801.83			Man-woman relationships.  Courtship.  Dating
+HQ802			Matrimonial bureaus.  Marriage brokerage
+HQ802.5			Matrimonial advertisements
+HQ803			Temporary marriage.  Trial marriage.
+				Companionate marriage
+HQ804			Breach of promise
+HQ805			Desertion
+HQ806			Adultery
+HQ811-960.7			Divorce
+HQ961-967			Free love
+HQ981-996			Polygamy
+HQ997			Polyandry
+HQ998-999			Illegitimacy.  Unmarried mothers
+HQ1001-1006			The state and marriage
+
+HQ1051-1057			The church and marriage
+HQ1058-1058.5			Widows and widowers.  Widowhood
+HQ1060-1064			Aged.  Gerontology (Social aspects).  
+				Retirement
+HQ1073-1073.5		Thanatology.  Death.  Dying
+HQ1075-1075.5		Sex role
+HQ1088-1090.7		Men
+HQ1101-2030.7		Women.  Feminism
+HQ1871-2030.7			Women's clubs
+HQ2035-2039		Life skills.  Coping skills.  Everyday living 
+			skills
+HQ2042-2044		Life style
+
+Subclass HS
+
+HS1-3371	Societies: secret, benevolent, etc.
+HS101-330.7		Secret societies
+HS351-929		Freemasons
+HS951-1179		Odd Fellows
+HS1201-1350		Knights of Pythias
+HS1355		Other societies
+HS1501-2460.7		Other societies.  By classes
+HS1501-1510			Benevolent and "friendly" societies and
+				mutual assessment fraternities
+HS1525-1560			Religious societies
+HS1601-2265			Race societies
+HS2275			Occupation societies
+HS2301-2460.7			Political and "patriotic" societies
+HS2501-3371		Clubs.  Clubs and societies for special classes
+				Including boys' societies, Boy scouts,
+					girls' societies
+
+Subclass HT
+
+HT51-1595	Communities.  Classes.  Races
+HT51-65		Human settlements.  Communities
+HT101-395		Urban groups.  The city.  Urban sociology
+HT161-165			Garden cities.  "The city beautiful"
+HT165.5-169.9			City planning
+HT170-178			Urban renewal.  Urban redevelopment
+HT201-221			City population
+					Including children in cities, immigration
+HT231			Effect of city life
+HT251-265			Mental and moral life
+HT281			Recreation.  Amusements
+HT321-325			The city as an economic factor.  City 
+				promotion
+HT330-334			Metropolitan areas
+HT351-352			Suburban cities and towns
+HT361-384			Urbanization.  City and country
+HT388			Regional economics.  Space in economics
+
+HT390-395			Regional planning
+HT401-485		Rural groups.  Rural sociology
+HT601-1445		Classes
+HT621-635			Origin of social classes
+HT641-657			Classes arising from birth
+					Including royalty, nobility, commons
+HT675-690			Classes arising from occupation
+HT713-725			Caste system
+HT731			Freedmen
+HT751-815			Serfdom
+HT851-1445			Slavery
+HT1501-1595		Races
+				Including race as a social group and race
+					relations in general
+Subclass HV
+
+HV1-9960	Social pathology.  Social and public welfare.
+			Criminology
+HV40-69		Social service.  Social work.  Charity
+			organization and practice
+				Including social case work, private and
+					public relief, institutional care,
+					rural social work, work relief
+HV85-525		By region or country
+HV530		The church and charity
+HV541		Women and charity
+HV544		Charity fairs, bazaars, etc.
+HV544.5		International social work
+HV547		Self-help groups
+HV551.2-639		Emergency management
+HV553-639			Relief in case of disasters
+HV560-583				Red Cross.  Red Crescent
+HV599-639				Special types of disasters
+HV640-645		Refugee problems
+HV650-670		Life saving
+HV675-677		Accidents.  Prevention of accidents
+HV680-696		Free professional services
+				Including medical charities
+HV697-4959		Protection, assistance and relief
+HV697-3024			Special classes
+HV697-700.7				Families.  Mothers.  Widow's ­pensions
+HV701-1420.5				Children
+HV835-847					Foundlings
+HV873-887					Destitute, neglected, and abandoned
+						children.  Street children
+HV888-907					Children with disabilities
+HV931-941					Fresh-air funds
+HV959-1420.5					Orphanages.  Orphans
+HV1421-1441				Young adults.  Youth.  Teenagers
+HV1442-1448				Women
+HV1449				Gay men.  Lesbians
+
+HV1450-1494				Aged
+HV1551-3024				People with disabilities
+						Including blind, deaf, ­people with
+physical and mental disabilities
+HV3025-3174			Special classes.  By occupation
+HV3025-3163				Mariners
+HV3165-3173				Shop women, clerks, etc.
+HV3174				Other.  By occupation
+HV3176-3199			Special classes.  By race or ethnic group
+HV4005-4013			Immigrants
+HV4023-4470.7			Poor in cities.  Slums
+HV4480-4630			Mendicancy.  Vagabondism.  Tramps.  
+				Homelessness
+HV4701-4890.9			Protection of animals.  Animal rights.  Animal
+				welfare
+HV4905-4959			Animal experimentation.  Anti-vivisection
+HV4961-4995		Degeneration
+HV5001-5720.5		Alcoholism.  Intemperance.  Temperance reform
+HV5725-5770		Tobacco habit
+HV5800-5840		Drug habits.  Drug abuse
+HV6001-7220.5		Criminology
+HV6035-6197			Criminal anthropology
+					Including criminal types, criminal
+						psychology, prison psychology, causes
+						of crime
+HV6201-6249			Criminal classes
+HV6250-6250.4			Victims of crimes.  Victimology
+HV6251-6773.55			Crimes and offenses
+HV6774-7220.5			Crimes and criminal classes
+HV7231-9960		Criminal justice administration
+HV7428			Social work with delinquents and criminals
+HV7431			Prevention of crime, methods, etc.
+HV7435-7439			Gun control
+HV7551-8280.7			Police.  Detectives.  Constabulary
+HV7935-8025				Administration and organization
+HV8031-8080				Police duty.  Methods of protection
+HV8035-8069					Special classes of crimes, offenses
+						and criminals
+HV8073-8079.35					Investigation of crimes.  Examination
+						and identification of prisoners
+HV8079.2-8079.35					Police social work
+HV8079.5-8079.55					Traffic control.  Traffic accident
+						investigation
+HV8081-8099				Private detectives.  Detective bureaus
+HV8130-8280.7				By region or country
+HV8290-8291			Private security services
+HV8301-9920.7			Penology.  Prisons.  Corrections
+HV9051-9230.7				The juvenile offender.  Juvenile delinquency.
+					Reform schools, etc.
+HV9261-9430.7				Reformation and reclamation of adult 
+prisoners
+
+HV9441-9920.7				By region or country
+HV9950-9960			By region or country
+
+Subclass HX
+
+HX1-970.7	Socialism.  Communism.  Anarchism
+HX519-550		Communism/socialism in relation to special 
+			topics
+HX626-696		Communism: Utopian socialism, collective
+			settlements
+HX806-811		Utopias.  The ideal state
+HX821-970.9		Anarchism

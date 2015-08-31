@@ -1,0 +1,315 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS R - MEDICINE
+
+Subclass R
+
+R5-920	Medicine (General)
+R5-130.5		General works
+R131-687		History of medicine.  Medical expeditions
+R690-697		Medicine as a profession.  Physicians
+R702-703		Medicine and the humanities.  Medicine and disease in relation to
+history, literature, etc.
+R711-713.97		Directories
+R722-722.32		Missionary medicine.  Medical missionaries
+R723-726		Medical philosophy.  Medical ethics
+R726.5-726.8		Medicine and disease in relation to psychology.  Terminal care.  Dying
+R727-727.5		Medical personnel and the public.  Physician and the public
+R728-733		Practice of medicine.  Medical practice economics
+R735-854		Medical education.  Medical schools.  Research
+R855-855.5		Medical technology
+R856-857		Biomedical engineering.  Electronics.  Instrumentation
+R858-859.7		Computer applications to medicine.  Medical informatics
+R864		Medical records
+R895-920		Medical physics.  Medical radiology.  Nuclear medicine
+
+Subclass RA
+
+RA1-1270	Public aspects of medicine
+RA1-418.5		Medicine and the state
+RA396			Regulation of medical education.  Licensure
+RA398			Registration of physicians, pharmacists, etc.
+RA399			Regulation of medical practice.  Evaluation and quality control
+of medical care.  Medical audit
+RA405			Death certification
+RA407-409.5			Health status indicators.  Medical statistics and surveys
+RA410-410.9			Medical economics.  Economics of medical care.  Employment
+RA411-415			Provisions for personal medical care.  Medical care plans
+RA418-418.5			Medicine and society.  Social medicine.  Medical sociology
+RA421-790.95		Public health.  Hygiene.  Preventive medicine
+RA428-428.5			Public health laboratories, institutes, etc.
+RA440-440.87			Study and teaching.  Research
+RA565-600			Environmental health
+Including sewage disposal, air pollution, nuisances,
+water supply
+RA601-602			Food and food supply in relation to public health
+RA604-618			Parks, public baths, public carriers, buildings, etc.
+RA619-637			Disposal of the dead.  Undertaking.  Burial.  Cremation. 
+Cemeteries
+RA638			Immunity and immunization in relation to public health
+RA639-642			Transmission of disease
+
+RA643-645			Disease (Communicable and noninfectious) and public health
+RA645.3-645.37			Home health care services
+RA645.5-645.9			Emergency medical services
+RA646-648.3			War and public health
+RA648.5-767			Epidemics.  Epidemiology.  Quarantine.  Disinfection
+RA771-771.7			Rural health and hygiene.  Rural health services
+RA773-788			Personal health and hygiene
+Including clothing, bathing, exercise, travel, nutrition,
+sleep, sex hygiene
+RA790-790.95			Mental health.  Mental illness prevention
+RA791-954		Medical geography.  Climatology.  Meteorology
+RA960-1000.5		Medical centers.  Hospitals.  Dispensaries.  Clinics
+Including ambulance service, nursing homes, hospices
+RA1001-1171		Forensic medicine.  Medical jurisprudence.  Legal medicine
+RA1190-1270		Toxicology.  Poisons
+
+Subclass RB
+
+RB1-214	Pathology
+RB1-17		General works
+RB24-33		Pathological anatomy and histology
+RB37-56.5		Clinical pathology.  Laboratory technique
+RB57		Post-mortem examination.  Autopsies
+RB127-150		Manifestations of disease
+RB151-214		Theories of disease.  Etiology.  Pathogenesis
+
+Subclass RC
+
+RC31-1245	Internal medicine
+RC49-52		Psychosomatic medicine
+RC71-78.7		Examination.  Diagnosis
+Including raiography
+RC81-82		Popular medicine
+RC86-88.9		Medical emergencies.  Critical care.  Intensive care.  First aid
+RC91-103		Disease due to physical and chemical agents
+RC109-216		Infectious and parasitic diseases
+RC251		Constitutional diseases (General)
+RC254-282		Neoplasms.  Tumors.  Oncology
+Including cancer and carcinogens
+RC306-320.5		Tuberculosis
+RC321-571		Neurosciences.  Biological psychiatry.  Neuropsychiatry
+RC346-429			Neurology.  Diseases of the nervous system
+Including speech disorders
+RC435-571				Psychiatry
+RC475-489					Therapeutics.  Psychotherapy
+RC490-499					Hypnotism and hypnosis.  Suggestion therapy
+RC500-510					Psychoanalysis
+RC512-569.5					Psychopathology
+RC512-528						Psychoses
+RC530-552						Neuroses
+RC554-569.5						Personality disorders.  Behavior problems
+
+Including sexual problems, drug abuse,
+suicide, child abuse
+RC569.7-571					Mental retardation.  Developmental disabilities
+RC581-951		Specialties of internal medicine
+RC581-607			Immunologic diseases.  Allergy
+RC620-627			Nutritional diseases.  Deficiency diseases
+RC627.5-632			Metabolic diseases
+RC633-647.5			Diseases of the blood and blood-forming organs
+RC648-665			Diseases of the endocrine glands.  Clinical endocrinology
+RC666-701			Diseases of the circulatory (Cardiovascular) system
+RC705-779			Diseases of the respiratory system
+RC799-869			Diseases of the digestive system.  Gastroenterology
+RC870-923			Diseases of the genitourinary system.  Urology
+RC924-924.5			Diseases of the connective tissues
+RC925-935			Diseases of the musculoskeletal system
+RC952-1245		Special situations and conditions
+RC952-954.6			Geriatrics
+RC955-962			Arctic medicine.  Tropical medicine
+RC963-969			Industrial medicine.  Industrial hygiene
+RC970-986			Military medicine.  Naval medicine
+RC1000-1020			Submarine medicine
+RC1030-1160			Transportation medicine
+Including automotive, aviation, and space medicine
+RC1200-1245			Sports medicine
+
+Subclass RD
+
+RD1-811	Surgery
+RD1-31.7		General works
+RD32-33.9		Operative surgery.  Technique of surgical operations
+RD49-52		Surgical therapeutics.  Preoperative and postoperative care
+RD57		Surgical pathology
+RD58		Reparative processes after operations (Physiological)
+RD59		Surgical shock.  Traumatic shock
+RD63-76		Operating rooms and theaters.  Instruments, apparatus, and
+appliances
+RD78.3-87.3		Anesthesiology
+RD91-91.5		Asepsis and antisepsis.  Sterilization (Operative)
+RD92-97.8		Emergency surgery.  Wounds and injuries
+RD98-98.4		Surgical complications
+RD99-99.35		Surgical nursing
+RD101-104		Fractures (General)
+RD118-120.5		Plastic surgery.  Reparative surgery
+RD120.6-129.8		Transplantation of organs, tissues, etc.
+RD130		Prosthesis.  Artificial organs
+RD137-145		Surgery in childhood, adolescence, pregnancy, old age
+RD151-498		Military and naval surgery
+RD520-599.5		Surgery by region, system, or organ
+RD651-678		Neoplasms.  Tumors.  Oncology
+RD680-688		Diseases of the locomotor system (Surgical treatment)
+RD701-811		Orthopedic surgery
+
+RD792-811			Physical rehabilitation
+
+Subclass RE
+
+RE1-994	Ophthalmology
+RE75-79		Examination.  Diagnosis
+RE80-87		Eye surgery
+RE88		Ophthalmic nursing
+RE89		Eye banks
+RE91-912		Particular diseases of the eye
+RE918-921		Color vision tests, charts, etc.
+RE925-939		Refraction and errors of refraction and accommodation
+RE939.2-981		Optometry.  Opticians.  Eyeglasses
+RE986-988		Artificial eyes and other prostheses
+RE991-992		Ocular therapeutics
+
+Subclass RF
+
+RF1-547	Otorhinolaryngology
+RF110-320		Otology.  Diseases of the ear
+RF341-437		Rhinology.  Diseases of the nose, accessory sinuses, and nasopharynx
+RF460-547		Laryngology.  Diseases of the throat
+
+Subclass RG
+
+RG1-991	Gynecology and obstetrics
+RG104-104.7		Operative gynecology
+RG133-137.6		Conception.  Artificial insemination.  Contraception
+RG138		Sterilization of women
+RG159-208		Functional and systemic disorders.  Endocrine gynecology
+RG211-483		Abnormalities and diseases of the female genital organs
+RG484-485		Urogynecology and obstetric urology.  Urogynecologic surgery
+RG491-499		Diseases of the breast
+RG500-991		Obstetrics
+RG551-591			Pregnancy
+RG600-650			The embryo and fetus
+RG648				Spontaneous abortion.  Miscarriage
+RG651-721			Labor.  Parturition
+RG725-791			Obstetric operations.  Operative obstetrics
+RG801-871			Puerperal state
+RG940-991			Maternal care.  Prenatal care services
+
+Subclass RJ
+
+RJ1-570	Pediatrics
+RJ47.3-47.4		Genetic aspects
+RJ50-51		Examination.  Diagnosis
+RJ52-53		Therapeutics
+RJ59-60		Infant and neonatal morbidity and mortality
+RJ91		Supposed prenatal influence.  Prenatal culture.  Stirpiculture
+
+RJ101-103		Child health.  Child health services
+RJ125-145		Physiology of children and adolescents
+RJ206-235		Nutrition and feeding of children and adolescents
+RJ240		Immunization of children (General)
+RJ242-243		Hospital care
+RJ245-247		Nursing of children.  Pediatric nursing
+RJ250-250.3		Premature infants
+RJ251-325		Newborn infants
+Including physiology, care, treatment, diseases
+RJ370-550		Diseases of children and adolescents
+RJ499-507			Mental disorders.  Child psychiatry
+
+Subclass RK
+
+RK1-715	Dentistry
+RK58-59.3		Practice of dentistry.  Dental economics
+RK60.7-60.8		Preventive dentistry
+RK280		Oral and dental anatomy and physiology
+RK301-493		Oral and dental medicine.  Pathology.  Diseases
+RK501-519		Operative dentistry.  Restorative dentistry
+RK520-528		Orthodontics
+RK529-535		Oral surgery
+RK641-667		Prosthetic dentistry.  Prosthodontics
+
+Subclass RL
+
+RL1-803	Dermatology
+RL87-94		Care and hygiene
+RL95		Pathological anatomy
+RL110-120		Therapeutics
+RL130-169		Diseases of the glands, hair, nails
+RL201-331		Hyperemias, inflammations, and infections of the skin
+RL391-489		Atrophies.  Hypertrophies
+RL675		Chronic ulcer of the skin.  Bedsores
+RL701-751		Diseases due to psychosomatic and nerve disorders.
+Dermatoneuroses
+RL760-785		Diseases due to parasites
+RL790		Pigmentations.  Albinism
+RL793		Congenital disorders of the skin.  Nevi.  Moles
+
+Subclass RM
+
+RM1-950	Therapeutics.  Pharmacology
+RM138		Drug prescribing
+RM139		Prescription writing
+RM146-146.7		Misuse of therapeutic drugs.  Medication errors
+RM147-180		Administration of drugs and other therapeutic agents
+RM182-190		Other therapeutic procedures
+Including acupuncture, pneumatic aspiration, spinal
+puncture, pericardial puncture
+
+RM214-258		Diet therapy.  Dietary cookbooks
+RM259		Vitamin therapy
+RM260-263		Chemotherapy
+RM265-267		Antibiotic therapy.  Antibiotics
+RM270-282		Immunotherapy.  Serotherapy
+RM283-298		Endocrinotherapy.  Organotherapy
+RM300-666		Drugs and their actions
+RM671-671.5		Nonprescription drugs.  Patent medicines
+RM695-893		Physical medicine.  Physical therapy
+Including massage, exercise, occupational therapy,
+hydrotherapy, phototherapy, radiotherapy,
+thermotherapy, electrotherapy
+RM930-931		Rehabilitation therapy
+RM950		Rehabilitation technology
+
+Subclass RS
+
+RS1-441	Pharmacy and materia medica
+RS125-131.9		Formularies.  Collected prescriptions
+RS139-141.9		Pharmacopoeias
+RS151.2-151.9		Dispensatories
+RS153-441		Materia medica
+RS160-167			Pharmacognosy.  Pharmaceutical substances (Plant, animal, and
+inorganic)
+RS189-190			Assay methods.  Standardization.  Analysis
+RS192-199			Pharmaceutical technology
+RS200-201			Pharmaceutical dosage forms
+RS250-252			Commercial preparations.  Patent medicines
+RS355-356			Pharmaceutical supplies
+RS400-431			Pharmaceutical chemistry
+RS441			Microscopical examination of drugs
+
+Subclass RT
+
+RT1-120	Nursing
+RT89-120		Specialties in nursing
+
+Subclass RV
+
+RV1-431	Botanic, Thomsonian, and eclectic medicine
+
+Subclass RX
+
+RX1-681	Homeopathy
+RX211-581		Diseases, treatment, etc.
+RX601-675		Materia medica and therapeutics
+
+Subclass RZ
+
+RZ201-999	Other systems of medicine
+
+RZ201-275		Chiropractic
+RZ301-397.5		Osteopathy
+RZ399		Osteo-magnetics, neuropathy, etc., A-Z
+RZ400-408		Mental healing
+RZ409.7-999		Miscellaneous systems and treatments
+Including magnetotherapy, mesmerism, naturopathy,
+organomic medicine, phrenology, radiesthesia

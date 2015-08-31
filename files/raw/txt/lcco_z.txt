@@ -1,0 +1,145 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS Z - BIBLIOGRAPHY.  LIBRARY SCIENCE.
+INFORMATION RESOURCES (GENERAL)
+
+Subclass Z
+
+Z4115.5	Books (General).  Writing.  Paleography
+Z48		History of books and bookmaking
+Z40104.5		Writing
+Z4142.5			Autographs.  Signatures
+Z4345			Calligraphy.  Penmanship
+Z48			Duplicating processes.  Copying services
+Including mimeographing, multilithing
+Z4951.5			Typewriters.  Typewriting.  Keyboards.  Keyboarding
+Z5252.5			Word processing
+Z53102			Shorthand.  Stenography.  Phonography
+Z102.5104.5		 	Cryptography.  Ciphers.  Invisible writing
+Z105115.5		Manuscripts.  Paleography
+Z116659	Book industries and trade
+Z116.A2		Treatises on the modern printed book
+Z116.A3		Book design
+Z116.A5265.5		Printing
+Z124228			History
+Z231234			Printers and printing establishments
+Z234				Medallic history of printing.  Tokens
+Z235236			Printer's marks, mottoes, etc.
+Z237			Paper.  Watermarks, etc.
+Z240241.5			Incunabula.  Block books
+Including broadsides, playing cards
+Z242.9264.5			Practical printing
+Including printing as a business, layout, paper and ink,
+machinery, type and type founding, electrotyping,
+desktop publishing, typesetting, presswork
+Z265265.5			Representation or reproduction of books, documents,
+etc., by photography, microphotography, or other
+means
+Z266276		Bookbinding.  Book decoration
+Z278549		Bookselling and publishing
+Z551656		Copyright
+Z657659		Freedom of the press.  Censorship
+Z6621000.5	Libraries
+Z662664		Collections
+Z665718.8		Library science.  Information science
+Z668669.7			Library education.  Research
+Z672Z672.13			Library cooperation and coordination
+Z674.7674.83			Library information networks
+Z675			Classes of libraries
+Z678678.88			Library administration and organization.  Constitution
+Z678.89678.892			Library service agencies
+
+Z678.9Z678.93			Automation
+Z679680			Library buildings.  Library architecture
+Including planning, space utilization, security, safety,
+lighting, etc.
+Z680.3680.6			Library communication systems
+Z681681.3			Reproduction of library materials.  Storage media of
+library materials
+Z681.5681.7			Trustees.  Library boards, committees, etc.
+Z682682.4			Personnel
+Z683683.5			Finance.  Insurance
+Z684685			Supplies.  Shelving.  Bookstacks
+Z686			Branches.  Delivery stations.  Bookmobiles
+Z687718.85			The collections.  The books
+Z688				Special collections
+Z688.5Z688.6				Processing
+Z689689.8				Acquisition (selection, purchase, gifts, duplicates)
+Z690				Exchanges
+Z691692				Special classes of materials
+Including manuscripts, maps, microforms, serials
+Z693695.83				Cataloging
+Z695.85				Library handwriting
+Z695.87				Printing of catalogs
+Z695.9695.94				Indexing.  Abstracting
+Z695.95				Alphabetizing.  Filing
+Z695.98				Recataloging.  Reclassification
+Z696697				Classification and notation
+Z698				Shelflisting.  Author notation
+Z699699.5				Machine methods of information and retrieval.
+Mechanized bibliographic control
+Z699.7				Physical processing.  Shelf preparation
+Z700				Bookbinding
+Z700.9701.5				Physical parameters, preservation, conservation and
+restoration of books and other library materials
+Z702				Thefts and losses of books and other library materials
+Z703.5				Stack management. Disposition of books on shelves,
+etc.
+Z703.6				Discarding.  Weeding
+Z711711.95			Public services.  Reference services
+Z712714			Circulation.  Loans.  Charging systems
+Z716716.15			Library extension.  Library commissions.  Traveling
+libraries
+Z716.2718.85			Libraries in relation to special topics
+Including libraries and community, libraries and
+television, children's libraries, libraries and
+students
+Z719723		Libraries (General)
+Z729875		Library reports.  History.  Statistics
+Z881977		Library catalogs and bulletins
+Z987996.3		Book collecting
+Including bibliophilism, bookplates
+Z997-997.2		Private libraries
+
+Z9991000.5		Booksellers' catalogs
+Z10011121	General bibliography
+Z1001		Introduction to bibliography. Theory, philosophy,
+psychology. Bibliography. Documentation
+Z10031003.5		Choice of books.  Books and reading.  Book reviews
+Z1003.8Z1004		Biography of bibliographers
+Z10111017		General bibliographies
+Z10191033		Special classes of books
+Including prohibited books, rare books, paperbacks,
+reprints
+Z10351035.9		Best books
+Z1036		Booksellers' general catalogs of modern books
+Z10371039		Books for special classes of persons, institutions, etc.
+Z10411107		Anonyms and pseudonyms
+Z12014980	National bibliography
+Z12011946		America
+Z12151363			United States
+Z13651401			Canada.  British North America
+Z14111939			Mexico.  Central America.  West Indies.  South America
+Z1975		Eastern Hemisphere
+Z20002959		Europe
+Z30013496		Asia
+Z35013975		Africa
+Z40014980		Australia.  Oceania
+Z50517999	Subject bibliography
+Subjects arranged in alphabetical sequence
+Z80018999	Personal bibliography
+Names of individuals arranged in alphabetical sequence
+
+Subclass ZA
+
+ZA30385190 	Information resources (General)
+ZA31503159 		Information services. Information centers
+ZA32013250 		Information superhighway
+ZA40504775 		Information in specific formats or media
+ZA40504480 			Electronic information resources
+ZA41504380 				Computer network resources
+ZA44504460 				Databases
+ZA45504575			Motion pictures. Video recordings
+ZA46504675 			Pictures. Photographs
+ZA47504775 			Sound recordings
+ZA50495190 		Government information

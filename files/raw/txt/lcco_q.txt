@@ -1,0 +1,179 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS Q - SCIENCE
+
+Subclass Q
+
+Q1-390	Science (General)
+Q1-295		General
+Q300-390		Cybernetics
+Q350-390			Information theory
+
+Subclass QA
+
+QA1-939	Mathematics
+QA1-43		General
+QA47-59		Tables
+QA71-90		Instruments and machines
+QA75-76.95			Calculating machines
+QA75.5-76.95			Electronic computers.  Computer science
+QA76.75-76.765				Computer software
+QA101-(145)		Elementary mathematics.  Arithmetic
+QA150-272.5		Algebra
+QA273-280		Probabilities.  Mathematical statistics
+QA299.6-433		Analysis
+QA440-699		Geometry.  Trigonometry.  Topology
+QA801-939		Analytic mechanics
+
+Subclass QB
+
+QB1-991	Astronomy
+QB1-139		General
+QB140-237		Practical and spherical astronomy
+QB275-343		Geodesy
+QB349-421		Theoretical astronomy and celestial mechanics
+QB455-456		Astrogeology
+QB460-466		Astrophysics
+QB468-480		Non-optical methods of astronomy
+QB495-903		Descriptive astronomy
+QB500.5-785			Solar system
+QB799-903			Stars
+QB980-991		Cosmogony.  Cosmology
+
+Subclass QC
+
+QC1-999	Physics
+QC1-75		General
+QC81-114		Weights and measures
+QC120-168.85		Descriptive and experimental mechanics
+QC170-197		Atomic physics.  Constitution and properties of matter
+
+Including molecular physics, relativity, quantum theory, and
+solid state physics
+QC221-246		Acoustics.  Sound
+QC251-338.5		Heat
+QC310.15-319			Thermodynamics
+QC350-467		Optics.  Light
+QC450-467			Spectroscopy
+QC474-496.9		Radiation physics (General)
+QC501-766		Electricity and magnetism
+QC501-(721)			Electricity
+QC669-675.8				Electromagnetic theory
+QC676-678.6				Radio waves (Theory)
+QC701-715.4				Electric discharge
+QC717.6-718.8				Plasma physics.  Ionized gases
+QC750-766			Magnetism
+QC770-798		Nuclear and particle physics.  Atomic energy.  Radioactivity
+QC793-793.5			Elementary particle physics
+QC794.95-798			Radioactivity and radioactive substances
+QC801-809		Geophysics.  Cosmic physics
+QC811-849		Geomagnetism
+QC851-999		Meteorology.  Climatology
+Including the earth's atmosphere
+QC974.5-976			Meteorological optics
+QC980-999			Climatology and weather
+QC994.95-999				Weather forecasting
+
+Subclass QD
+
+QD1-999	Chemistry
+QD1-65		General
+Including alchemy
+QD71-142		Analytical chemistry
+QD146-197		Inorganic chemistry
+QD241-441		Organic chemistry
+QD415-436			Biochemistry
+QD450-801		Physical and theoretical chemistry
+QD625-655			Radiation chemistry
+QD701-731			Photochemistry
+QD901-999		Crystallography
+
+Subclass QE
+
+QE1-996.5	Geology
+QE1-350.62		General
+Including geographical divisions
+QE351-399.2		Mineralogy
+QE420-499		Petrology
+QE500-639.5		Dynamic and structural geology
+QE521-545			Volcanoes and earthquakes
+QE601-613.5			Structural geology
+
+QE640-699		Stratigraphy
+QE701-760		Paleontology
+QE760.8-899.2		Paleozoology
+QE901-996.5		Paleobotany
+
+Subclass QH
+
+QH1-278.5	Natural history (General)
+QH1-(199.5)		General
+Including nature conservation, geographical distribution
+QH201-278.5		Microscopy
+QH301-705.5	Biology (General)
+QH359-425		Evolution
+QH426-470		Genetics
+QH471-489		Reproduction
+QH501-531		Life
+QH540-549.5		Ecology
+QH573-671		Cytology
+QH705-705.5		Economic biology
+
+Subclass QK
+
+QK1-989	Botany
+QK1-474.5		General
+Including geographical distribution
+QK474.8-495		Spermatophyta.  Phanerogams
+QK494-494.5			Gymnosperms
+QK495			Angiosperms
+QK504-(638)		Cryptogams
+QK640-(707)		Plant anatomy
+QK710-899		Plant physiology
+QK900-989		Plant ecology
+
+Subclass QL
+
+QL1-991	Zoology
+QL1-355		General
+Including geographical distribution
+QL360-599.82		Invertebrates
+QL461-599.82			Insects
+QL605-739.8		Chordates.  Vertebrates
+QL614-639.8			Fishes
+QL640-669.3			Reptiles and amphibians
+QL671-699			Birds
+QL700-739.8			Mammals
+QL750-795		Animal behavior
+QL791-795			Stories and anecdotes
+QL799-799.5		Morphology
+QL801-950.9		Anatomy
+QL951-991		Embryology
+
+Subclass QM
+
+QM1-695	Human anatomy	
+QM1-511		General
+QM531-549		Regional anatomy
+QM550-577.8		Human and comparative histology
+QM601-695		Human embryology
+
+Subclass QP
+
+QP1-(981)	Physiology
+QP1-345		General
+Including influence of the environment
+QP351-495		Neurophysiology and neuropsychology
+QP501-801		Animal biochemistry
+QP(901)-(981)		Experimental pharmacology
+
+Subclass QR
+
+QR1-502	Microbiology
+QR1-74.5		General
+QR75-99.5		Bacteria
+QR99.6-99.8		Cyanobacteria
+QR100-130		Microbial ecology
+QR171		Microorganisms in the animal body
+QR180-189.5		Immunology
+QR355-502		Virology

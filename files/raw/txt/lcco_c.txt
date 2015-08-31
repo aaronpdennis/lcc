@@ -1,0 +1,131 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS C - AUXILIARY SCIENCES OF HISTORY
+
+Subclass C
+
+C1-51	Auxiliary Sciences of History (General)
+
+Subclass CB
+
+CB3-482	History of Civilization
+CB156		Terrestrial evidence of interplanetary voyages
+CB158-161		Forecasts of future progress
+CB195-281		Civilization and race
+CB305-430		By period
+CB440-482		Relation to special topics
+CB450			Geography and civilization
+CB478			Technology
+CB481			War and civilization
+CB482			Water and civilization
+
+Subclass CC
+
+CC1-960	Archaeology
+CC72-81		Philosophy.  Theory
+CC73-81			Methodology
+CC83-97		Study and teaching.  Research
+CC135-137		Preservation, restoration, and conservation of antiquities.
+Antiquities and state
+CC140		Forgeries of antiquities
+CC200-260		Bells.  Campanology.  Cowbells
+CC300-350		Crosses
+CC600-605		Boundary stones
+CC700-705		Stone heaps, cairns, etc., of unknown purpose
+CC710		Hill figures
+CC960		Lanterns of the dead
+
+Subclass CD
+
+CD1-6471	Diplomatics.  Archives.  Seals
+CD1-511		Diplomatics
+CD70-79			Practice of special chancelleries
+CD80-81			Formularies
+CD87			Forgeries of documents
+CD91-392			Collection of documents, facsimiles, etc., for study
+CD501-511			Study and teaching
+CD921-4280		Archives
+CD995-4280			History and statistics
+
+CD997				Biography of archivists
+CD1000-4280				By region or country
+CD5001-6471		Seals
+CD5191			Iconography
+CD5201-5391			Ancient
+CD5501-5557			Medieval
+CD5561			Renaissance
+CD5575-6471			Modern
+
+Subclass CE
+
+CE1-97	Technical Chronology.  Calendar
+CE21-46		Ancient
+CE51-85		Medieval and modern
+CE91-92		Perpetual calendars.  Century calendars, etc.
+
+Subclass CJ
+
+CJ1-6661	Numismatics
+CJ1-4625		Coins
+CJ153			Finds of coins
+CJ161			Symbols, devices, etc.
+CJ201-1397			Ancient
+CJ1509-4625			Medieval and modern
+CJ4801-5450		Tokens
+CJ4861-4889			By period
+CJ4901-5336			By region or country
+CJ5350-5450			Special uses of tokens
+CJ5501-6661		Medals and medallions
+CJ5581-5690			Ancient
+CJ5723-5793			Medieval and modern
+CJ5795-6661			By region or country
+
+Subclass CN
+
+CN1-1355	Inscriptions.  Epigraphy
+CN120-740		Ancient inscriptions
+CN750-753		Early Christian inscriptions
+CN755		Medieval inscriptions (General)
+CN760		Modern inscriptions (General)
+CN805-865		By language
+CN870-1355		By region or country
+
+Subclass CR
+
+CR1-6305	Heraldry
+CR51-79		Crests, monograms, devices, badges, mottoes, etc.
+CR91-93		Shields and supporters 
+CR101-115		Flags, banners, and standards
+
+CR191-1020		Public and official heraldry
+CR1101-1131		Ecclesiastical and sacred heraldry
+CR1179-3395		Family heraldry
+CR3499-4420		Titles of honor, rank, precedence, etc.
+CR4480-4485		Royalty.  Insignia.  Regalia, crown and coronets, etc.
+CR4501-6305		Chivalry and knighthood (Orders, decorations, etc.)
+CR4547-4553			Ceremonials, pageants, tournaments, etc.
+CR4571-4595			Duels and dueling
+CR4651-6305			Orders, etc.
+
+Subclass CS
+
+CS1-3090	Genealogy
+CS23-35		Genealogical lists, etc., covering more than one country or continent
+CS38-39		Family history covering more than one country
+CS42-2209		By region or country
+CS2300-3090		Personal and family names
+
+Subclass CT
+
+CT21-9999	Biography
+CT21-22		Biography as an art or literary form
+CT31-83		History of biographical literature.  Lives of biographers
+CT93-206		General collective biography
+CT206			Portraits
+CT210-3150		National biography
+CT3200-9999		Biography.  By subject
+CT3200-3830			Biography of women (Collective)
+CT3990			Academicians.  Scholars. Savants
+CT9960-9998			Other miscellaneous groups
+Including adventurers, eccentrics, misers, etc.
+CT9999			Blank books for personal records, diaries, etc.

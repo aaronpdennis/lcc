@@ -1,0 +1,118 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS V - NAVAL SCIENCE
+
+Subclass V
+
+V1995	Naval science (General)
+V2555		History and antiquities of naval science
+V6669		Navy clubs
+V160165	  	Strategy
+V167178	  	Tactics
+V200		Coast defense
+V210214.5		Submarine warfare
+V390395	  	Naval research
+V396396.5		Military oceanography
+V399		Automation in the naval sciences
+V400695	  	Naval education
+V720743	  	Naval life, manners and customs, antiquities, etc.
+V750995	  	War vessels: Construction, armament, etc.
+
+Subclass VA
+
+VA10750	Navies: Organization, distribution, naval situation
+VA49395		United States
+VA400750	  	Other regions or countries
+
+Subclass VB
+
+VB15(955)	Naval administration
+VB21124		By region or country
+VB170187	  	Civil department
+VB260275	  	Enlisted personnel
+VB307309	  	Warrant officers
+VB310315	  	Officers
+VB320325	  	Minorities, women, etc. in navies
+
+Subclass VC
+
+VC10580	Naval maintenance
+VC20258		Organization of service
+VC260268	  	Supplies and stores
+VC270279	  	Equipment of vessels, supplies, allowances, etc.
+VC280345	  	Clothing and equipment
+VC350410	  	Subsistence.  Provisioning
+VC412425	  	Navy yards and stations.  Shore facilities
+
+Subclass VD
+
+VD7430	Naval seamen
+
+VD21124		By region or country
+VD160302	  	Drill regulations
+VD330335	  	Shooting
+VD360390	  	Small arms
+VD400405	  	Small boat service
+
+Subclass VE
+
+VE7500	Marines
+VE23124		By region or country
+VE160302	  	Drill regulations
+VE330335	  	Shooting
+VE360390	  	Small arms
+VE420425	  	Barracks, quarters, etc.
+VE430435	  	Training camps
+
+Subclass VF
+
+VF1580	Naval ordnance
+VF21124		By region or country
+VF160302	  	Ordnance instructions and drill books
+VF310315	  	Target practice
+VF346348	  	Naval weapons systems
+VF350375	  	Ordnance and arms (General)
+VF390510	  	Ordnance material (Ordnance proper)
+
+Subclass VG
+
+VG202029	Minor services of navies
+VG2025		Chaplains
+VG5055		Coast guard and coast signal service
+VG7085		Naval communication by telegraphy, telephone, etc.
+VG9095		Naval aviation
+VG100475	  	Medical service
+VG500505	  	Public relations.  Press.  War  correspondents
+VG20002005		Social work.  Social welfare services
+VG20202029		Recreation and information service
+
+Subclass VK
+
+VK11661	Navigation.  Merchant marine
+VK15124		History, conditions, etc.
+VK321369.8		Harbors.  Ports
+VK381397	  	Signaling
+VK401529	  	Study and teaching
+VK549572	  	Science of navigation
+VK573587	  	Nautical instruments
+VK588597	  	Marine hydrography.  Hydrographic surveying
+VK600794	  	Tide and current tables
+VK798997	  	Sailing directions.  Pilot guides
+
+VK10001249		Lighthouse service
+VK12501299		Shipwrecks and fires
+VK1299.51299.6		Icebreaking operations
+VK13001491		Saving of life and property
+VK15001661		Pilots and pilotage
+
+Subclass VM
+
+
+VM1989	Naval architecture.  Shipbuilding.  Marine engineering
+VM15124		History
+VM165276		Study and teaching
+VM295296		Contracts and specifications
+VM298.5301		Shipbuilding industry.  Shipyards
+VM311466		Special types of vessels
+VM595989		Marine engineering
+VM975989			Diving

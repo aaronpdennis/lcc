@@ -1,0 +1,148 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS M - MUSIC
+
+Subclass M
+
+M1-5000		Music
+M1-1.A15			Music printed or copied in manuscript in the United States or the colonies before 1860
+M1.A5-3.3			Collections
+M1.A5-Z				Miscellaneous
+M2-2.3				Musical sources
+M3-3.3				Collected works of individual composers
+M5-1480			Instrumental music
+M5				Collections
+M6-175.5				One solo instrument
+M176				Motion picture music
+M176.5				Radio and television music
+M177-990				Two or more solo instruments
+M1000-1075				Orchestra
+M1100-1160				String orchestra
+M1200-1270				Band
+M1350-1366				Other ensembles
+M1375-1420				Instrumental music for children
+M1470-1480				Aleatory music. Electronic music. Mixed media
+M1490			Music printed or copied in manuscript before 1700
+M1495-2199			Vocal music
+M1495				Collections
+M1497-1998				Secular vocal music
+M1497					Collections
+M1500-1527.8					Dramatic music
+M1528-1529.5					Two or more solo voices
+M1530-1609					Choruses
+M1611-1624.8					One solo voice
+M1625-1626					Recitations with music
+M1627-1853					Folk, national and ethnic music
+M1900-1985					Songs of specific groups or on specific topics
+M1990-1998					Secular vocal music for children
+M1999-2199				Sacred vocal music
+M1999					Collections
+M2000-2007					Dramatic music
+M2010-2017.6					Choral services, etc.
+M2018-2019.5					Two or more solo voices
+M2020-2101.5					Choruses
+M2102-2114.8					One solo voice
+
+M2115-2146					Hymnals. Hymn collections
+M2147-2188					Liturgy and ritual
+M2190-2196					Sacred vocal music for children
+M2198-2199					Popular religious and devotional music
+M5000			Unidentified compositions
+
+Subclass ML
+
+ML1-3930		Literature on music
+ML1-5			Periodicals. Serials
+ML12-21			Directories. Almanacs
+ML25-28			Societies and other organizations
+ML29-31			Special collections
+ML32-33			Institutions
+ML35-38			Festivals. Congresses
+ML40-44			Programs
+ML45			Circulars and advertisements
+ML46			Scrapbooks
+ML47-54.8			Librettos. Texts. Scenarios
+ML55-89			Aspects of the field of music as a whole
+ML93-96.5			Manuscript studies and manuscripts
+ML100-109			Dictionaries. Encyclopedias
+ML110-111.5			Music librarianship
+ML112-112.5			Music printing and publishing
+ML112.8-158.8			Bibliography
+ML159-3785			History and criticism
+ML159-161				General works
+ML162-197				By period
+ML198-360.6				By region or country
+ML385-429				Biography
+ML430-458				Composition and performance
+ML459-1380				Instruments and instrumental music
+ML1400-3275				Vocal music
+ML3300-3351				Program music
+ML3400-3465				Dance music
+ML3469-3541				Popular music
+ML3544-3776				Folk, national, and ethnic music
+ML3780				Music on particular topics
+ML3785				Musical journalism
+ML3790-3792			Music trade
+ML3795			Music as a profession. Vocational guidance
+ML3797-3799.5			Musical research
+ML3800-3923			Philosophical and societal aspects of music. Physics and 	acoustics of music. Physiological aspects of music
+ML3800				General works
+
+ML3805-3817				Physics and acoustics
+ML3820				Physiological aspects of music
+ML3830-3840				Psychology 
+ML3845-3877				Aesthetics
+ML3880-3915				Criticism
+ML3916-3918				Social and political aspects of music
+ML3919-3920				Moral influence of music.  Therapeutic use of music
+ML3921-3921.8				Religious aspects of music
+ML3922				Music in the workplace
+ML3928-3930			Literature for children
+
+Subclass MT
+
+MT1-960		Instruction and study
+MT1			General works
+M2.5			Music study abroad
+MT3-5			History
+MT5.5-7			Music theory
+MT9-15			Printed pedagogical aids
+MT9				Examinations, exercises, etc.
+MT10				Teachers= and supervisors= manuals, etc.
+MT15				Charts, diagrams, etc.
+MT17			Music in special education
+MT18			Music in colleges and universities
+MT20-34			Systems and methods
+MT35-39			Notation
+MT40-67			Composition. Elements and techniques of music
+MT68			Improvisation. Accompaniment. Transposition
+MT70-74			Instrumentation and orchestration
+MT75			Interpretation
+MT80			Embellishment
+MT82			Memorizing
+MT85			Conducting. Score reading and playing
+MT87			Community music
+MT88			Administration and instruction of vocal groups
+MT90-146			Analysis and appreciation of musical works
+MT150			Audio-visual aids
+MT155			Music theory for children
+MT165			Tuning
+MT170-810			Instrumental techniques
+MT179-258				Keyboard instruments
+MT259-338				Stringed instruments. Bowed stringed instruments
+MT339-533				Wind instruments
+MT539-654				Plucked instruments
+MT655-725				Percussion and other instruments
+
+MT728-735				Ensembles
+MT737				Motion picture accompanying
+MT740-810				Instrumental techniques for children
+MT820-915			Singing and vocal technique
+MT898-915				Vocal techniques for children
+MT918-948			School music
+MT920-925				Kindergarten
+MT930-948				Elementary schools. Junior high schools. High schools
+MT949.5			Whistling
+MT950			Music to accompany instruction in ballet, folk dancing, gymnastics, etc.
+MT955-956			Musical theater
+MT960			Music in the theater

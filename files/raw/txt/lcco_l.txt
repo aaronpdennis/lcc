@@ -1,0 +1,340 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS L - EDUCATION
+
+Subclass L
+
+L7-991	Education (General)
+L7-97		Periodicals.  Societies
+L101		Yearbooks
+L107		Congresses
+L111-791		Official documents, reports, etc.
+L797-898		Educational exhibitions and museums
+L899		School fairs
+L900-991		Directories of educational institutions
+
+Subclass LA
+
+LA5-2396	History of education
+LA5-25		General
+LA31-135		By period
+LA173-186		Higher education
+LA201-398		United States
+LA410-2284		Other regions or countries
+LA2301-2396		Biography
+
+Subclass LB
+
+LB5-3640	Theory and practice of education
+LB5-45		General
+LB51-885		Systems of individual educators and writers
+LB1025-1050.75		Teaching (Principles and practice)
+LB1049.9-1050.75			Reading (General)
+LB1050.9-1091		Educational psychology
+LB1101-1139		Child study
+LB1139.2-1139.5		Early childhood education
+LB1140-1140.5		Preschool education.  Nursery schools
+LB1141-1489		Kindergarten
+LB1501-1547		Primary education
+LB1555-1602		Elementary or public school education
+LB1603-1696.6		Secondary education.  High schools
+LB1705-2286		Education and training of teachers and administrators
+LB1771-1773			Certification of teachers
+LB1775-1785			Professional aspects of teaching and school administrators. 
+Vocational guidance
+LB1805-2151			State teachers colleges
+LB1811-1987				United States
+LB1991-2151				Other regions or countries
+LB2165-2278			Teacher training in universities and colleges
+LB2300-2430		Higher education
+LB2326.4-2330			Institutions of higher education
+
+LB2331.7-2335.8			Teaching personnel
+LB2335.86-2335.885			Trade unions
+LB2335.95-2337			Endowments, trusts, etc.
+LB2337.2-2340.8			Student financial aid
+LB2341-2341.95			Supervision and administration.  Business management
+LB2351-2359			Admissions and entrance requirements
+LB2361-2365			Curriculum
+LB2366-2367.75			College examinations
+LB2371-2372			Graduate education
+LB2381-2391			Academic degrees
+LB2799-2799.3		Educational consultants and consulting
+LB2801-3095		School administration and organization
+LB2831.6-2831.99			Administrative personnel
+LB2832-2844.1			Teaching personnel
+LB2844.52-2844.63			Trade unions
+LB3011-3095			School management and discipline
+LB3045-3048				Textbooks
+LB3050-3060.87				Educational tests, measurements, evaluations and
+examinations
+LB3201-3325		School architecture and equipment.  School physical facilities. 
+Campus planning
+LB3401-3495		School hygiene.  School health services
+LB3497-3499		Hygiene in universities and colleges
+LB3525-3575		Special days
+LB3602-3640		School life.  Student manners and customs
+
+Subclass LC
+
+LC8-6691	Special aspects of education
+LC8-59		Forms of education
+LC8			General works
+LC15			Conversation and culture
+LC25-33			Self-education.  Self-culture
+LC37-44.3			Home education
+LC45-45.8			Nonformal education
+LC47-58.7			Private school education
+LC58-58.7				Preparatory schools.  Preparatory school education
+LC59			Public school education
+LC65-245		Social aspects of education
+LC65-67.68			Economic aspects of education
+LC68-70			Demographic aspects of education
+LC71-120.4			Education and the state
+LC72-72.5				Academic freedom
+LC107-120.4				Public school question.  Secularization.  Religious instruction
+in the public schools
+LC129-139			Compulsory education
+LC142-148.5			Attendance.  Dropouts
+LC149-161			Literacy.  Illiteracy
+LC165-182			Higher education and the state
+LC184-188			Taxation of schools and colleges
+LC189-214.53			Educational sociology
+
+LC212-212.863				Discrimination in education
+LC212.9-212.93				Sex differences in education
+LC213-214.53				Educational equalization.  Right to education
+LC215-238.4			Community and the school
+LC223				Schools as community centers
+LC225-226.7				Home and school
+LC230-235				Parent-teacher associations.  Home and school associations
+LC237-238.4				College-university and the community
+LC241-245			Foundations, endowments, funds
+LC251-951		Moral and religious education
+LC251-318			Moral education.  Character building
+LC321-951			Religion and education.  Education under church control
+LC361-629				Christian education.  Church education
+LC446-454					Orthodox Eastern Church
+LC461-510					Roman Catholic
+LC531-629					Protestant
+LC701-775				Jewish education
+LC901-915				Islamic education
+LC921-929.7				Buddhist education
+LC951				Other
+LC980-1099.5		Types of education
+LC1001-1024			Humanistic education.  Liberal education
+LC1022-1022.25				Computer-assisted education
+LC1025-1027			Collective education
+LC1030			Communist education
+LC1031-1034.5			Competency based education
+LC1035-1035.8			Basic education.  Basic skills education
+LC1036-1036.8			Community education
+LC1037-1037.8			Career education
+LC1041-1048			Vocational education (General)
+LC1049-1049.8			Cooperative education
+LC1051-1072			Professional education
+LC1081-1087.4			Industrial education (General)
+LC1090-1091			Political education
+LC1099-1099.5			Multicultural education (General)
+LC1200-1203		Inclusive education
+LC1390-5160.3		Education of special classes of persons
+LC1390			Men.  Boys
+LC1401-2572			Women.  Girls
+LC2574-2576			Gays.  Lesbians.  Bisexuals
+LC2580-2582			Student-athletes
+LC2601-2611			Education in developing countries
+LC2630-2638			Asian Americans.  Asians in the United States
+LC2667-2698			Latin Americans.  Hispanic Americans
+LC2680-2688				Mexican Americans.  Mexicans in the United States
+LC2690-2698				Puerto Ricans.  Puerto Ricans in the United States
+LC2699-2913			Blacks.  African Americans
+LC3001-3501			Asians
+LC3503-3520			Romanies.  Gypsies
+LC3530-3540			Lapps
+LC3551-3593			Jews
+
+LC3701-3740			Immigrants or ethnic and linguistic minorities.  Bilingual schools				and bilingual education
+LC3745-3747			Children of immigrants (First generation)
+LC3950-4806.5			Exceptional children and youth.  Special education
+LC3991-4000				Gifted children and youth
+LC4001-4806.5				Children and youth with disabilities.  Learning disabled
+children and youth
+LC4812-5160.3			Other special classes
+LC5161-5163		Fundamental education
+LC5201-6660.4		Education extension.  Adult education.  Continuing education
+LC5451-5493			Aged education
+LC5501-5560			Evening schools
+LC5701-5771			Vacation schools.  Summer schools
+LC5800-5808			Distance education
+LC5900-6101			Correspondence schools
+LC6201-6401			University extension
+LC6501-6560.4			Lyceums and lecture courses.  Forums
+LC6571-6581			Radio and television extension courses.  Instruction by radio and
+television
+LC6601-6660.4			Reading circles and correspondence clubs
+LC6681		Education and travel
+LC6691		Traveling educational exhibits
+
+Subclass LD
+
+LD13-7501	Individual institutions
+LD13-7501		United States
+LD13-7251			Universities.  Colleges
+LD6501				Community colleges.  Junior colleges
+LD7020-7251				Women's colleges
+LD7501			Secondary and elementary schools
+
+Subclass LE
+
+LE3-78	Individual institutions
+LE3-78		America (except United States)
+LE3-5			Canada
+LE7-9			Mexico
+LE11-13			Central America
+LE15-17			West Indies
+LE21-78			South America
+LE21-23				Argentina
+LE27-29				Bolivia
+LE31-33				Brazil
+LE36-38				Chile
+LE41-43				Colombia
+LE46-48				Ecuador
+LE51-59				Guianas
+LE61-63				Paraguay
+LE66-68				Peru
+LE71-73				Uruguay
+
+LE76-78				Venezuela
+
+Subclass LF
+
+LF14-5627	Individual institutions
+LF14-1257		Great Britain
+LF14-797			England
+LF800-957			Ireland
+LF960-1137			Scotland
+LF1140-1257			Wales
+LF(1311)-1537		Austria
+LF1541-1549		Czech Republic
+LF1550-1550.8		Slovakia
+LF1561-1697		Hungary
+LF1705-1709		Finland
+LF1711-2397		France
+LF2402-3197		Germany
+LF3211-3247		Greece
+LF3248-3897		Italy
+LF3899		Malta
+LF3911-4067		Belgium
+LF4069		Luxembourg
+LF4071-4197		Netherlands
+LF4203-4209		Poland
+LF(4211)-4437		Russia (Federation)
+LF4440-4441		Estonia
+LF4443-4444		Latvia
+LF4445-4446		Lithuania
+LF4447.2-4447.5		Belarus
+LF4448-4448.5		Moldova
+LF4449.2-4449.5		Ukraine
+LF4451-4487		Denmark
+LF4488-4488.2		Faroe Islands
+LF4489-4491		Iceland
+LF4493-4537		Norway
+LF4539-4607		Sweden
+LF4610-4827		Spain
+LF4831-4887		Portugal
+LF4901-5047		Switzerland
+LF5051-5627		Turkey and the Baltic states
+
+Subclass LG
+
+LG21-961	Individual institutions
+LG21-395		Asia
+LG21			Afghanistan
+LG51-53			China
+LG55-57			Taiwan
+LG60-170.2			India.  Pakistan.  Bangladesh.  Burma.  Sri Lanka.  Nepal
+LG171-172			Indochina
+LG173			Malaysia
+
+LG181-184			Indonesia
+LG185-187			Papua-New Guinea (Ter.)
+LG200-227			Philippines
+LG240-277			Japan
+LG281-285			Korea
+LG291			Iran
+LG302.2-320			Former Soviet republics in Asia
+LG321			Asia Minor
+LG331-331.5			Armenia (Republic)
+LG332.2-332.5			Azerbaijan
+LG332.7-332.9			Georgia (Republic)
+LG333			Bahrain
+LG338			Iraq
+LG341-345			Israel.  Palestine
+LG346			Jordan
+LG347			Kuwait
+LG351-357			Lebanon
+LG358			Qatar
+LG359			Saudi Arabia
+LG361-367			Syria
+LG370			Yeman (Yemen Arab Republic)
+LG395			Other
+LG401-681		Africa
+LG401			Ethiopia
+LG405-411			South Africa
+LG416			Botswana
+LG418			Kenya
+LG419			Lesotho
+LG421-423			Uganda
+LG431-438			Natal
+LG441-443			Malawi
+LG451			Orange Free State
+LG454			Swaziland
+LG457			Transkei
+LG459			Venda
+LG461-462			Zimbabwe
+LG468			Tanzania
+LG469			Zambia
+LG471-475			Transvaal
+LG478			Zululand
+LG481-505			West Africa
+LG481-483				Nigeria
+LG497-499				Ghana
+LG511			Egypt
+LG513-514			Sudan
+LG521			Algeria and Tunisia
+LG525			Burundi
+LG531-536			French Equatorial Africa.  French Congo
+LG541-543			Madagascar
+LG545-547			Rwanda
+LG551-552			Senegal
+
+LG553-554			Benin
+LG559-560			Ivory Coast
+LG561			Mali
+LG581-593			German Africa (Former)
+LG601-611			Italian Africa (Former)
+LG615			Zaire
+LG621			Liberia
+LG631-632			Morocco
+LG641-651			Portuguese Africa (Former)
+LG671			Spanish Africa
+LG681			Libya
+LG690		Indian Ocean islands
+LG715-720		Australia
+LG741-745		New Zealand
+LG961		Pacific islands
+
+Subclass LH
+
+LH1-9	College and school magazines and papers
+
+Subclass LJ
+
+LJ3-165	Student fraternities and societies, United States
+
+Subclass LT
+
+LT6-(1001)	Textbooks
+Class here textbooks covering several subjects.  For
+textbooks on particular subjects, see the subject
+in B-Z

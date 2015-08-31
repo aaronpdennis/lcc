@@ -1,0 +1,990 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS P - LANGUAGE AND LITERATURE
+
+Subclass P
+
+P11091	Philology.  Linguistics
+P185		General
+P8796		Communication.  Mass media
+P94.7			Interpersonal communication
+P9595.6			Oral communication.  Speech
+P9898.5		Computational linguistics.  Natural language processing
+P9999.4		Semiotics.  Signs and symbols
+P99.599.6 		Nonverbal communication
+P101410		Language.  Linguistic theory.  Comparative grammar
+P118118.75			Language acquisition
+P121149			Science of language (Linguistics)
+P201299			Comparative grammar
+P301301.5			Style.  Composition.  Rhetoric
+P302302.87			Discourse analysis
+P306310			Translating and interpreting
+P321324.5			Etymology
+P325325.5			Semantics
+P326326.5			Lexicology
+P327327.5			Lexicography
+P375381			Linguistic geography
+P501769		IndoEuropean (IndoGermanic) philology
+P9011091		Extinct ancient or medieval languages
+
+Subclass PA
+
+PA1199	Classical philology
+PA201899	Greek philology and language
+PA10001179	Medieval and modern Greek language
+PA20012915	Latin philology and language
+PA30003049	Classical literature
+PA30504505	Greek literature
+PA30513285		Literary history
+PA33003516		Collections
+PA35203564		Criticism, interpretation, etc.
+PA36013681		Translations
+PA38184505		Individual authors
+Including:
+PA38253849				Aeschylus
+PA38513858				Aesop
+PA38903926				Aristotle
+PA39493964				Demosthenes
+PA39733992				Euripedes
+PA40184209				Homer
+PA42794333				Plato
+PA43674389				Plutarch
+PA44134434				Sophocles
+
+PA44524486				Thucydides
+PA44944499				Xenophon
+PA50005660	Byzantine and modern Greek literature
+PA53015638.36		Individual authors
+PA60006971	Roman literature
+PA60016097		Literary history
+PA61006140		Collections
+PA61416144		Criticism, interpretation, etc.
+PA61556191		Translations
+PA62026971		Individual authors
+Including:
+PA62356269				Caesar, Julius
+PA62786370				Cicero, Marcus Tullius
+PA63936444				Horace
+PA64826496				Lucretius Carus, Titus
+PA65016510				Martial
+PA65196553				Ovid
+PA65686609				Plautus, Titus Maccius
+PA66116637				Pliny, the Elder
+PA66616693				Seneca, Lucius Annaeus
+PA67056753				Tacitus, Cornelius
+PA67556785				Terentius Apher, Publius (Terence)
+PA68016961				Vergilius Maro, Publius (Virgil)
+PA80018595	Medieval and modern Latin literature
+PA82008595		Individual authors
+
+Subclass PB
+
+PB1-3029	Modern languages.  Celtic languages
+PB1-431		Modern languages
+PB1001-3029		Celtic languages and literature
+PB1101-1200			Goidelic.  Gaelic
+PB1201-1449				Irish
+PB1501-1709				Gaelic (Scottish Gaelic, Erse)
+PB1801-1867				Manx
+PB1950			Pict
+PB2001-3029			Brittanic group
+PB2101-2499				Welsh.  Cymric
+PB2501-2621				Cornish
+PB2801-2932				Breton.  Armorican
+PB3001-3029			Gaulish
+
+Subclass PC
+
+PC1-5498	Romance
+PC1-400		General
+PC601-872		Romanian
+PC901-986		Raeto-Romance
+Including Romansh
+PC1001-1977		Italian
+PC1981-1984		Sardinian
+PC2001-3761		French
+PC2700-(3708)			Dialects.  Provincialisms
+
+PC2813-(2898)				Old French
+PC3201-3366				Provencal (Old)
+PC3371-3420.5				Modern patois of South France
+PC3420.8-3495				Langue d'oc dialects
+PC3721-3761			Slang.  Argot
+PC3801-3976		Catalan
+PC4001-4977		Spanish
+PC5001-5498		Portuguese
+
+Subclass PD
+
+PD1-(7159)	Germanic
+PD1-780		General
+PD1001-1350		Old Germanic dialects
+PD1101-1211			Gothic
+PD1501-(7159)		North Germanic.  Scandinavian
+PD2201-2393			Old Norse.  Old Icelandic and Old
+					Norwegian
+PD2401-2446			Modern Icelandic
+PD(2501)-2999			Norwegian
+PD3001-3929			Danish
+PD5001-5929			Swedish
+PD(6000)-(7159)			Scandinavian dialects, Modern
+
+Subclass PE
+
+PE1-3729	English
+PE101-(458)		Anglo-Saxon.  Old English
+PE501-(693)		Middle English
+PE(814)-896		Early Modern English
+PE1001-1693		Modern English
+PE1700-3602		Dialects.  Provincialisms, etc.
+PE3701-3729		Slang.  Argot, etc.
+
+Subclass PF
+
+PF1-5999	West Germanic
+PF1-979		Dutch
+PF1001-1184		Flemish
+PF1401-1541		Friesian
+PF3001-5999		German
+PF3801-3991			Old High German
+PF3992-4010			Old Saxon
+PF4043-(4350)			Middle High German
+PF(4501)-(4596)			Early Modern German
+PF5000-5951			Dialects.  Provincialism, etc.
+PF5971-5999			Slang.  Argot, etc.
+
+Subclass PG
+
+
+PG1-9665	Slavic.  Baltic.  Albanian
+
+PG1-7925		Slavic
+PG1-499			Slavic philology and languages (General)
+PG500-585			Slavic literature (General)
+PG601-716			Church Slavic
+PG(771)-(799)			Bulgarian Church Slavic
+PG801-1146			Bulgarian
+PG1151-1199			Macedonian
+PG1201-1749			Serbo-Croatian
+PG1801-1962			Slovenian
+PG2001-2826			Russian language
+PG2830-2847			Belarusian
+PG2900-(3698)			Russian literature
+PG2900-3190				History and criticism
+PG2900-2998					General
+PG3001-3026					Special periods
+PG3041-3065					Poetry
+PG3071-3089					Drama
+PG3091-3099					Prose
+PG(3100)-(3155)					Folk literature
+Including texts
+PG3199-3299				Collections
+PG3199-3205					General
+PG(3211)-3219					Translations
+PG3223-3229.2					Special periods
+PG3230-3238					Poetry
+PG3240-3255					Drama
+PG3260-3299					Prose
+PG3300-3493.96				Individual authors and works
+PG3300-3308					Early to 1700
+PG3310-3319					18th century
+PG3312						Derzhavin
+PG3314						Karamzin
+PG3316						Lomonosov
+PG3318						Sumarokov
+PG3320-3447					1800-1870
+PG3325-3328						Dostoyevsky
+PG3332-3335						Gogol'
+PG3340-3359						Pushkin
+PG3365-3417						Tolstoi
+PG3420-3445						Turgenev
+PG3450-3470					1870-1917
+PG3452						Andreev
+PG3455-3458						Chekhov
+PG3462-3465						Gorky
+PG3475-3476					1917-1960
+PG3477-3490					1961-2000
+PG3491.2-3493.96					2001-
+PG3500-3505				Provincial, local, etc.
+PG3515-3550				Outside the Russian Federation
+PG(3651)-(3698)				Special subjects
+PG3801-3987			Ukrainian
+PG3990			Carpatho-Rusyn
+PG4001-5146			Czech
+
+PG5201-5546			Slovak
+PG5631-5689			Sorbian (Wendic)
+PG6001-7446			Polish
+PG7900-7925			Lechitic dialects
+PG8001-9146		Baltic
+PG8201-8208			Old Prussian
+PG8501-8772			Lithuanian
+PG8801-9146			Latvian
+PG9501-9665		Albanian
+
+Subclass PH
+
+PH1-5490	Uralic.  Basque
+PH1-87		General
+PH91-98.5		Finnic.  Baltic-Finnic
+PH101-405		Finnish
+PH501-1109		Other Finnic languages and dialects
+PH501-509			Karelian
+PH521-529			Olonets
+PH531-539			Ludic
+PH541-549			Veps
+PH551-559			Ingrian
+PH561-569			Votic
+PH581-589			Livonian
+PH601-671			Estonian
+PH701-735			Sami
+PH751-785			Mordvin
+PH801-836			Mari
+PH1001-1079			Permic
+PH1101-1109			Udmurt
+PH1201-1409		Ugric languages
+PH2001-3445		Hungarian
+PH3801-3820		Samoyedic languages
+PH5001-5490		Basque
+
+Subclass PJ
+
+PJ1-(9500)	Oriental philology and literature
+PJ1-489		General
+PJ1-(195)			Languages
+PJ306-489			Literature
+PJ601-989		Special groups
+PJ601-621			Christian Oriental
+PJ701-989			Islamic
+PJ991-995		Afroasiatic languages
+PJ1001-1989		Egyptology
+PJ1091-1109			Egyptian writing and its decipherment
+PJ1111-1446			Language
+PJ1481-1989			Literature.  Inscriptions
+PJ2001-2199		Coptic
+PJ2340-2399		Libyco-Berber languages.  Berber languages
+PJ2353-2367			Libyan group
+PJ2369-2399			Berber languages
+
+PJ2401-2594		Cushitic languages
+PJ3001-3097		Semitic philology and literature
+PJ3101-(3971)		Assyriology.  Akkadian
+PJ3231-3595			Language
+PJ3601-(3971)			Literature.  Inscriptions
+PJ4001-(4091)		Sumerian
+PJ4101-4197		West and North Semitic languages
+PJ4171-4197			Phoenician-Punic
+PJ4501-5192		Hebrew
+PJ4543-4937			Language (Biblical and modern)
+PJ4951-4996			Medieval Hebrew
+PJ5001-5060			Literature
+PJ5050-5055.51				Individual authors and works
+PJ5061-5192			Other languages used by Jews
+PJ5111-5192				Yiddish
+PJ5201-5329.5		Aramaic
+PJ5211-5289			West Aramaic
+PJ5211-5219.5				Biblical (Chaldaic)
+PJ5229				Palmyrene inscriptions
+PJ5239				Nabataean inscriptions
+PJ5241-5249				Christian Palestinian
+PJ5251-5259				Jewish Palestinian
+PJ5271-5279				Samaritan
+PJ5281-5289				Neo-Aramaic
+PJ5301-5329.5			East Aramaic
+PJ5321-5329.5				Mandaean
+PJ5401-5809		Syriac
+PJ5414-5495			Language
+PJ5601-5695			Literature
+PJ5701-5709			East Syriac (Nestorian)
+PJ5711-5719			West Syriac (Jacobite)
+PJ5801-5809			Neo-Syriac dialects (Modern Syriac)
+PJ5901-5909		South Semitic languages
+PJ6001-8517		Arabic
+PJ6073-7144			Language
+PJ6690-6697				Ancient Arabic
+PJ6701-6901				Modern Arabic dialects
+PJ6950-7144				South Arabian
+PJ6950-6981					Ancient
+PJ7051-7144					Modern
+PJ7501-8517			Arabic literature
+PJ7695.8-7976				Individual authors or works
+PJ8991-9348		Ethiopian languages
+PJ9001-9101			Ethiopic (Geez)
+PJ9201-9269			Amharic
+
+Subclass PK
+
+PK1-(9601)	Indo-Iranian philology and literature
+PK1-85		General
+PK101-2899		Indo-Aryan languages
+PK101-185			General
+PK(201)-379			Vedic
+
+PK401-976			Sanskrit
+PK1001-1095			Pali
+PK1201-1409.5			Prakrit
+PK1421-1429.5			Apabhraa
+PK1471-1490			Middle Indo-Aryan dialects
+PK1501-2899			Modern Indo-Aryan languages
+PK1550-2899				Particular languages and dialects
+PK1550-1569					Assamese
+PK1651-(1799)					Bengali
+PK1801-1831.95					Bihari
+PK1841-1870.95					Gujarati
+PK1931-2212					Hindi, Urdu, Hindustani languages and
+literatures
+PK1931-1970						Hindi language
+PK1971-1979.5						Urdu language
+PK1981-2000						Hindustani language
+PK2030-2142						Hindi, Hindustani literatures
+PK2151-2212						Urdu literature
+PK2261-2270.9					Lahnd
+PK2351-2418					Marathi
+PK2461-2479					Marwari
+PK2561-2579.5					Oriya
+PK2591-2610					Pahari
+PK2631-2659					Panjabi
+PK2701-2708.9					Rajasthani
+PK2781-2790					Sindhi
+PK2801-2891					Sinhalese (Singhalese)
+PK2892-2892.95					Siraiki
+PK2896-2899					Romani
+PK(2901)-5471		Indo-Aryan literature
+PK(2901)-2979			General
+PK3591-4485			Sanskrit
+PK3791-3799				Individual authors and works
+PK(3801)-(4251)				Special subjects
+PK4471-4485				Translations
+PK(4501)-4681			Pali literature
+PK4990-5046			Prakrit literature
+PK5401-5471			Modern Indo-Aryan literature
+PK6001-6996		Iranian philology and literature
+PK6001-6099			General
+PK6101-(6119)			Avestan
+PK6121-6129			Old Persian
+PK6135-6199.9			Middle Iranian languages
+PK6141-6199.5				Pahlavi
+PK6201-(6599.7)			New Persian
+PK6201-6399				Language
+PK6400-(6599.7)				Literature
+PK6450.9-6562.35					Individual authors or works
+PK6455-6460						Firdaws
+PK6465						fi
+PK6475						Ibn Yamn, Fakhr al-Dn Mamd
+PK6478-6482						Jall al-Dn Rm Maulana
+PK6490						Jm
+
+PK6501						Nim Ganjav
+PK6510-6525						Omar Khayyam
+PK6540-6546						Sa#d
+PK6701-6821			Afghan (Pashto, Pushto, Pushtu, etc.)
+PK7001-7075		Dardic (Pisacha)
+PK7021-7037			Kashmiri
+PK7040-7045			Kohistani
+PK7050-7065			Nuristani (Kafiri) group
+PK8001-8832		Armenian
+PK8001-8496			Language
+PK8501-8832			Literature
+PK9001-9201		Caucasian languages
+PK9101-9169			Georgian
+Subclass PL
+
+PL1-8844	Languages of Eastern Asia, Africa, Oceania
+PL1-481		Ural-Altaic languages
+PL21-396			Turkic languages
+PL400-431			Mongolian languages
+PL450-481			Tungus Manchu languages
+PL(490)-495		Far Eastern languages and literature
+PL501-889		Japanese language and literature
+PL501-699			Japanese language
+PL700-889			Japanese literature
+PL700-751.5				History and criticism
+PL752-783				Collections
+PL784-866				Individual authors and works
+PL885-889				Local literature
+PL901-998		Korean language and literature
+PL901-949			Korean language
+PL950-998			Korean literature
+PL950.2-969.5				History and criticism
+PL969.8-985				Collections
+PL986-993				Individual authors and works
+PL997-998				Local literature
+PL1001-3208		Chinese language and literature
+PL1001-1960			Chinese language
+PL2250-3208			Chinese literature
+PL2250-2443				History and criticism
+PL2450-2659				Collections
+PL2661-2979				Individual authors and works
+PL3030-3208				Provincial, local, colonial, etc.
+PL3301-3311		Non-Chinese languages of China
+PL3501-3509		Non-Aryan languages of India and Southeastern Asia in
+general
+PL3512		Malaysian literature
+PL3515		Singapore literature
+PL3518		Languages of the Montagnards
+PL3521-4001		Sino-Tibetan languages
+PL3551-4001			Tibeto-Burman languages
+PL3561-3801				Tibeto-Himalayan languages
+PL3601-3775					Tibetan
+PL3781-3801					Himalayan languages
+
+PL3851-4001				Assam and Burma
+PL4051-4054		Karen languages
+PL4070-4074		Miao-Yao languages
+PL4281-4587		Austroasiatic languages
+PL4301-4470			Mon-Khmer (Mon-Anam) languages
+PL4371-4379				Vietnamese.  Annamese
+PL4423-4470				Bru, Chrau, Khasi, Muong, etc.
+PL4471-4471.5			Nicobarese
+PL4490-4498			Chamic languages
+PL4501-4587			Munda languages (Kolarian languages)
+PL4601-(4890)		Dravidian languages
+PL5001-7511		Languages of Oceania
+PL5001-7101			Austronesian, Papuan, and Australian languages
+PL5051-5497				Malayan (Indonesian) languages
+PL5501-6135				Philippine languages
+PL6145-6167				Taiwan languages
+PL6191-6341				Micronesian and Melanesian languages
+PL6401-6551				Polynesian languages
+PL6601-6621				Papuan languages
+PL7001-7101				Australian languages
+PL8000-8844		African languages and literature
+PL8000-8009			Languages
+PL8009.5-8014			Literature
+PL8015-8021			Languages.  By region or country
+PL8024-8027			Special families of languages
+PL8035-8844			Special languages (alphabetically)
+
+Subclass PM
+
+PM1-9021	Hyperborean, Indian, and artificial languages
+PM1-94		Hperborean languages of Arctic Asia and America
+PM101-2711		American languages (Aboriginal)
+PM231-355			American languages of British North America
+PM(401)-501			American languages of the United States (and Mexico)
+PM549-2711			Special languages of the United States and Canada
+(alphabetically)
+PM3001-4566		Languages of Mexico and Central America
+PM5001-7356		Languages of South America and the West Indies
+PM7801-7895		Mixed languages
+PM7831-7875			Creole languages
+PM8001-8995		Artificial languages--Universal languages
+PM8201-8298			Esperanto
+PM8999		Picture languages
+PM9001-9021		Secret languages
+
+Subclass PN
+
+PN1-6790	Literature (General)
+PN1-9		Periodicals
+PN20-30		Societies
+PN45-57		Theory.  Philosophy.  Esthetics
+PN59-72		Study and teaching
+PN80-99		Criticism
+
+PN101-245		Authorship
+PN172-239			Technique.  Literary composition, etc.
+PN241-241.5			Translating as a literary pursuit
+PN441-1009.5		Literary history
+PN451-497			Biography
+PN500-519			Collections
+PN597-605			Special relations, movements, and currents of literature
+PN610-779			By period
+PN611-649				Ancient
+PN661-694				Medieval (to 1500)
+PN683-687					Legends
+PN688-691					Poetry
+PN692-693					Prose.  Prose fiction
+PN695-779				Modern
+PN715-749					Renaissance (1500-1700)
+PN801-820			Romance literature
+PN821-840			Germanic literature
+PN841			Black literature (General)
+PN842			Jewish literature in various languages
+PN851-(884)			Comparative literature
+PN(905)-1008			Folk literature
+PN980-995				Fables
+PN1008.2-1009.5			Juvenile literature
+PN1010-1525		Poetry
+PN1031-1049			Theory, philosophy, relations, etc.
+PN1065-1085			Relations to, and treatment of, special subjects
+PN1110-1279			History and criticism
+PN1301-1333			Epic poetry
+PN1341-1347			Folk poetry
+PN1351-1389			Lyric poetry
+PN1530		The monologue
+PN1551		The dialogue
+PN1560-1590		The performing arts.  Show business
+PN1585-1589			Centers for the performing arts
+PN1600-3307		Drama
+PN1635-1650			Relation to, and treatment of, special subjects
+PN1660-1693			Technique of dramatic composition
+PN1720-1861			History
+PN1865-1988			Special types
+PN1990-1992.92			Broadcasting
+PN1991-1991.9				Radio broadcasts
+PN1992-1992.92				Television broadcasts
+PN1992.93-19 92.95			Nonbroadcast video recordings
+PN1993-1999			Motion pictures
+PN1997-1997.85				Plays, scenarios, etc.
+PN2000-3307			Dramatic representation.  The theater
+PN2061-2071				Art of acting
+PN2085-2091				The stage and accessories
+PN2131-2193				By period
+PN2131-2145					Ancient
+PN2152-2160					Medieval
+PN2171-2179					Renaissance
+PN2181-2193					Modern
+
+PN2219.3-3030				Special regions or countries
+PN3035				The Jewish theater
+PN3151-3171				Amateur theater
+PN3175-3191				College and school theatricals
+PN3203-3299				Tableaux, pageants, "Happenings," etc.
+PN3311-3503		Prose.  Prose fiction
+PN3329-3352			Philosophy, theory, etc.
+PN3355-3383			Technique.  Authorship
+PN3427-3448			Special kinds of fiction.  Fiction genres
+PN3451-3503			History
+PN4001-4355		Oratory.  Elocution, etc.
+PN4071-4095			Study and teaching
+PN4177-4191			Debating
+PN4199-4321			Recitations (in English)
+PN4331-4355			Recitations in foreign languages
+PN4390		Diaries
+PN4400		Letters (Literary history)
+PN4500		Essays (Literary history)
+PN4699-5650		Journalism.  The periodical press, etc.
+PN4735-4748			Relation to the state.  Government and the press.  Liberty of the
+press
+PN4775-4784			Technique.  Practical journalism
+PN4825-4830			Amateur journalism
+PN4832-4836			Magazines and other periodicals
+PN4840-5648			By region or country
+PN5650			The Jewish press
+PN6010-6790		Collections of general literature
+PN6066-6069			Special classes of authors
+PN6080-6095			Quotations
+PN6081-6084				English
+PN6086-6089				French
+PN6090-6110				German
+PN6099-6110			Poetry
+PN6110.5-6120			Drama
+PN6120.15-6120.95			Fiction
+PN6121-6129			Orations
+PN6130-6140			Letters
+PN6141-6145			Essays
+PN6146.5-6231			Wit and humor
+PN6157-6222				By region or country
+PN6233-6238			Anacreontic literature
+PN6244-6246			Literary extracts.  Commonplace books
+PN6249-6258			Ana
+PN6259-6268			Anecdotes.  Table talk
+PN6269-6278			Aphorisms.  Apothegms
+PN6279-6288			Epigrams
+PN6288.5-6298			Epitaphs
+PN6299-6308			Maxims
+PN6309-6318			Mottoes
+PN6319-6328			Sayings, bon mots, etc.
+PN6329-6338			Thoughts
+PN6340-6348			Toasts
+PN6348.5-6358			Emblems, devices
+
+PN6361			Paradoxes
+PN6366-6377			Riddles, acrostics, charades, conundrums, etc.
+PN6400-6525			Proverbs
+PN6700-6790			Comic books, strips, etc.
+
+Subclass PQ
+
+PQ1-3999	French literature
+PQ1-771		History and criticism
+PQ1-150			General
+PQ151-221			Medieval.  Old French
+PQ226-317			Modern
+PQ400-491			Poetry
+PQ500-591			Drama
+PQ601-771			Prose and prose fiction
+PQ(781)-(841)		Folk literature
+PQ845		Juvenile literature
+PQ1100-1297		Collections
+PQ1100-1145			General
+PQ1160-1193			Poetry
+PQ1211-1241			Drama
+PQ1243-1297			Prose
+PQ1300-1595		Old French literature
+Class here Old French literature
+to ca. 1500/1550
+PQ1300-1391			Collections
+Individual authors and works
+PQ1411-1545				To 1350/1400
+PQ1551-1595				(14th-) 15th century (to ca. 1525)
+PQ1600-2726		Modern literature
+Individual authors
+PQ1600-1709				16th century
+PQ1710-1935				17th century
+PQ1947-2147				18th century
+PQ2149-2551				19th century
+PQ2600-2651				1900-1960
+PQ2660-2686				1961-2000
+PQ2700-2726				2001-
+PQ3800-3999		Provincial, local, colonial, etc.
+PQ4001-5999	Italian literature
+PQ4001-4199.5		History and criticism
+PQ4001-4063			General
+PQ4064-4075			Early to 1500
+PQ4077-4088			Modern
+PQ4091-(4131)			Poetry
+PQ4133-4160			Drama
+PQ4161-4185			Prose
+PQ(4186)-(4199)			Folk literature
+PQ4199.5			Juvenile literature (General)
+PQ4201-4263		Collections
+PQ4201-4204			General
+PQ4205-4206			Translations
+PQ4207-4225			Poetry
+
+PQ4227-4245			Drama
+PQ4247-4263			Prose
+PQ4265-4556		Individual authors and works to 1400
+PQ4561-4664		Individual authors, 1400-1700
+PQ4675-4734		Individual authors, 1701-1900
+PQ4800-4851		Individual authors, 1900-1960
+PQ4860-4886		Individual authors, 1961-2000
+PQ4900-4926		Individual authors, 2001-
+PQ5901-5999		Regional, provincial, local, etc.
+PQ6001-8929	Spanish literature
+PQ6001-6168		History and criticism
+PQ6001-6056			General
+PQ6056				Moorish-Spanish literature
+PQ6058-6060			Early to 1500
+PQ(6061)-6073			Modern
+PQ6075-6098			Poetry
+PQ6098.7-6129			Drama
+PQ6131-6153			Prose
+PQ(6155)-(6167)			Folk literature
+PQ6168			Juvenile literature (General)
+PQ6170-6269		Collections
+PQ6170-6174.9			General
+PQ6174.95-6215			Poetry
+PQ6217-(6241)			Drama
+PQ6247-6264			Prose
+PQ(6265)-6269			Translations
+PQ6271-6498		Individual authors and works to 1700
+PQ6500-6576		Individual authors, 1700-ca. 1868
+PQ6600-6647		Individual authors, 1868-1960
+PQ6650-6676		Individual authors, 1961-2000
+PQ6700-6726		Individual authors, 2001-
+PQ7000-8929		Provincial, local, colonial, etc.
+PQ7081-8560			Spanish America
+PQ9000-9999	Portuguese literature
+PQ9000-9129		History and criticism
+PQ9000-9034			General
+PQ9035-9055			Special periods
+PQ9061-9081			Poetry
+PQ9083-9095			Drama
+PQ9097-9119			Prose
+PQ(9121)-(9128)			Folk literature
+PQ9129			Juvenile literature (General)
+PQ9131-9188		Collections
+PQ9131-9144			General
+PQ9137				Translations
+PQ9149-9163			Poetry
+PQ9164-9170			Drama
+PQ9172-9188			Prose
+PQ9189		Individual authors and works to 1500
+PQ9191-9255		Individual authors and works, 1500-1700
+PQ9261		Individual authors, 1701-1960
+PQ9262-9288		Individual authors, 1961-2000
+PQ9300-9326		Individual authors, 2001-
+
+PQ9400-9999		Provincial, local, colonial, etc.
+PQ9500-9698.436			Brazil
+
+Subclass PR
+
+PR1-9680	English literature
+PR1-56		Literary history and criticism
+PR57-78		Criticism
+PR111-116		Women authors
+PR125-(138.5)		Relations to other literatures and countries
+PR161-488		By period
+PR171-236			Anglo-Saxon (Beginnings through 1066)
+PR251-369			Medieval.  Middle English (1066-1500)
+PR401-488			Modern
+PR421-(429)				Elizabethan era (1550-1640)
+PR431-(439)				17th century
+PR441-(449)				18th century
+PR451-(469)				19th century
+PR471-(479)				20th century
+PR481-488				21st century
+PR500-614		Poetry
+PR521-614			By period
+PR621-744		Drama
+PR641-744			By period
+PR750-890		Prose
+PR767-818			By period
+PR821-890			Prose fiction.  The novel
+PR901-907.2		Oratory
+PR908		Diaries
+PR911-918		Letters
+PR921-928		Essays
+PR931-938		Wit and humor
+PR(951)-981		Folk literature
+PR1098-1369		Collections of English literature
+PR1110			Special classes of authors
+PR1119-1151			By period
+PR1170-1228			Poetry
+PR1241-1273			Drama
+PR1281-1309			Prose (General)
+PR1321-1329			Oratory
+PR1330			Diaries
+PR1341-1349			Letters
+PR1361-1369			Essays
+PR1490-1799		Anglo-Saxon literature
+PR1803-2165		Anglo-Norman period.  Early English.  Middle
+PR			English
+PR2199-3195		English renaissance (1500-1640)
+PR3291-3785		17th and 18th centuries (1640-1770)
+PR3991-5990		19th century, 1770/1800-1890/1900
+PR6000-6049		1900-1960
+PR6050-6076		1961-2000
+PR6100-6126		2001-
+PR8309-9680		English literature: Provincial, local, etc.
+
+
+Subclass PS
+
+PS1-3576	American literature
+PS126-138		Biography, memoirs, letters, etc.
+PS147-152		Women authors
+PS163-173		Treatment of special subjects, classes
+PS185-231		By period
+PS185-195			17th-18th centuries
+PS201-217			19th century
+PS221-228			20th century
+PS229-231			21st century
+PS241-286		Special regions, states, etc.
+PS241-255			North
+PS261-267			South
+PS271-285			West and Central
+PS301-326		Poetry
+PS330-353		Drama
+PS360-380		Prose
+PS370-380			Prose fiction
+PS400-408.2		Oratory
+PS409		Diaries
+PS410-419		Letters
+PS420-429		Essays
+PS430-439		Wit and humor.  Satire
+PS(451)-478		Folk literature
+PS490		Juvenile literature (General)
+PS501-689		Collections of American literature
+PS530-536.3			By period
+PS537-574			By region
+PS538-549				North
+PS551-559				South
+PS561-572				West and Central
+PS580-619			Poetry
+PS593				By form
+PS601-617				By period
+PS623-(635)			Drama
+PS642-659.5			Prose (General)
+PS651-659.2				By period
+PS660-668.2			Oratory
+PS666-668.2				By period
+PS669			Diaries
+PS670-678.2			Letters
+PS680-689			Essays
+PS700-3576		Individual authors
+PS700-893			Colonial period (17th and 18th centuries)
+PS991-(3390)			19th century
+PS3500-3549			1900-1960
+PS3550-3576			1961-2000
+PS3600-3626			2001-
+PS(8001-8599)	Canadian  literature
+
+Subclass PT
+
+PT1-4897	German literature
+PT1-80		Literary history and criticism
+PT83-(873)		History of German literature
+PT175-230			Medieval
+PT236-405			Modern
+PT500-597			Poetry
+PT605-709			Drama
+PT711-871			Prose
+PT(881)-(951)		Folk literature
+PT923-937			Faust legend
+PT1100-1479		Collections
+PT1100-1141			General
+PT1151-1241			Poetry
+PT1251-1299			Drama
+PT1301-1360			Prose
+PT1371-(1374)			Early to 1950.  Old and Middle High German
+PT1375-1479			Middle High German
+PT1501-2688		Individual authors or works
+PT1501-1695			Middle High German, ca. 1050-1450/1500
+PT1701-1797			1500-ca. 1700
+PT1799-2592			1700-ca. 1860/70
+PT1891-2239				Goethe
+PT1891-2017					Works
+PT2026-(2039)					Translations
+PT(2044)-2239					Biography and criticism
+PT2600-2653			1860/70-1960
+PT2660-2688			1961-2000
+PT2700-2728			2001-
+PT3701-3971		Provincial, local, colonial, etc.
+PT3701-3746			East Germany
+PT4801-4897		Low German literature
+PT5001-5980	Dutch literature
+PT5001-5348		Literary history and criticism
+PT5001-5112			General
+PT5121-5185			Special periods
+PT5201-5243			Poetry
+PT5250-5295			Drama
+PT5300-5348			Prose
+PT(5351)-5395		Folk literature
+PT5398		Juvenile literature (General)
+PT5400-5547		Collections
+PT5400-5409			General
+PT5410-5414			Translations
+PT5420-5460			Special periods
+PT5470-5488			Poetry
+PT5490-5515			Drama
+PT5517-5547			Prose
+PT5555-5881.36		Individual authors or works
+PT5555-5595			Medieval
+PT5600-5739			16th-18th centuries
+PT5620-5637				Cats, Jacob
+PT5700-5732				Vondel, Joost van den
+PT5800-5880			1800-1960
+
+PT5881-5881.36			1961-2000
+PT5882-5882.36			2001-
+PT5901-5980		Provincial, local, foreign
+PT6000-6467.36	Flemish literature since 1830
+PT6000-6199		Literary history and criticism
+PT(6200)-(6230)		Folk literature
+PT6250		Juvenile literature (General)
+PT6300-6397		Collections
+PT6400-6467.36		Individual authors or works
+PT6500-6593.36	Afrikaans literature
+PT6500-6530		Literary history and criticism
+PT(6540)-6545		Folk literature
+PT6550-6575		Collections
+PT6580		Local
+PT6590-6593.36		Individual authors or works
+PT7001-7099	Scandinavian literature
+PT7001-7099		General
+PT7001-7087			Literary history and criticism
+PT(7088)-(7089)			Folk literature
+PT7090-7099			Collections
+PT7101-7338	Old Norse literature: Old Icelandic and Old Norwegian
+PT7101-7211		Literary history and criticism
+PT7170-7176			Poetry
+PT7177-7211			Prose
+PT7181-7193				Sagas
+PT7195-7211				Scientific and learned literature
+PT7220-7262.5		Collections
+PT7230-7252			Poetry
+PT7255-7262.5			Prose
+PT7261-7262.5				Sagas
+PT7263-7296		Individual sagas and historical works
+PT7298-7309		Religious works
+PT7312-7318		Scientific and learned literature
+PT7326-7338		Individual authors or works before 1540
+PT7351-7550	Modern Icelandic literature
+PT7351-7418		Literary history and criticism
+PT(7420)-(7438)		Folk literature
+PT7442		Juvenile literature (General)
+PT7450-7495		Collections
+PT7500-7511		Individual authors or works
+PT7500-7501			16th-18th centuries
+PT7510-7511			19th-20th centuries
+PT7512-7513			21st century
+PT7520-7550		Provincial, local, foreign
+PT7581-7599	Faroese literature
+PT7581-7592		Literary history and criticism
+PT7593-7596.5		Collections
+PT7597		Local
+PT7598-7599		Individual authors or works
+PT7601-8260	Danish literature
+PT7601-7869		Literary history and criticism
+PT7721-7762			Special periods
+PT7770-7794			Poetry
+
+PT7800-7832			Drama
+PT7835-7869			Prose
+PT(7900)-7930		Folk literature
+PT7935		Juvenile literature (General)
+PT7945-8046		Collections
+PT7975-7994			Poetry
+PT7999-8020			Drama
+PT8021-8046			Prose
+PT8050-8177.36		Individual authors or works
+PT8050			Medieval
+PT8060-8098			16th-18th centuries
+PT8070-8094.5				Holberg, Ludvig
+PT8100-8167			19th century
+PT8102-8120				Andersen, Hans Christian
+PT8145-8157				Oehlenschläger, Adam Gottlob
+PT8174-8175			1900-1960
+PT8176-8176.36			1961-2000
+PT8177-8177.36			2001-
+PT8205-8260		Provincial, local, foreign
+PT8301-9155	Norwegian literature
+PT8301-8574		Literary history and criticism
+PT(8420)-8456			Special periods
+PT8460-8489			Poetry
+PT8500-8534			Drama
+PT8540-8574			Prose
+PT(8600)-(8637)		Folk literature
+PT8640		Juvenile literature (General)
+PT8650-8733		Collections
+PT8675-8695			Poetry
+PT8699-8718			Drama
+PT8719-8723			Prose
+PT8750-8952.36		Individual authors or works
+PT8750-8775			16th-18th centuries
+PT8800-8942			19th century
+PT8851-8900				Ibsen, Henrik
+PT8949-8950			1900-1960
+PT8951-8951.36			1961-2000
+PT8952-8952.36			2001-
+PT9000-9094		Landsmaal or New Norwegian
+PT9000-9019			Literary history and criticism
+PT9025-9055			Collections
+PT9064-9094			Individual authors
+PT9100-9155		Provincial, local, foreign
+PT9201-9999	Swedish literature
+PT9201-9499		Literary history and criticism
+PT9320-9370			Special periods
+PT9375-9404			Poetry
+PT9415-9449			Drama
+PT9460-9499			Prose
+PT(9509)-(9542)		Folk literature
+PT9544		Juvenile literature (General)
+PT9547-9639		Collections
+PT9565-9570			Translations
+
+PT9580-9599			Poetry
+PT9605-9625			Drama
+PT9626-9639			Prose
+PT9650-9877.36		Individual authors or works
+PT9650-9651			Medieval
+PT9674-9715			16th-18th centuries
+PT9725-9850			19th century
+PT9759-9771				Lagerlöf, Selma
+PT9800-9817				Strindberg, Johan August
+PT9820-9838				Tegnér, Esaias
+PT9870-9875			1900-1960
+PT9876-9876.36			1961-2000
+PT9877-9877.36			2001-
+PT9950-9999		Provincial, local, foreign
+
+Subclass PZ
+
+PZ(1)-90	Fiction and juvenile belles lettres
+PZ(1)-(4)		Fiction in English
+PZ5-90		Juvenile belles lettres

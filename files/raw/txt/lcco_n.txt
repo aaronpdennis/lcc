@@ -1,0 +1,204 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS N - FINE ARTS
+
+Subclass N
+
+N1-(9211)	Visual arts
+N1-58		General
+N61-72		Theory.  Philosophy.  Aesthetics of the visual arts
+N81-390		Study and teaching.  Research
+N400-3990		Art museums, galleries, etc.
+N4390-5098		Exhibitions						
+N5198-5299		Private collections and collectors
+N5300-7418		History
+N7420-7525.8		General works
+N7560-8266		Special subjects of art
+N8350-8356		Art as a profession.  Artists
+N8510-8553		Art studios, materials, etc.
+N8554-8585		Examination and conservation of works of art
+N8600-8675		Economics of art
+N8700-9165		Art and the state.  Public art
+
+Subclass NA
+
+NA1-9428	Architecture
+NA1-60		General
+NA100-130		Architecture and the state
+NA190-1555.5		History
+NA1995		Architecture as a profession
+NA2000-2320		Study and teaching.  Research
+NA2335-2360		Competitions
+NA2400-2460		Museums.  Exhibitions
+NA2500-2599		General works
+NA 2599.5-2599.9		Architectural criticism
+NA2695-2793		Architectural drawing and design
+NA2835-4050		Details and decoration
+NA4100-8480		Special classes of buildings
+NA4100-4145			Classed by material
+NA4150-4160			Classed by form
+NA4170-8480			Classed by use
+NA4170-(7020)				Public buildings
+NA4590-5621					Religious architecture
+NA7100-7884				Domestic architecture.  Houses.  Dwellings
+NA7910-8125				Clubhouses, guild houses, etc.
+NA8200-8260				Farm architecture
+NA8300-8480				Outbuildings, gates, fences, etc.
+NA9000-9428		Aesthetics of cities.  City planning and beautifying
+
+Subclass NB
+
+NB1-1952	Sculpture
+NB1-50		General
+NB60-1115		History
+Including collective biography
+NB1120-1133		Study and teaching
+NB1134-1134.4		Competitions
+NB1135-1150		General works
+NB1160-1195		Designs and technique
+NB1199-1200		Restoration of sculptures
+NB1203-1270		Special materials
+NB1272-1291		Mobiles, color, sculpture gardens, etc.
+NB1293-1895		Special forms
+NB1293-1310			Portrait sculpture
+NB1312-1313			Equestrian statues
+NB1330-1685			Sculptural monuments
+NB1750-1793			Religious monuments and shrines
+NB1800-1880			Sepulchral monuments
+NB1910-1952		Special subjects
+
+Subclass NC
+
+NC1-1940	Drawing.  Design.  Illustration
+NC1-45		General
+Including collective biography
+NC50-266		History of drawing
+NC390-670		Study and teaching
+NC673-677		Competitions
+NC703-725		General works
+NC730-758		Technique
+NC760-825		Special subjects
+NC845-915		Graphic art materials
+NC930		Conservation and restoration of drawings
+NC950-(996)		Illustration
+NC997-1003		Commercial art.  Advertising art
+NC1280-1284		Printed ephemera.  Imagerie populaire
+NC1300-1766		Pictorial humor, caricature, etc.
+NC1800-1850		Posters
+NC1860-1896		Greeting cards, postcards, invitations, book jackets, etc.
+NC1920-1940		Copying, enlarging, and reduction of drawings
+
+Subclass ND
+
+ND25-3416	Painting
+ND25-(48)		General
+ND49-813		History
+ND1115-1120		Study and teaching
+ND1130-1156		General works
+ND1288-1460		Special subjects
+ND1290-1293			Human figure
+ND1300-1337			Portraits
+
+ND1340-1367			Landscape painting
+ND1370-1375			Marine painting
+ND1380-1383			Animals.  Birds
+ND1385-1388			Sports.  Hunting, fishing, etc.
+ND1390-1393			Still life
+ND1400-1403			Flowers.  Fruit.  Trees
+ND1410-1460			Other subjects
+ND1470-1625		Technique and materials
+ND1630-1662		Examination and conservation of paintings
+ND1700-2495		Watercolor painting
+ND2550-2733		Mural painting
+ND2889-3416		Illuminating of manuscripts and books
+
+Subclass NE
+
+NE1-3002	Print media
+NE1-978		Printmaking and engraving
+NE1-90			General
+NE 218-(330)			Engraved portraits.  Self-portraits
+NE380			Conservation and restoration of prints
+NE390-395			Collected works
+NE400-773			History of printmaking
+NE830-898			General works
+NE951-962			Special subjects
+NE965-965.3			Tradesmen's cards
+NE970-973			Study and teaching
+NE975-975.4			Competitions
+NE977-978			Equipment
+NE1000-1352		Wood engraving
+NE1000-1027			General
+NE1030-1196.3			History
+NE1220-1233			General works
+NE1310-1326.5			Japanese prints
+NE1330-1336			Linoleum block prints
+NE1340			Fish prints
+NE1344-1345			Potato prints
+NE1350-1352			Other materials used in relief printing
+NE1400-1879		Metal engraving
+NE1400-1422			General
+NE1620-1630			General works
+NE1634-1749			History
+NE1750-1775			Copper engraving
+NE1850-1879			Color prints
+NE1940-2232.5		Etching and aquatint
+NE1940-1975			General
+NE1980-2055.5			History
+NE2120-2140			General works
+NE2141-2149			Special subjects
+NE2220-2225			Dry point
+NE2236-2240.6		Serigraphy
+
+NE2242-2246		Monotype (Printmaking)
+NE2250-2570		Lithography
+NE2685-2685.8		Lumiprints
+NE2690		Engraving on glass
+NE2800-2880		Printing of engravings
+NE3000-3002		Copying art.  Copying machine art
+
+Subclass NK
+
+NK1-(9990)	Decorative arts
+NK1-570		General
+NK600-806		History
+NK1135-1149.5		Arts and crafts movement
+NK1160-1590		Decoration and ornament.  Design
+NK1160-1174			General
+NK 1175-(1498)			History
+NK1505-1535			General works
+NK1548-1590			Special subjects for design
+NK1648-1678		Religious art
+NK1700-2195		Interior decoration.  House decoration
+NK1700-2138			General.  History, etc.
+Including special rooms
+NK2140-2180			Decorative painting
+NK2190-2192			Church decoration
+NK2200-2750		Furniture
+NK2775-2898		Rugs and carpets
+NK2975-3049		Tapestries
+NK3175-3296.3		Upholstery.  Drapery
+NK3375-3496.3		Wallpapers
+NK 3600-(9990)		Other arts and art industries
+NK3700-4695			Ceramics
+NK4700-4890			Costume
+NK5100-5440			Glass
+NK5500-6060			Glyptic arts
+NK6400-8459			Metalwork
+NK8800-9505.5			Textiles
+NK9600-9955			Woodwork
+
+Subclass NX
+
+NX1-820	Arts in general
+NX1-260		General
+NX280-410		Study and teaching.  Research
+NX411-415		Competitions
+NX420-430		Exhibitions
+NX440-632		History of the arts
+NX650-694		Special subjects, characters, persons, religious arts, etc.
+NX700-750		Patronage of the arts
+NX760-770		Administration of the arts
+NX775-777		Voluntarism in the arts
+
+NX798-820		Arts centers and facilities

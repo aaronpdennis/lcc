@@ -1,0 +1,355 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS E-F - HISTORY OF THE AMERICAS
+
+Class E
+
+E11-143	America
+E11-29		General
+E29			Elements in the population
+E31-49.2		North America
+E51-73		Pre-Columbian America.  The Indians
+E75-99		Indians of North America
+E81-83			Indian wars
+E99			Indian tribes and cultures
+E101-135		Discovery of America and early explorations
+E103-110			Pre-Columbian period
+E111-120			Columbus
+E121-135			Post-Columbian period.  El Dorado
+E141-143		Descriptive accounts of America.  Earliest to 1810
+E151-889	United States
+E151-169.12		General
+E171-183.9		History
+E171-180			General
+E173				Sources and documents
+E175-175.7				Historiography
+E176-176.8				Biography
+E179.5				Historical geography
+E181			Military history
+E182			Naval history
+E183-183.3			Political history
+E183.7-183.9		Diplomatic history.  Foreign and general relations.
+E183.8			Relations with individual countries
+E184-185.98		Elements in the population
+E184.5-185.98			Afro-Americans
+E185.2-185.89				Status and development since emancipation
+E185.96-185.98				Biography.  Genealogy
+E186-199		Colonial history (1607-1775)
+E186-189			General
+E191-199			By period
+E191				1607-1689
+E195-199				1689-1775
+E196					King William's War, 1689-1697
+E197					Queen Anne's War, 1702-1713
+E198					King George's War, 1744-1748
+E199					French and Indian War, 1755-1763
+E201-298		The Revolution, 1775-1783
+E300-453		Revolution to the Civil War, 1775/1783-1861
+E300-302.6			General
+E302				Collected works of American statemen
+E302.1				Political history
+E302.5-302.6				Biography (Late eighteenth century)
+
+E303-440.5			By period
+E303-309				1775-1789.  The Confederation, 1783-1789
+E310-337				1789-1809.  Constitutional period
+E310.7					Diplomatic history.  Foreign and general relations
+E311-320					Washington's administrations, 1789-1797
+E321-330					John Adams' administration, 1797-1801
+E323						Troubles with France, 1796-1800
+E331-337					Jefferson's administrations, 1801-1809
+E333						Purchase of Louisiana, 1803
+E335						War with Tripoli, 1801-1805
+E336-336.5						Neutral trade and its restrictions, 1800-1810
+E337.5				Nineteenth century (General)
+E337.8-400				Early nineteenth century, 1801/1809-1845
+E337.8-340					General
+E337.8						Collected works of American statesmen
+E339-340						 ­Biography
+E341-370					Madison's administrations, 1809-1817
+E351.5-364.9						War of 1812
+E365						War with Algeria, 1815
+E371-375					Monroe's administrations, 1817-1825
+E373						Missouri Compromise, 1820
+E374						Diplomatic history.  Foreign relations
+E376-380					John Quincy Adams' administration, 1825-1829
+E381-385					Jackson's administrations, 1829-1837
+E384.3						Nullification
+E386-390					Van Buren's administration, 1837-1841
+E391-392					William H. Harrison's administration, March 4-April 4,
+1841
+E396-400					Tyler's administration, April 4, 1841-1845
+E398						Northeastern boundary disputes, 1783-1845
+E401-415.2				Mexican War, 1846-1848
+E408					Mexican cessions of 1848
+E415.6-440.5				Middle nineteenth century, 1845/1848-1861
+E415.6-415.9					General
+E415.6						Collected works of American statesmen
+E415.8-415.9						Biography
+E416-420					Polk's administration, 1845-1849
+E421-423					Taylor's administiration, 1849-July 9, 1850
+E423						Slavery question, 1849-1853
+E426-430					Fillmore's administration, July 9, 1850-1853
+E431-435					Pierce's administration, 1853-1857
+E433						Slavery question, 1853-1857
+E436-440.5					Buchanan's administration, 1857-1861
+E438						Slavery question, 1857-1861
+E440.5						State of the country, November 1860-March 4, 1861
+E441-453			Slavery in the United States.  Antislavery movements
+E456-655		Civil War period, 1861-1865
+E456-459			Lincoln's administrations, 1861-April 15, 1865
+E461-655			The Civil War, 1861-1865
+E482-489			Confederate States of America
+E491-586			Armies.  Troops
+
+E591-600			Naval history
+E660-738		Late nineteenth century, 1865-1900
+E660-664			General
+E660				Collected works of American statesmen
+E661.7				Diplomatic history.  Foreign and general relations
+E663-664				Biography
+E666-670			Andrew Johnson's administration, April 15, 1865-1869
+E668				Reconstruction, 1865-1877
+E669				Purchase of Alaska, 1867
+E671-680			Grant's administrations, 1869-1877
+E681-685			Hayes' administration, 1877-1881
+E686-687.9			Garfield's administration, March 4-September 19, 1881
+E691-695			Arthur's administration, September 19, 1881-1885
+E696-700			Cleveland's first administration, 1885-1889
+E701-705			Benjamin Harrison's administration, 1889-1893
+E706-710			Cleveland's second administration, 1893-1897
+E711-738			McKinley's first administration, 1897-1901
+E713				Annexation in 1898 of Hawaii, the Philippines, and Puerto
+Rico
+E714-735				War of 1898 (Spanish-American War)
+E740-837.7		Twentieth century
+E740-749			General
+E740.5				Sources and documents
+E742.5				Collected works of American statesmen
+E743-743.5				Political history
+E743.5					Un-American activities
+E744-744.5				Diplomatic history.  Foreign and general relations
+E745				Military history
+E746				Naval history
+E747-748				Biography
+E751			McKinley's second administration, March 4-September 14, 1901
+E756-760			Theodore Roosevelt's administrations, September 14, 1901-1909
+E761-765			Taft's administration, 1909-1913
+E766-783			Wilson's administrations, 1913-1921
+E768				Purchase of Danish West Indies (Virgin Islands), 1917
+E780				Internal history during World War I
+E784-805			1919-1933.  Harding-Coolidge-Hoover era.  "The twenties"
+E785-786				Harding's administration, 1921-August 2, 1923
+E791-796				Coolidge's administration, August 2, 1923-1929
+E801-805				Hoover's administration, 1919-1933
+E806-812			Franklin Delano Roosevelt's administrations, 1933-April 12, 1945
+E813-816			Truman's administrations, April 12, 1945-1953
+E835-837.7			Eisenhower's administrations, 1953-1961
+E838-889		Later twentieth century, 1961-2000
+E838-840.8			General
+E838.3				Sources and documents
+E839.5-839.8				Political history
+E839.8					Un-American activities
+E840-840.2				Diplomatic history.  Foreign and general relations
+E840.6-840.8				Biography (General)
+E841-843			Kennedy's administration, 1961-November 22, 1963
+
+E842.9				Assassination, funeral, memorial services, etc.
+E846-851			Johnson's administrations, November 22, 1963-1969
+E855-861			Nixon's administrations, 1969-August 9, 1974
+E860-861				Watergate Affair.  Resignation
+E865-868			Ford's administration, August 9, 1974-1977
+E872-875			Carter's administration, 1977-1981
+E876-880			Reagan's administrations, 1981-1989
+E877.3				Assassination attempt
+E881-884			George H. W. Bush's administration, 1989-1993
+E885-889			Clinton's administrations, 1993-2001
+E895-904		Twenty-first century
+E902-904			George W. Bush's administrations, 2001-2009
+E907-909			Barack Obama=s administration, 2009-
+
+Class F
+
+F1-975	United States local history
+F1-15		New England
+F16-30			Maine
+F31-45			New Hampshire
+F46-60			Vermont
+F61-75			Massachusetts
+F76-90			Rhode Island
+F91-105			Connecticut
+F106		Atlantic coast.  Middle Atlantic States
+F116-130			New York
+F131-145			New Jersey
+F146-160			Pennsylvania
+F161-175			Delaware
+F176-190			Maryland
+F191-205			District of Columbia.  Washington
+F206-220		The South.  South Atlantic States
+F221-235			Virginia
+F236-250			West Virginia
+F251-265			North Carolina
+F266-280			South Carolina
+F281-295			Georgia
+F296-301		Gulf States.  West Florida
+F306-320			Florida
+F321-335			Alabama
+F336-350			Mississippi
+F350.5-355			Mississippi River and Valley.  Middle West
+F366-380			Louisiana
+F381-395			Texas
+F396		Old Southwest.  Lower Mississippi Valley
+F406-420			Arkansas
+F431-445			Tennessee
+F446-460			Kentucky
+F461-475			Missouri
+F476-485		Old Northwest.  Northwest Territory
+F486-500			Ohio
+
+F516-520			Ohio River and Valley
+F521-535			Indiana
+F536-550			Illinois
+F550.5-553.2			The Lake region.  Great Lakes
+F561-575			Michigan
+F576-590			Wisconsin
+F590.3-596.3		The West.  Trans-Mississippi Region.  Great Plains
+F597			The Northwest
+F598			Missouri River and Valley
+F601-615			Minnesota
+F616-630			Iowa
+F631-645			North Dakota
+F646-660			South Dakota
+F661-675			Nebraska
+F676-690			Kansas
+F691-705			Oklahoma
+F721-722		Rocky Mountains.  Yellowstone National Park
+F726-740			Montana
+F741-755			Idaho
+F756-770			Wyoming
+F771-785			Colorado
+F786-790		New Southwest.  Colorado River, Canyon, and Valley
+F791-805			New Mexico
+F806-820			Arizona
+F821-835			Utah
+F836-850			Nevada
+F850.5-851.5		Pacific States
+F851.7			Cascade Range
+F852-854			Pacific Northwest.  Columbia River and Valley.  Northwest
+boundary since 1846
+F856-870			California
+F871-885			Oregon
+F886-900			Washington
+F901-951			Alaska
+F951				Bering Sea and Aleutian Islands
+F965		The territories of the United States (General)
+F970		Insular possessions of the United States (General)
+F975		Central American, West Indian, and other countries protected by and
+having close political affiliations with the United States
+(General)
+F1001-1145.2	British America
+F1001-1145.2		Canada
+F1001-1035			General
+F1035.8			Maritime provinces.  Atlantic coast of Canada
+F1036-1040				Nova Scotia.  Acadia
+F1041-1045				New Brunswick
+F1046-1049.7				Prince Edward Island
+F1050			St. Lawrence Gulf, River and Valley (General)
+F1051-1055				Quebec
+F1056-1059.7				Ontario
+F1060-1060.97			Canadian Northwest.  Northwest Territories
+
+F1061-1065				Manitoba
+F1067				Assiniboia
+F1070-1074.7				Saskatchewan
+F1075-1080				Alberta
+F1086-1089.7				British Columbia
+F1090				Rocky Mountains of Canada
+F1090.5				Arctic regions
+F1091-1095.5				Yukon
+F1096-1100.5				Mackenzie
+F1101-1105.7				Franklin
+F1106-1110.5				Keewatin
+F1121-1139			Newfoundland
+F1135-1139				Labrador
+F1140			The Labrador Peninsula
+F1141-1145.2			Nunavut
+Other than Canada
+Bahamas, see F1650+
+Bermudas, see F1630+
+British East asnd West Florida, 1763-1783, see F301, F314
+British Guiana, see F2361+
+British Honduras (Belize), see F1441+
+British West Indies, see F2131+
+Falkland Islands, see F3031+
+Thirteen North American Colonies before 1776, see E186+
+Dutch America
+Colony in Brazil, 1625-1661, see F2532
+Dutch Guinea, see F2401+
+Dutch West Indies, see F2141
+New Netherlands to 1664, see F122.1
+New Sweden (Dutch possession, 1655-1664), see F167
+F1170	French America
+F1170		Saint Pierre and Miquelon
+Other French America
+Colony in Brazil, 1555-1567, see F2529
+Colony in Florida, 1562-1565, see F314
+French Guinana, see F2441+
+French West Indies, see F2151
+Louisiana, 1698-1803, see F372
+New France and Acadia, 1600-1763, see F1030, F1038
+F1201-3799	Latin America.  Spanish America
+F1201-1392		Mexico
+F1218.5-1221			Antiquities.  Indians
+F1401-1419		Latin America (General)
+F1421-1440		Central America
+F1435-1435.3			Mayas
+F1441-1457			Belize
+F1461-1477			Guatemala
+F1481-1497			Salvador (El Salvador)
+F1501-1517			Honduras
+F1521-1537			Nicaragua
+F1541-1557			Costa Rica
+
+F1561-1577			Panama
+F1569.C2				Canal Zone.  Panama Canal
+F1601-1629		West Indies
+F1630-1640			Bermudas
+F1650-1660			Bahamas
+F1741-1991			Greater Antilles
+F1751-1854.9				Cuba
+F1788-1788.22					Communist regime
+F1861-1896				Jamaica
+F1900-1941				Haiti (Island).  Hispaniola
+F1912-1930					Haiti (Republic)
+F1931-1941					Dominican Republic
+F1951-1983				Puerto Rico
+F1991				Navassa
+F2001-2151			Lesser Antilles
+Groups of islands, by geographical distribution
+F2006					Leeward islands
+F2011					Windward Islands
+F2016					Islands along Venezuela coast
+F2033-2129				Individual islands
+Groups of islands, by political allegiance
+F2131-2133					British West Indies
+F2136					Virgin Islands of the United States
+F2141					Netherlands West Indies.  Dutch West Indies
+F2151					French West Indies
+F2155-2191		Caribbean area.  Caribbean Sea
+F2201-3799		South America
+F2201-2239			General
+F2251-2299			Colombia
+F2301-2349			Venezuela
+F2351			Guiana
+F2361-2391				Guyana.  British Guiana
+F2401-2431				Surinam
+F2441-2471				French Guiana
+F2501-2659			Brazil
+F2661-2699			Paraguay
+F2701-2799			Uruguay
+F2801-3021			Argentina
+F3031-3031.5			Falkland Islands
+F3051-3285			Chile
+F3301-3359			Bolivia
+F3401-3619			Peru
+F3701-3799			Ecuador

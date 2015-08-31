@@ -1,0 +1,308 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS T - TECHNOLOGY
+
+Subclass T
+
+T1-995	Technology (General)
+T10.5-11.9		Communication of technical information
+T11.95-12.5		Industrial directories
+T55-55.3			Industrial safety.  Industrial accident prevention
+T55.4-60.8		Industrial engineering.  Management engineering
+T57-57.97			Applied mathematics.  Quantitative methods
+T57.6-57.97				Operations research.  Systems analysis
+T58.4			Managerial control systems
+T58.5-58.64			Information technology
+T58.6-58.62			Management information systems
+T58.7-58.8			Production capacity.  Manufacturing capacity
+T59-59.2			Standardization
+T59.5			Automation
+T59.7-59.77			Human engineering in industry.  Man-machine systems
+T60-60.8			Work measurement.  Methods engineering
+T61-173		Technical education.  Technical schools
+T173.2-174.5		Technological change
+T175-178		Industrial research.  Research and development
+T201-342		Patents.  Trademarks
+T351-385		Mechanical drawing.  Engineering graphics
+T391-995		Exhibitions.  Trade shows.  World's fairs
+
+Subclass TA
+
+TA1-2040	Engineering (General).  Civil engineering (General)
+TA164		Bioengineering
+TA165		Engineering instruments, meters, etc.  Industrial instrumentation
+TA166-167		Human engineering
+TA168		Systems engineering
+TA170-171		Environmental engineering
+TA174		Engineering design
+TA177.4-185		Engineering economy
+TA190-194		Management of engineering works
+TA197-198		Engineering meteorology
+TA213-215		Engineering machinery, tools, and implements
+TA329-348		Engineering mathematics.  Engineering analysis
+TA349-359		Mechanics of engineering.  Applied mechanics
+TA365-367		Acoustics in engineering.  Acoustical engineering
+TA401-492		Materials of engineering and construction.  Mechanics of materials
+TA495		Disasters and engineering
+TA501-625		Surveying
+TA630-695		Structural engineering (General)
+TA703-712		Engineering geology.  Rock mechanics.  Soil mechanics. 
+Underground construction
+
+TA715-787		Earthwork.  Foundations
+TA800-820		Tunneling.  Tunnels
+TA1001-1280		Transportation engineering
+TA1501-1820		Applied optics.  Photonics
+TA2001-2040		Plasma engineering.  Applied plasma dynamics
+
+Subclass TC
+
+TC1-978	Hydraulic engineering
+TC160-181		Technical hydraulics
+TC183-201		General preliminary operations.  Dredging.  Submarine building
+TC203-380		Harbors and coast protective works.  Coastal engineering. 
+Lighthouses
+TC401-506		River, lake, and water-supply engineering (General)
+TC530-537		River protective works.  Regulation.  Flood control
+TC540-558		Dams.  Barrages
+TC601-791		Canals and inland navigation.  Waterways
+TC801-978		Irrigation engineering.  Reclamation of wasteland.  Drainage
+TC1501-1800	Ocean engineering
+
+Subclass TD
+
+TD1-1066	Environmental technology.  Sanitary engineering
+TD159-168		Municipal engineering
+TD169-171.8		Environmental protection
+TD172-193.5		Environmental pollution
+TD194-195		Environmental effects of industries and plants
+TD201-500		Water supply for domestic and industrial purposes
+TD419-428			Water pollution
+TD429.5-480.7	 		Water purification.  Water treatment and conditioning.  Saline
+water conversion
+TD481-493			Water distribution systems
+TD511-780		Sewage collection and disposal systems.  Sewerage
+TD783-812.5		Municipal refuse.  Solid wastes
+TD813-870		Street cleaning.  Litter and its removal
+TD878-894		Special types of environment
+Including soil pollution, air pollution, noise pollution
+TD895-899		Industrial and factory sanitation
+TD896-899			Industrial and factory wastes
+TD920-934		Rural and farm sanitary engineering
+TD940-949		Low temperature sanitary engineering
+TD1020-1066		Hazardous substances and their disposal
+
+Subclass TE
+
+TE1-450	Highway engineering.  Roads and pavements
+TE175-176.5		Highway design.  Interchanges and intersections
+TE177-178.8		Roadside development.  Landscaping
+TE200-205		Materials for roadmaking
+TE206-209.5		Location engineering
+
+TE210-228.3		Construction details
+Including foundations, maintenance, equipment
+TE250-278.8		Pavements and paved roads
+TE279		Streets
+TE279.5-298		Pedestrian facilities
+TE280-295			Sidewalks.  Footpaths.  Flagging
+TE298			Curbs.  Curbstones
+
+Subclass TF
+
+TF1-1620	Railroad engineering and operation
+TF200-320		Railway construction
+TF340-499		Railway equipment and supplies
+TF501-668		Railway operation and management
+TF670-851		Local and light railways
+TF840-851			Elevated railways and subways
+TF855-1127		Electric railways
+TF1300-1620		High speed ground transporation
+
+Subclass TG
+
+TG1-470	Bridge engineering
+
+Subclass TH
+
+TH1-9745	Building construction
+TH845-895		Architectural engineering.  Structural engineering of buildings
+TH900-915		Construction equipment in building
+TH1000-1725		Systems of building construction
+Including fireproof construction, concrete construction
+TH2025-3000		Details in building design and construction
+Including walls, roofs
+TH3301-3411		Maintenance and repair
+TH4021-4977		Buildings: Construction with reference to use
+Including public buildings, dwellings
+TH5011-5701		Construction by phase of the work (Building trades)
+TH6014-6081		Environmental engineering of buildings.  Sanitary engineering of
+buildings
+TH6101-6887		Plumbing and pipefitting
+TH7005-7699		Heating and ventilation.  Air conditioning
+TH7700-7975		Illumination.  Lighting
+TH8001-8581		Decoration and decorative furnishings
+TH9025-9745		Protection of buildings
+Including protection from dampness, fire, burglary
+
+Subclass TJ
+
+TJ1-1570	Mechanical engineering and machinery
+TJ163.13-163.25		Power resources
+TJ163.26-163.5		Energy conservation
+
+TJ170-179		Mechanics applied to machinery.  Dynamics
+TJ181-210		Mechanical movements
+TJ210.2-211.47		Mechanical devices and figures.  Automata.  Ingenious mechanisms. 
+Robots (General)
+TJ212-225		Control engineering systems.  Automatic machinery (General)
+TJ227-240		Machine design and drawing
+TJ241-254.7		Machine construction (General)
+TJ255-265		Heat engines
+TJ266-267.5		Turbines.  Turbomachines (General)
+TJ268-740		Steam engineering
+TJ603-695			Locomotives
+TJ751-805		Miscellaneous motors and engines
+Including gas, gasoline, diesel engines
+TJ807-830		Renewable energy sources
+TJ836-927		Hydraulic machinery
+TJ940-940.5		Vacuum technology
+TJ950-1030		Pneumatic machinery
+TJ1040-1119		Machinery exclusive of prime movers
+TJ1125-1345		Machine shops and machine shop practice
+TJ1350-1418		Hoisting and conveying machinery
+TJ1425-1475		Lifting and pressing machinery
+TJ1480-1496		Agricultural machinery.  Farm machinery
+TJ1501-1519		Sewing machines
+
+Subclass TK
+
+TK1-9971	Electrical engineering.  Electronics.  Nuclear engineering
+TK301-399		Electric meters
+TK452-454.4		Electric apparatus and materials.  Electric circuits.  Electric
+networks
+TK1001-1841		Production of electric energy or power.  Powerplants.  Central
+stations
+TK2000-2891		Dynamoelectric machinery and auxiliaries
+Including generators, motors, transformers
+TK2896-2985		Production of electricity by direct energy conversion
+TK3001-3521		Distribution or transmission of electric power
+TK4001-4102		Applications of electric power
+TK4125-4399		Electric lighting
+TK4601-4661		Electric heating
+TK5101-6720		Telecommunication
+Including telegraphy, telephone, radio, radar, television
+TK7800-8360		Electronics
+TK7885-7895			Computer engineering.  Computer hardware
+TK8300-8360			Photoelectronic devices (General)
+TK9001-9401		Nuclear engineering.  Atomic power
+TK9900-9971		Electricity for amateurs.  Amateur constructors' manuals
+
+Subclass TL
+
+TL1-4050	Motor vehicles.  Aeronautics.  Astronautics
+TL1-484		Motor vehicles.  Cycles
+
+TL500-777		Aeronautics.  Aeronautical engineering
+TL780-785.8		Rocket propulsion.  Rockets
+TL787-4050		Astronautics.  Space travel
+
+Subclass TN
+
+TN1-997	Mining engineering.  Metallurgy
+TN263-271		Mineral deposits.  Metallic ore deposits.  Prospecting
+TN275-325		Practical mining operations.  Safety measures
+TN331-347		Mine transportation, haulage and hoisting.  Mining machinery
+TN400-580		Ore deposits and mining of particular metals
+TN600-799		Metallurgy
+TN799.5-948		Nonmetallic minerals
+TN950-997		Building and ornamental stones
+
+Subclass TP
+
+TP1-1185	Chemical technology
+TP155-156		Chemical engineering
+TP200-248		Chemicals: Manufacture, use, etc.
+TP248.13-248.65		Biotechnology
+TP250-261		Industrial electrochemistry
+TP267.5-301		Explosives and pyrotechnics
+TP315-360		Fuel
+TP368-456		Food processing and manufacture
+TP480-498		Low temperature engineering.  Cryogenic engineering.  Refrigeration
+TP500-660		Fermentation industries.  Beverages.  Alcohol
+TP670-699		Oils, fats, and waxes
+TP690-692.5			Petroleum refining.  Petroleum products
+TP700-746		Illuminating industries (Nonelectric)
+TP751-762		Gas industry
+TP785-869		Clay industries.  Ceramics.  Glass
+TP875-888		Cement industries
+TP890-933		Textile bleaching, dyeing, printing, etc.
+TP934-945		Paints, pigments, varnishes, etc.
+TP1080-1185		Polymers and polymer manufacture
+
+Subclass TR
+
+TR1-1050	Photography
+TR250-265		Cameras
+TR287-500		Photographic processing.  Darkroom technique
+TR504-508		Transparencies.  Diapositives
+TR510-545		Color photography
+TR550-581		Studio and laboratory
+TR590-620		Lighting
+TR624-835		Applied photography
+Including artistic, commercial, medical photography,
+photocopying processes
+TR845-899		Cinematography.  Motion pictures
+
+TR925-1050		Photomechanical processes
+
+Subclass TS
+
+TS1-2301	Manufactures
+TS155-194		Production management.  Operations management
+TS195-198.8		Packaging
+TS200-770		Metal manufactures.  Metalworking
+TS780-788		Stonework
+TS800-937		Wood technology.  Lumber
+TS840-915			Wood products.  Furniture
+TS920-937			Chemical processing of wood
+TS940-1047		Leather industries.  Tanning
+TS1060-1070		Furs
+TS1080-1268		Paper manufacture and trade
+TS1300-1865		Textile industries
+TS1870-1935		Rubber industry
+TS1950-1982		Animal products
+TS2120-2159		Cereals and grain.  Milling industry
+TS2220-2283		Tobacco industry
+TS2284-2288		Animal feeds and feed mills.  Pet food industry
+
+Subclass TT
+
+TT1-999	Handicrafts.  Arts and crafts
+TT161-170.7		Manual training.  School shops
+TT174-176		Articles for children
+TT180-200		Woodworking.  Furniture making.  Upholstering
+TT201-203		Lathework.  Turning
+TT205-267		Metalworking
+TT300-382.8		Painting.  Wood finishing
+TT387-410		Soft home furnishings
+TT490-695		Clothing manufacture.  Dressmaking.  Tailoring
+TT697-927		Home arts.  Homecrafts
+Including sewing, embroidery, decorative crafts
+TT950-979		Hairdressing.  Beauty culture.  Barbers' work
+TT980-999		Laundry work
+
+Subclass TX
+
+TX1-1110	Home economics
+TX301-339		The house
+Including arrangement, care, servants
+TX341-641		Nutrition.  Foods and food supply
+TX642-840		Cooking
+TX851-885		Dining-room service
+TX901-946.5		Hospitality industry.  Hotels, clubs, restaurants, etc.  Food service
+TX950-953		Taverns, barrooms, saloons
+TX955-985		Building operation and housekeeping
+TX1100-1105		Mobile home living
+
+TX1110		Recreational vehicle living

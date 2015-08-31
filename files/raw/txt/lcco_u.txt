@@ -1,0 +1,153 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS U - MILITARY SCIENCE
+
+Subclass U
+
+U1900	Military science (General)
+U2122.3		War.  Philosophy.  Military sociology
+U2743		History of military science
+U45		Historiography
+U5659		Army clubs
+U150155		Military planning
+U161163		Strategy
+U164167.5		Tactics
+U168		Logistics
+U250255	  	Maneuvers (combined arms)
+U260		Joint operations.  Combined operations
+U261		Amphibious warfare
+U262		Commando tactics
+U263264.5		Atomic warfare.  Atomic weapons
+U300305	  	Artillery and rifle ranges
+U310310.2		War games
+U320325	  	Physical training of soldiers
+U400714	  	Military education and training
+U750773	  	Military life, manners and customs, antiquities, etc.
+U799897	  	History of arms and armor
+
+Subclass UA
+
+UA10997	 Armies: Organization, distribution, military situation
+UA21885		By region or country
+UA910915	  	Mobilization
+UA920925	  	Plans for attack and defense
+UA926929	  	Civil defense
+UA929.5929.95		War damage in industry.  Industrial defense
+UA940945	  	Military communication
+UA950979	  	Routes of travel.  Distances
+UA985997	  	Military geography
+
+Subclass UB
+
+UB1900	Military administration
+UB160165		Records, returns, muster rolls, etc.
+UB170175	  	Adjutant generals' offices
+UB180197	  	Civilian personnel departments
+UB250271	  	Intelligence
+UB273274	  	Sabotage
+UB275277	  	Psychological warfare.  Propaganda
+UB320338		Enlistment, recruiting, etc.
+
+UB340345	  	Compulsory service.  Conscription and exemption
+UB356369.5		Provision for veterans
+UB370375	  	Military pensions, etc.
+UB380385	  	Soldiers' and sailors' homes
+UB407409	  	Warrant officers.  Noncommissioned officers
+UB410415	  	Officers
+UB416419	  	Minorities, women, etc. in armed forces
+UB420425	  	Furloughs
+UB440449.5		Retired military personnel
+
+Subclass UC
+
+UC10780	Maintenance and transportation
+UC20258		Organization of the service.  By region or country
+UC260267		Supplies and stores
+UC270360	  	Transportation
+UC400440	  	Barracks.  Quarters.  Camps
+UC460535	  	Clothing and equipment
+UC540585	  	Equipage.  Field kits
+UC600695	  	Horses.  Mules.  Remount service
+UC700780	  	Subsistence
+
+Subclass UD
+
+UD1495	Infantry
+UD157302		Tactics.  Maneuvers.  Drill regulations
+UD320325	  	Manual of arms
+UD330335	  	Firing.  Military sharpshooting
+UD340345	  	Bayonet drill
+UD380425	  	Small arms.  Swords, etc.
+UD450455	  	Mounted infantry
+UD460464	  	Mountain troops
+UD470475	  	Ski troops
+UD480485	  	Airborne troops.  Parachute troops
+UD490495	  	Airmobile operations
+
+Subclass UE
+
+UE1500	Cavalry.  Armor
+Including horse cavalry, armored cavalry, mechanized cavalry
+UE144145		Horse cavalry
+UE147		Armored cavalry
+UE157302	  	Tactics.  Maneuvers.  Drill regulations
+UE420425	  	Cavalry sword exercises
+UE460475	  	Horses
+
+Subclass UF
+
+UF1910	Artillery
+UF157302		Tactics.  Maneuvers.  Drill regulations
+
+UF400405	  	Field artillery
+UF450455	  	Seacoast artillery
+UF460465	  	Siege artillery
+UF470475	  	Howitzer artillery.  Mortar batteries
+UF480485	  	Garrison artillery
+UF500515	  	Weapons systems
+UF520537	  	Ordnance and small arms
+UF540545	  	Arsenals, magazines, armories, etc.
+UF560780	  	Ordnance material (Ordnance proper)
+UF820830	  	Ballistics.  Velocities and motions of projectiles
+UF848856	  	Artillery instruments.  Fire control, etc.
+
+Subclass UG
+
+UG1620	Military engineering
+UG160302		Tactics and regulations
+UG335		Bridges
+UG340		Tunnels
+UG360390	  	Field engineering
+UG400442	  	Fortification
+UG443449	  	Attack and defense.  Siege warfare
+UG470474	  	Military surveying, topography, and  mapping
+UG490		Land mines, etc.
+UG500565	  	Technical troops and other special corps
+UG570582	  	Military signaling
+UG590613.5		Military telegraphy and telephony
+UG614614.5		Military electric lighting
+UG615620	  	Military motor vehicles
+UG6221435	Air forces.  Air warfare
+UG633635		By region or country
+UG637639	  	Education and training
+UG640645	  	Military aeronautical research
+UG700705	  	Tactics
+UG730735	  	Air defenses
+UG760765	  	Aerial reconnaissance
+UG7701045	 	Organization.  Personnel management
+UG1097		Air bases
+UG11001435		Equipment and supplies
+UG15001530	Military astronautics.  Space warfare.  Space surveillance
+UG15231525		By region or country
+
+Subclass UH
+
+UH20910	Other services
+UH2025		Chaplains
+UH201515	  	Medical and sanitary services
+UH520(560)		Care of sick and wounded.  Relief societies
+UH600629.5		Military hygiene and sanitation
+UH700705	  	Public relations.  Press.  War correspondents
+UH750769		Military social work.  Social welfare services
+
+UH800910	  	Recreation and information services

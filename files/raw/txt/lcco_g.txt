@@ -1,0 +1,303 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS G - GEOGRAPHY.  ANTHROPOLOGY.  RECREATION
+
+Subclass G
+
+G1922	Geography (General)
+G6569		Geographers
+G7070.6		Philosophy.  Relation to other topics.  Methodology
+G8099		History of geography
+G100.5108.5		Toponymy
+Including gazetteers, geographic names and terms
+G140		Great cities of the world
+G141		Historical geography
+G142		Aerial geography
+G149180		Travel.  Voyages and travels (General)
+G154.9155.8			Travel and state.  Tourism
+G200336		History of discoveries, explorations, and travel
+G369503		Special voyages and travels
+G521539		Adventures, shipwrecks, buried treasure, etc.
+G540550		Seafaring life, ocean travel, etc.
+G575890		Arctic and Antarctic regions
+G905910		Tropics (General)
+G912922		Northern and Southern Hemispheres
+G10003122	Atlases
+G10001000.5		Atlases of the moon, planets, etc.
+G10011046		World atlases.  Atlases of the Earth
+G10501052		Northern and Southern Hemispheres
+G1053		Tropics.  Torrid Zone
+G10541055		Polar regions.  Frigid Zone
+G10591061		Maritime atlases (General)
+G11003102		By region or country
+G11001779			America.  Western Hemisphere
+G11051692				North America
+G11101114					Greenland
+G1115(1193)					Canada
+G12001534.24					United States
+G15351537					Caribbean area
+G15401542					Latin America (General)
+G15451549					Mexico
+G1550(1594)					Central America
+G16001692					West Indies
+G17001779				South America
+G17802799			Eastern Hemisphere.  Eurasia, Africa, etc.
+G17912196				Europe
+G21102196					Former Soviet republics.  Union of Soviet Socialist
+Republics (U.S.S.R.).  Russia (Empire)
+G22002444.84				Asia
+G24452739				Africa
+G27402799			Australasia
+
+G28003064			Oceans (General)
+G31003102			Antarctica
+G3122		Atlases of imaginary, literary, and mythological
+regions, etc., AZ
+G31603171	Globes
+G31809980	Maps
+G31803182		Universe.  Solar system
+G31903191		Celestial maps
+G31953197		Moon
+G32003202		World.  Earth
+G32103221		Northern and Southern Hemispheres
+G32403241		Tropics.  Torrid Zone
+G32503251		Temperate Zone
+G32603272		Polar regions.  Frigid Zone
+G32909880		By region or country
+G32905667			America.  Western Hemisphere
+G33005184				North America
+G33803384					Greenland
+G3400(3612)					Canada
+G37004384					United States
+G43904392					Caribbean area
+G44104763					Mexico
+G48004874					Central America
+G49005184					West Indies
+G52005667				South America
+G56708904			Eastern Hemisphere.  Eurasia, Africa, etc.
+G57007342				Europe
+G70007342					Former Soviet republics.  Union of Soviet Socialist
+Republics (U.S.S.R.).  Russia (Empire)
+G74008198.54				Asia
+G82008904				Africa
+G89509084			Australasia
+G90959794			Oceans (General)
+G98009804			Antarctica
+G99009980		Unlocalized maps
+
+Subclass GA
+
+GA11776	Mathematical geography.  Cartography
+GA5187		Surveys (General)
+GA1011776		Cartography
+GA109			Aerial cartography
+GA109.5			Cadastral mapping
+GA109.8			Statistical mapping
+GA110115			Projection
+GA125155			Map drawing, modeling, printing, reading, etc.
+GA192197.3			Collections of maps, globes, etc.  Map libraries
+GA197.5198			Cartographers
+GA260288			Globe making.  Globes
+GA300325			World maps, general atlases, etc.
+GA3411776			Maps.  By region or country
+
+Subclass GB
+
+GB35030	Physical geography
+GB400649		Geomorphology.  Landforms.  Terrain
+GB447			Climatic geomorphology
+GB448			Slopes
+GB450460			Coasts
+GB461468.995			Reefs
+GB471478.995			Islands
+GB500555			Mountains.  Orography
+GB561649			Other natural landforms: Floodplains, caves,
+deserts, dunes, etc.
+GB6512998		Hydrology.  Water
+GB9802998			Ground and surface waters
+GB980992				Watersheds.  Runoff.  Drainage
+GB10011199.8				Groundwater.  Hydrogeology
+GB12011598				Rivers.  Stream measurements
+GB16012398				Lakes.  Limnology.  Ponds.  Lagoons
+GB24012598				Ice.  Glaciers.  Ice sheets.  Sea ice
+GB26012798				Snow.  Snow surveys
+GB28012998				Hydrometeorology
+GB50005030		Natural disasters
+
+Subclass GC
+
+GC11581	Oceanography
+GC63		Oceanographic expeditions
+GC6578		Underwater exploration
+GC8387.6		Submarine topography
+GC9697.8		Estuarine oceanography
+GC100103		Seawater
+GC109149		Chemical oceanography
+GC150182		Physical oceanography
+GC151155			Density
+GC160177			Temperature
+GC177.6182			Optical oceanography
+GC190190.5		Oceanatmosphere interaction
+GC200376		Dynamics of the ocean
+GC205227			Waves
+GC228.5228.6			Ocean circulation
+GC229296.8			Currents
+GC297299			Water masses and oceanic mixing
+GC300376			Tides
+GC377399		Marine sediments
+GC401881		Oceanography.  By region
+GC10001023		Marine resources.  Applied oceanography
+GC10801581		Marine pollution.  Sea water pollution
+
+Subclass GE
+
+
+GE1350	Environmental sciences
+GE7090		Environmental education
+GE170190		Environmental policy
+GE195199		Environmentalism.  Green movement
+GE300350		Environmental management
+
+Subclass GF
+
+GF1900	Human ecology.  Anthropogeography
+GF51		Environmental influences on humans
+GF75		Human influences on the environment
+GF101127		Settlements
+GF125			Cities.  Urban geography
+GF127			Rural settlements.  Rural geography
+GF500900		By region or country
+
+Subclass GN
+
+GN1890	Anthropology
+GN49298		Physical anthropology.  Somatology
+GN5159			Anthropometry
+GN62.8265			Human variation
+Including growth, physical form, skeleton,
+nervous system, skin, etc.
+GN269279			Race (General)
+GN280.7			Man as an animal.  Simian traits versus human traits
+GN281289			Human evolution
+GN282286.7				Fossil man.  Human paleontology
+GN296296.5			Medical anthropology
+GN301674		Ethnology.  Social and cultural anthropology
+GN357367			Culture and cultural processes
+Including social change, structuralism, diffusion, etc.
+GN378396			Collected ethnographies
+GN397397.7			Applied anthropology
+GN406517			Cultural traits, customs, and institutions
+GN406442				Technology.  Material culture
+Including food, shelter, fire, tools, etc.
+GN448450.8				Economic organization.  Economic anthropology
+GN451477.7				Intellectual life
+Including communication, recreation, philosophy,
+religion, knowledge, etc.
+GN478491.7				Social organization
+GN492495.2				Political organization.  Political anthropology
+GN495.4498				Societal groups, ethnocentrism, diplomacy, warfare, etc.
+GN502517				Psychological anthropology
+GN537674			Ethnic groups and races
+GN550674				By region or country
+GN700890		Prehistoric archaeology
+
+Subclass GR
+
+GR1950	Folklore
+GR7279		Folk literature (General)
+Including folktales, legends
+GR81		Folk beliefs, superstitions, etc. (General)
+GR99.6390		By region or country
+GR420950		By subject
+GR420426			Costume, jewelry
+GR430488			Folklore relating to private life
+Including dreams, love, children, nursery
+rhymes, etc.
+GR500615			Supernatural beings, demonology, fairies, ghosts,
+charms, etc.
+GR620640			Cosmic phenomena, weather lore
+GR650690			Geographical topics
+GR700860			Animals, plants, and minerals
+GR865874			Transportation, travel, commerce, etc.
+GR880			Medicine.  Folk medicine
+GR890915			Occupations
+GR931935			Signs and symbols
+GR940941			Mythical places
+
+Subclass GT
+
+GT17070	Manners and customs (General)
+GT165476		Houses.  Dwellings
+GT485		Churches and church going
+GT495499		Human body and its parts.  Personal beauty
+GT5002370		Costume.  Dress.  Fashion
+GT24003390.5		Customs relative to private life
+Including children, marriage, eating and drinking,
+funeral customs, etc.
+GT34005090		Customs relative to public and social life
+Including town life, court life, festivals,
+holidays, ceremonies of royalty, etc.
+GT52205286		Customs relative to transportation and travel
+GT53206737		Customs relative to special classes
+GT53205690			By birth, rank, etc.
+GT57506390			By occupation
+
+Subclass GV
+
+GV11860	Recreation.  Leisure
+GV181.35181.6		Recreation leadership.  Administration of recreation services
+GV182182.5		Recreational areas and facilities.  Recreation centers
+GV191.2200.66		Outdoor life.  Outdoor recreation
+GV191.68198.975			Camping
+GV198.945198.975				Farm vacations, dude ranches, etc.
+GV199199.62			Hiking.  Pedestrian tours
+GV199.8200.35			Mountaineering
+GV200.4200.56			Orienteering.  Wilderness survival
+GV200.6200.66			Caving.  Spelunking
+
+GV201555		Physical education and training
+GV346351.5			School and college athletics.  Intramural
+and interscholastic athletics
+GV401433			Physical education facilities.  Sports facilities
+Including gymnasiums, athletic fields,
+playgrounds, etc.
+GV435436.7			Physical measurements.  Physical tests, etc.
+GV450451.4			Nudism.  Sunbathing
+GV460555			Gymnastics.  Gymnastic exercises
+Including calisthenics, heavy exercises,
+acrobatics, etc.
+GV5571198.995		Sports
+GV711			Coaching
+GV712725			Athletic contests.  Sports events
+GV733734.5			Professionalism in sports.  Professional sports (General)
+GV735			Umpires.  Sports officiating
+GV743749			Athletic and sporting goods, supplies, etc.
+GV750770.27			Air sports: Airplane flying, kiteflying, bungee jumping, etc.
+GV770.3840			Water sports: Canoeing, sailing, yachting, scuba
+diving, etc.
+GV840.7857			Winter sports: Ice hockey, skiing, bobsledding,
+snowmobiling, etc.
+GV8611017			Ball games: Baseball, football, golf, etc.
+GV10201034			Automobile travel.  Motoring.  Automobile racing
+GV10401060.4			Cycling.  Bicycling.  Motorcycling
+GV1060.51098			Track and field athletics
+GV11001150.9			Fighting sports: Bullfighting, boxing, fencing, etc.
+GV11511190			Shooting.  Archery
+GV11951198.995			Wrestling
+GV11991570		Games and amusements
+GV1201.5			Hobbies (General)
+GV12031220.8			Children's games and amusements
+GV1218.51220.8				Toys
+GV12211469.63			Indoor games and amusements
+GV12321299				Card games: Poker, patience, whist, etc.
+GV13011311				Gambling.  Chance and banking games
+GV13121469				Board games.  Move games
+Including chess, go, checkers, etc.
+GV1469.151469.62				Computer games.  Video games.  Fantasy games
+GV14701511			Parties.  Party games and stunts
+GV14911507				Puzzles
+GV15411561			Parlor magic and tricks
+GV15641565			Darts
+GV15801799.4		Dancing
+GV18001860		Circuses, spectacles, etc.
+Including rodeos, waxworks, amusement parks, etc.

@@ -1,0 +1,254 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS J - POLITICAL SCIENCE
+
+Subclass J
+
+J(1)981	General legislative and executive papers
+J(1)(9)		Gazettes
+The Library of Congress now classes this
+material in K
+J8087		United States
+J8082			Presidents' messages and other executive
+papers
+J100981		Other regions and countries
+
+Subclass JA
+
+JA192		Political science (General)
+JA126			Periodicals
+JA2734			Societies
+JA35.5			Congresses
+JA6064			Dictionaries and encyclopedias
+JA7180			Theory.  Relations to other subjects
+JA8184			History
+JA8688			Study and teaching.  Research
+JA92			Collective biography of political scientists
+
+Subclass JC
+
+JC11605	Political theory.  The state.  Theories of the state
+JC47		Oriental state
+JC49		Islamic state
+JC5193		Ancient state
+JC109121		Medieval state
+JC131273		Modern state
+JC177178			Thomas Paine
+JC311314		Nationalism.  Nation state
+JC319323		Political geography
+JC327		Sovereignty
+JC328.2		Consensus.  Consent of the governed
+JC328.6.65		Violence.  Political violence
+JC329		Patriotism
+JC345347		Symbolism
+JC348497		Forms of the state
+JC571605		Purpose, functions, and relations of the state
+
+Subclass JF
+
+JF202112	Political institutions and public administration
+
+JF201177		General.  Comparative government
+JF5156			General works.  History
+JF225619			Organs and functions of government
+JF251289				Executive.  Heads of state
+JF331341				Parliamentary government
+JF491619				Legislation.  Legislative process.  Lawmaking
+JF7991177	 		Political rights.  Political participation
+JF13382112		Public administration
+JF15011521			Civil service
+JF20112112			Political parties
+
+Subclass JJ
+
+JJ10001019	Political institutions and public administration
+(North America)
+
+Subclass JK
+
+JK19993	Political institutions and public administration
+(United States)
+JK19593		United States
+JK4041685			Government.  Public administration
+JK501868				Executive branch
+JK631868					Civil Service.  Departments and agencies
+JK10121432				Congress.  Legislative branch
+JK11541276					Senate
+JK13081432					House of Representatives
+JK16061683				Capital.  Public buildings.  Government
+property.  Government purchasing
+JK17172217			Political rights.  Practical politics
+JK17581761				Citizenship
+JK18461929				Suffrage
+JK19652217				Electoral system
+JK22552391			Political parties
+JK24039593			State government
+JK96639993		Confederate States of America
+
+Subclass JL
+
+JL13899	Political institutions and public administration
+(Canada, Latin America, etc.)
+JL1500		Canada
+JL599.5839		West Indies.  Caribbean Area
+JL12001299		Mexico
+JL14001679		Central America
+JL18503899		South America
+
+Subclass JN
+
+JN19689	Political institutions and public administration (Europe)
+
+JN197		General
+JN1011371		Great Britain
+JN11871371			Scotland
+JN13951571.5		Ireland
+JN16012191		AustriaHungary.  Austria.  Hungary
+JN22102229		Czech Republic.  Czechoslovakia
+JN2240		Slovakia
+JN23013007		France
+JN32014944		Germany
+JN50015191		Greece
+JN52015690		Italy
+JN57015999		Netherlands
+JN61016371		Belgium
+JN65006598		Soviet Union.  Russia.  Former Soviet Republics
+JN6615		Estonia
+JN66306639		Ukraine
+JN66406649		Belarus
+JN66806689		Moldova
+JN66906699		Russia (Federation)
+JN67306739		Latvia
+JN6745		Lithuania
+JN67506769		Poland
+JN70117066		Scandinavia.  Northern Europe
+JN71017367		Denmark
+JN73707379		Greenland
+JN73807389		Iceland
+JN73907399		Finland
+JN74017695		Norway
+JN77217995		Sweden
+JN81018399		Spain
+JN84238661		Portugal
+JN87019599		Switzerland
+JN96009689		Balkan States
+
+Subclass JQ
+
+JQ216651	Political institutions and public administration (Asia,
+Africa, Australia, Pacific Area, etc.)
+JQ211852		Asia
+JQ200620			India
+JQ10701199			Central Asia
+Including former republics of the Soviet
+Union
+JQ14991749			East Asia
+Including China, Japan, Korea
+JQ17581852			Middle East
+Including Turkey, Iran, Israel, Arabian
+Peninsula
+JQ1850				Arab countries
+JQ1852				Islamic countries
+JQ18703981		Africa
+
+JQ3981.53986.7		Atlantic Ocean islands
+JQ39956651		Australia.  New Zealand.  Pacific Ocean islands
+
+Subclass JS
+
+JS398500	Local government.  Municipal government
+JS5568		History
+JS141163		Executive branch.  Mayor
+JS171		Legislative branch
+JS221227		Elections.  Local elections.  Municipal elections
+JS241271		Local government other than municipal
+JS3001583		United States
+JS17011800		Canada
+JS18402058.9		West Indies.  Caribbean Area
+JS21012143		Mexico
+JS21452219		Central America
+JS23002778		South America
+JS30006949.89		Europe
+JS69507520		Asia
+JS7510			Arab countries
+JS7520			Islamic countries
+JS75257819.9		Africa
+JS78207827.9		Atlantic Ocean islands
+JS79007906.9		Indian Ocean islands
+JS80018490.9		Australia.  New Zealand.  Pacific Ocean islands
+
+Subclass JV
+
+JV19480	Colonies and colonization.  Emigration and
+immigration.  International migration
+JV15397		Colonies and colonization
+JV19			Periodicals.  Serials
+JV1019			Societies
+JV61152			History
+JV412461			Administration
+JV5005397			Colonizing nations
+JV60019480		Emigration and immigration.  International
+migration
+JV60016006			Periodicals.  Serials
+JV60216033			History
+JV60916124			Emigration
+JV62016347			Immigration
+JV64037127			United States
+JV72007539			Canada, Latin America, etc.
+JV75908339.7			Europe
+JV84908758			Asia
+JV8760			Arab countries
+JV8762			Islamic countries
+JV87909024.5			Africa
+JV90299036			Atlantic Ocean islands
+JV90409047			Indian Ocean islands
+
+JV91009269			Australia.  New Zealand
+JV92909470			Pacific Ocean islands
+
+Subclass JX (obsolete)
+
+JX(1)(6650)	International law, see JZ and KZ
+JX(63)(191)		Collections.  Documents.  Cases
+JX(220)(1195)		Collections, cases, etc.  By country
+JX(1261)(1283)		Codification of international law
+JX(1305)(1598)		Foreign relations
+JX(1621)(1896)		Diplomacy
+JX(1901)(1995)		International arbitration, organization, etc.
+JX(2001)(6650)		International law
+
+Subclass JZ
+
+JZ56530	International relations
+JZ5.518		Periodicals
+JZ2438		Societies, associations, academies, institutes, etc.,
+for the study of international relations
+JZ631153		Sources
+JZ2211153			By region or country
+JZ12491254		Relation to other disciplines and topics
+JZ13052060		Scope of international relations. Political theory.
+Diplomacy
+JZ1329.51395			By period
+JZ14001454			Diplomatic and consular service
+JZ14642060			Scope of international relations with regard to
+countries, territories, regions, etc.
+JZ36743875		State territory and its parts
+JZ3685			Boundaries
+JZ36863875			International waters
+JZ48355490		International organizations and associations
+JZ48414848			Political nongovernmental organizations.
+NGOs
+JZ48505490			Intergovernmental organizations.  IGOs
+JZ48534934				League of Nations
+JZ49355160				United Nations
+JZ5511.26300		Promotion of peace.  Peaceful change
+JZ55145526			Societies, associations, academies, institutes, etc.,
+for peace promotion, research and education
+JZ55275532			Congresses and conferences
+JZ55876009			International security.  Disarmament.  Global survival
+JZ60106060			Pacific settlement of international disputes
+JZ63606377		Nonmilitary coercion
+JZ63856405		The armed conflict.  War and order
+JZ64226422.5		Neutrality.  Nonparticipation in wars.  Norms of
+neutrality
+JZ6530		Humanitarian aspects of war

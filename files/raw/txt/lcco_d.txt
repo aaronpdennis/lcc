@@ -1,0 +1,1289 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS D - WORLD HISTORY AND HISTORY OF EUROPE, ASIA, AFRICA, AUSTRALIA, NEW ZEALAND, ETC.
+
+Subclass D		
+
+D1-2027	History (General)
+D1-24.5		General
+D25-27		Military and naval history
+D31-34		Political and diplomatic history
+D51-90		Ancient history
+D101-110.5		Medieval and modern history, 476-
+D111-203		Medieval history
+D135-149			Migrations
+D151-173			Crusades
+D175-195			Latin Kingdom of Jerusalem.  Latin Orient, 1099-1291
+D200-203			Later medieval.  11th-15th centuries
+D(204)-(475)		Modern history, 1453-
+D219-234			1453-1648
+D242-283.5			1601-1715.  17th century
+D251-271				Thirty Years= War, 1618-1648
+D274.5-6				Anglo-French War, 1666-1667
+D275-276				War of Devolution, 1667-1668
+D277-278.5				Dutch War, 1672-1678
+D279-280.5				War of the Grand Alliance, 1688-1697
+D281-283.5				War of Spanish Succession, 1701-1714
+D284-297			1715-1789.  18th century
+D291-294				War of Austrian Succession, 1740-1748
+D297				Seven Years= War, 1756-1763
+D299-(475)			1789-
+D301-309				Period of the French Revolution
+D351-400				19th century.  1801-1914/1920
+D371-(379)					Eastern question
+D383					1815-1830.  Congress of Vienna
+D385-393					1830-1870
+D394-400					1871-    .  Later 19th century
+D410-(475)				20th century
+D461-(475)					Eastern question
+D501-680				World War I (1914-1918)
+D720-728				Period between World Wars (1919-1939)
+D731-838				World War II (1939-1945)
+D839-860				Post-war history (1945-    )
+D880-888				Developing countries
+D890-893				Eastern Hemisphere
+D900-2009				Europe (General)
+D901-980					Description and travel
+D1050-2027					History
+
+Subclass DA    
+
+DA1-995	History of Great Britain
+DA10-18.2		British Empire.  Commonwealth of Nations.  The Commonwealth
+DA20-690		England
+DA20-27.5			General
+DA28-592			History
+DA28-35				General
+DA40-89.6				Political, military, naval, and Air Force history.
+Foreign relations
+DA90-125				Antiquities.  Social life and customs.  Ethnography
+DA129-592				By period
+DA129-260					Early and medieval to 1485
+DA140-199						Celts.  Romans.  Saxons.  Danes.  Normans
+DA200-260						1154-1485.  Angevins.  Plantagenets.  Lancaster-York
+DA300-592					Modern, 1485-
+DA310-360						Tudors, 1485-1603
+DA350-360							Elizabeth I, 1558-1603.  Elizabethan age
+DA385-398						Early Stuarts, 1603-1642
+DA400-429						Civil War and Commonwealth, 1642-1660
+DA430-463						Later Stuarts
+DA498-503						1714-1760
+DA505-522						George III, 1760-1820
+DA550-565						Victorian era, 1837-1901
+DA566-592						20th century
+DA600-667			Description and travel.  Guidebooks
+DA670-690			Local history and description
+DA670				Counties, regions, etc., A-Z
+DA675-689				London
+DA690				Other cities, towns, etc., A-Z
+DA700-745		Wales
+DA700-713			General
+DA714-722.1			History
+DA725-738			Description and travel
+DA740-745			Local history and description
+DA750-890		Scotland
+DA750-757.7			General
+DA757.9-826     			History
+DA757.9-763      				General
+DA765-774.5				Political and military history.  Antiquities, etc.
+DA774.8-826   				By period
+DA777-790					Early and medieval to 1603
+DA783.2-783.45						War of Independence, 1285-1371
+DA783.5-790    						Stuarts, 1371-1603
+DA800-814.5					1603-1707/1745
+DA807						The Union, 1707
+DA813-814.5						1707-1745.  Jacobite movements
+DA815-826					19th-20th centuries
+DA850-878			Description and travel
+DA880-890			Local history and description
+DA900-995		Ireland
+DA900-908.7			General
+DA909-965			History
+
+DA909-916.8				General
+DA920-927				Antiquities.  Social life and customs.  Ethnography
+DA930-965				By period
+DA930-937.5					Early and medieval to 1603
+DA933.3						English conquest, 1154-1189
+DA938-966.2					Modern, 1603-
+DA949.5						The Union, 1800
+DA949.7-965    						19th-20th centuries.  Irish question
+DA963							1922-    .  Republic of Ireland.  Irish Free State
+DA966-966.2						21st century
+DA969-988			Description and travel
+DA990-995			Local history and description
+DA990.U45-U46				Northern Ireland (Ulster)
+
+Subclass DAW  
+
+DAW1001-1051	History of Central Europe
+DAW1001-1028		General
+DAW1031-1051		History
+
+Subclass DB    
+
+DB1-3150	History of Austria.  Liechtenstein.  Hungary.  Czechoslovakia
+DB1-879		Austria.  Austro-Hungarian Empire
+DB1-20.5			General
+DB21-27.5			Description and travel
+DB29-34.5			Antiquities.  Social life and customs.  Ethnography
+DB35-99.2			History
+DB35-40.5				General
+DB42-49				Military, naval, and political history.  Foreign relations
+DB51-99.2				By period
+DB51-64					Early and medieval to 1521
+DB60-64						Wars with the Turks
+DB65-99.2					1521-
+DB65.2-65.9						1521-1648
+DB66-69.5						1648-1740
+DB69.7-77    						1740-1815
+DB80-99.2						19th-20th centuries
+DB83							Revolution, 1848
+DB96-99.2							Republic, 1918-
+DB99-99.1								1938-1955.  German annexation.
+Allied occupation
+DB99.2								1955-
+DB101-879			Local history and description
+DB101-785				Provinces, regions, etc.
+DB841-860				Vienna
+DB879				Other cities, towns, etc., A-Z
+DB881-898		Liechtenstein
+DB901-999		Hungary
+DB901-906.7			General
+DB906.9-920.5   			Description and travel.  Antiquities.  Ethnography
+
+DB921-958.6			History
+DB927-958.6				By period
+DB927-932.9					Early to 1792
+DB929-929.8						Árpád dynasty, 896-1301
+DB929.95-931.9    						Elective kings, 1301-1526
+DB932.95-945   					1792-1918.  19th century
+DB934.5-939.5   						Revolution of 1848-1849
+DB940-945						1849-1918
+DB946-958.6					20th century
+DB955-955.8						1918-1945.  Revolution of 1919-1920
+DB955.9-957.5   						1945-1989.  Revolution of 1956
+DB957.9-958.6  						1989-
+DB974.9-999  			Local history and description
+DB974.9-975  				Counties, regions, etc.
+DB981-997				Budapest
+DB2000-3150		Czechoslovakia
+DB2000-2035			General.  Description and travel.  Antiquities.  Social
+life and customs
+DB2040-2043			Ethnography
+DB2044-2247			History
+DB2080-2247				By period
+DB2080-2133					Early and medieval to 1526
+DB2135-2182					Hapsburg rule, 1526-1918
+DB2185-2241					Czechoslovak Republic, 1918-1992
+DB2242-2247					1993-    .  Independent Czech Republic
+DB2300-2650			Local history and description of Czech lands
+DB2300-2421				Moravia
+DB2600-2649				Prague (Praha)
+DB2700-3150			Slovakia
+DB3100-3139				Bratislava (Pressburg)
+
+Subclass DC    
+
+DC1-947	History of France
+DC1-20.5		General
+DC21-29.3		Description and travel
+DC30-34.5		Antiquities.  Social life and customs.  Ethnography
+DC35-424		History
+DC35-41			General
+DC44-59.8			Military, naval, and political history.  Foreign relations
+DC60-424			By period
+DC60-109				Early and medieval to 1515
+DC62-64					Gauls.  Celts.  Franks
+DC64.7-94  					476-1328.  Merovingians.  Carlovingians.  Capetians
+DC95-109					1328-1515
+DC96-101.7						Hundred Years= War, 1339-1453
+DC101.9-109   						15th century.  Jeanne d=Arc, Saint
+DC110-433				Modern, 1515-
+DC111-120					1515-1589.  16th century
+DC118						Massacre of St. Bartholomew, 1572
+DC120.8-130   					1589-1715.  Henri IV, Louis XIII, Louis XIV
+
+DC131-138					1715-1789.  18th century.  Louis XV, Louis XVI
+DC139-249					Revolutionary and Napoleonic period, 1789-1815
+DC251-354.9					19th century
+DC256-260						Restoration, 1815-1830
+DC261-269						July Revolution of 1830.  July Monarchy, 1830-1848
+DC270-274.5						February Revolution and Second Republic
+DC275-280.5						Second Empire, 1852-1870
+DC281-326.5						Franco-German or Franco-Prussian War, 1870-1871
+DC330-354.9						Later 19th century
+DC361-424					20th century
+DC397						1940-1946
+DC398-409						Fourth Republic, 1947-1958
+DC411-424						Fifth Republic, 1958-
+DC425-433					21st century
+DC600-801		Local history and description
+DC601.1-609.83   			North, East, etc. France
+DC611			Regions, provinces, departments, etc., A-Z
+DC701-790			Paris
+DC801			Other cities, towns, etc., A-Z
+DC921-930		Andorra
+DC941-947		Monaco
+
+Subclass DD    
+
+DD1-(905)	History of Germany
+DD1-21		General
+DD21.5-43   		Description and travel
+DD51-78		Antiquities.  Social life and customs.  Ethnography
+DD84-257.4		History
+DD84-96			General
+DD99-120			Military, naval, and political history.  Foreign relations
+DD121-257.4			By period
+DD121-124				Earliest to 481
+DD125-174.6				Early and medieval to 1519
+DD126-155					Medieval Empire, 481-1273
+DD127-135						481-918.  Merovingians.  Carolingians
+DD136-144						919-1125.  Houses of Saxony and Franconia
+DD145-155						1125-1273.  Hohenstaufen period
+DD156-174.6					1273-1519.  Houses of Habsburg and Luxemburg
+DD175-257.4				Modern, 1519-
+DD176-189					1519-1648.  Reformation and Counter-reformation
+DD181-183						Peasants= War, 1524-1525
+DD184-184.7						Schmalkaldic League and War, 1530-1547
+DD189						Period of Thirty Years= War, 1618-1648
+DD190-199					1648-1815.  18th century.  French Revolutionary
+and Napoleonic period
+DD201-257.4					19th-20th centuries
+DD206-216						1815-1871
+DD217-231						New Empire, 1871-1918
+DD228.8							Period of World War I, 1914-1918
+DD233-257.4						Revolution and Republic, 1918-
+
+DD253-256.8							Hitler, 1933-1945.  National socialism
+DD(256)								Period of World War II, 1939-1945
+DD257-257.4						Period of Allied occupation, 1945-
+DD258-262		West Germany
+DD280-289.5		East Germany
+DD301-454		Prussia
+DD301-312			General
+DD314-320			Description and travel
+DD325-339			Antiquities.  Social life and customs.  Ethnography
+DD341-454			History
+DD701-901		Local history and description
+DD701-788			North and Central, Northeast, etc. Germany
+DD801			States, provinces, regions, etc., A-Z
+DD851-900			Berlin
+DD900.2-900.76			Bonn
+DD901			Other cities, towns, etc., A-Z
+
+Subclass DE    
+
+DE1-100	History of the Greco-Roman world
+DE1-15.5		General
+DE23-31		Geography
+DE46-73.2		Antiquities.  Civilization.  Culture.  Ethnography
+DE80-100		History
+
+Subclass DF    
+
+DF10-951	History of Greece
+DF10-289		Ancient Greece
+DF10-16			General
+DF27-41			Geography.  Travel
+DF75-136			Antiquities.  Civilization.  Culture.  Ethnography
+DF207-241			History
+DF207-218				General
+DF220-241				By period
+DF220-221					Bronze Age, Minoan, and Mycenaean ages
+DF221.2-224   					ca. 1125-500 B.C.  Age of Tyrants
+DF225-226					Persian wars, 499-479 B.C.
+DF227-228					Athenian supremacy.  Age of Pericles. 479-431 B.C.
+DF229-230					Peloponnesian War, 431-404 B.C.
+DF230.9-231.9   					Spartan and Theban supremacies, 404-362 B.C.
+DF232.5-233.8   					Macedonian epoch.  Age of Philip.  359-336 B.C.
+DF234-234.9					Alexander the Great, 336-323 B.C.
+DF235-238.9					Hellenistic period, 323-146.B.C.
+DF239-241					Roman epoch, 140 B.C.-323/476 A.D.
+DF251-289			Local history and description
+DF501-649		Medieval Greece.  Byzantine Empire, 323-1453
+DF501-518			General
+DF520-542.4			Antiquities.  Social life and customs.  Ethnography
+DF545-548			Military history.  Political history.  Empire and papacy
+DF550-649			History
+
+DF550-552.8				General
+DF553-599.5				Eastern Empire, 323/476-1057.  Constantine the Great
+DF599.8-649   				1057-1453
+DF610-629					1204-1261.  Latin Empire
+DF630-649					1261-1453.  Palaeologi
+DF645-649						1453.  Fall of Constantinople
+DF701-951		Modern Greece
+DF701-720			General
+DF720.5-728  			Description and travel
+DF741-748			Social life and customs.  Ethnography
+DF750-854.32			History
+DF750-760				General
+DF765-787				Military, naval, and political history.  Foreign relations
+DF801-854.32				By period
+DF801-801.9					Turkish rule, 1453-1821
+DF802-832					1821-1913
+DF804-815						War of Independence, 1821-1829
+DF816-818						Kapodistrias, 1827-1831
+DF833-854.32					20th century
+DF848						Republic, 1924-1935
+DF895-951		Local history and description
+DF901			Regions, provinces, islands, etc., A-Z
+DF901.C78-C88				Crete
+DF915-936			Athens
+DF951			Other cities, towns, etc., A-Z
+
+Subclass DG
+
+DG11-999	History of Italy
+DG11-365		Ancient Italy.  Rome to 476
+DG11-16			General
+DG27-41			Geography.  Description and travel
+DG51-70			Local history and description
+DG51-55				Regions in Italy, A-Z
+DG59				Regions outside of Italy, A-Z
+DG61-69				Rome (City) to 476
+DG70				Other cities, towns, etc., A-Z
+DG75-190			Antiquities.  Civilization.  Culture.  Ethnography
+DG201-365			History
+DG201-215				General
+DG221-365				By period
+DG221-225					Pre-Roman Italy.  Etruria.  Etruscans
+DG231-269					Kings and Republic, 753-27 B.C.
+DG233-233.9						Foundations and kings, 753-510
+DG235-269						Republic, 509-27
+DG237-238							Subjection of Italy, 343-290
+DG241-253							Conquest of Mediterranean world.  264-133
+DG242-249.4								First and Second Punic Wars.  Illyrian
+wars.  264-201
+DG250-253								Wars in the East and in the West.
+200-133
+
+DG253.5-269   								Fall of the Republic and establishment
+of the Empire.  133-27
+DG256-260								Period of Marius and Sulla (Pompey).
+111-78
+DG261-267								Julius Caesar.  First Triumvirate, 60
+DG268-269								Second Triumvirate, 43-31
+DG269.5-365   					Empire, 27 B.C. - 476 A.D.
+DG269.5-274.3  						General
+DG275-309.3						Constitutional Empire, 27 B.C. - 284 A.D.
+DG310-365						284-476.  Decline and fall
+DG401-583.8		Medieval and modern Italy, 476-
+DG401-421			General
+DG421.5-430.2  			Description and travel
+DG431-457			Antiquities.  Social life and customs.  Ethnography
+DG461-583.8			History
+DG461-473				General
+DG480-499				Military, naval, and political history.  Foreign relations
+DG500-583.8				By period
+DG500-537.8					Medieval, 476-1492
+DG503-529						476-1268
+DG506-514.7							489-774.  Gothic and Lombard kingdoms.
+Byzantine exarchate, 553-568
+DG515-529							774-1268.  Frankish and German emperors
+DG530-537.8						1268-1492
+DG532-537.8							Renaissance
+DG538-583.8					Modern, 1492-
+DG539-545.8						16th-18th centuries
+DG546-549						1792-1815.  Napoleonic period
+DG548-549							Kingdom of Italy
+DG550.5-564  						19th century
+DG552-554.5							1848-1871.  Risorgimento
+DG553-553.5								1848-1849.  Austro-Sardinian War
+DG555-575						1871-1947.  United Italy (Monarchy)
+DG571-572							1919-1945.  Fascism
+DG576-583.8						1948-    .  Republic
+DG600-684.72		Northern Italy
+DG600-609			General
+DG610-618.78			Piedmont.  Savoy
+DG631-645			Genoa
+DG651-664.5			Milan.  Lombardy
+DG670-684.72			Venice
+DG691-817.3		Central Italy
+DG691-694			General
+DG731-759.3			Tuscany.  Florence
+DG791-800			Papal States (States of the Church).  Holy See.  Vatican
+DG				City
+DG803-817.3			Rome (Modern city)
+DG819-875		Southern Italy
+DG819-829			General
+DG831			Sicily and Malta
+DG840-857.5			Naples.  Kingdom of the Two Sicilies
+
+DG861-875			Sicily
+DG975		Other cities (non-metropolitan), provinces, etc., A-Z
+DG987-999		Malta.  Maltese Islands
+
+Subclass DH    
+
+DH1-925	History of Low Countries.  Benelux Countries
+DH1-23		General
+DH31-40		Description and travel
+DH51-92		Antiquities.  Social life and customs.  Ethnography
+DH95-207		History
+DH95-109			General
+DH113-137			Military, naval, and political history.  Foreign relations
+DH141-207			By period
+DH141-162				Early and medieval to 1384
+DH171-184				1384-1555.  House of Burgundy
+DH185-207				Wars of Independence, 1555-1648
+DH401-811		Belgium
+DH401-430			General
+DH431-435			Description and travel
+DH451-492			Antiquities.  Social life and customs.  Ethnography
+DH503-694			History
+DH503-527				General
+DH540-569				Military, naval, and political history.  Foreign relations
+DH571-694				By period
+DH571-584					Early and medieval to 1555
+DH585-619					1555-1794.  Spanish and Austrian rule
+DH611-619						1714-1794.  Austrian Netherlands
+DH620-676					1794-1909
+DH631						French rule, 1794-1813
+DH650-652						Revolution of 1830
+DH677-694					20th century
+DH801-811			Local history and description
+DH801				Provinces, regions, etc., A-Z
+DH802-809.95				Brussels
+DH811				Other cities, towns, etc., A-Z
+DH901-925		Luxembourg
+
+Subclass DJ    
+
+DJ1-(500)	History of Netherlands (Holland)
+DJ1-30		General
+DJ33-41		Description and travel
+DJ51-92		Antiquities.  Social life and customs.  Ethnography
+DJ95-292		History
+DJ95-116			General
+DJ124-150			Military, naval, and political history, etc.  Foreign relations
+DJ151-292			By period
+DJ151-152				Early and medieval to 1555
+DJ154-210				1555-1795.  United provinces
+DJ180-182					Anglo-Dutch wars, 1652-1667
+
+DJ190-191					War with France, 1672-1678
+DJ193					Anglo-Dutch War, 1672-1674
+DJ196-199.2					Stadtholders, 1702-1747
+DJ205-206					Anglo-Dutch War, 1780-1784
+DJ208-209					War with France, 1793-1795
+DJ211				1795-1806.  Batavian Republic
+DJ215-292				19th-20th centuries
+DJ401-411		Local history and description
+DJ411.A5-A59			Amsterdam
+
+Subclass DJK   
+
+DJK1-77	History of Eastern Europe (General)
+DJK26-28		Ethnography
+DJK27			Slavic peoples (General)
+DJK30-51		History
+DJK61-77		Local history and description
+DJK61-66			Black Sea region
+DJK71-76			Carpathian Mountain region
+DJK76.2-76.8  			Danube River Valley
+DJK77			Pannonia
+
+Subclass DK    
+
+DK1-949.5	History of Russia.  Soviet Union.  Former Soviet Republics
+DK33-35.5		Ethnography
+DK36-293		History
+DK70-112.42			Early to 1613
+DK70-99.7				Rus=
+DK99.8-112.42  				Muscovy
+DK112.8-264.8  			House of Romanov, 1613-1917
+DK265-265.95			Revolution, 1917-1921
+DK266-292			Soviet regime, 1918-1991
+DK293			1991-
+DK500		Regions not limited to one Republic, A-Z
+DK501-949.5		Local history and description
+DK502.3-502.75  			Baltic States
+DK503-503.95			Estonia
+DK503.92-503.939				Tallinn
+DK504-504.95			Latvia
+DK504.92-504.939				Riga
+DK505-505.95			Lithuania
+DK505.92-505.939				Vilnius
+DK507-507.95			Belarus.  Byelorussian S.S.R.  White Russia
+DK507.92-507.939				Minsk
+DK508-508.95			Ukraine
+DK508.92-508.939				Kiev
+DK509			Southern Soviet Union
+DK509.1-509.95			Moldova.  Moldovian S.S.R.  Bessarabia
+DK509.92-509.939				Chisinau.  Kishinev
+DK510-651			Russia (Federation).  Russian S.F.S.R.
+
+DK541-579				Saint Petersburg.  Leningrad.  Petrograd
+DK588-609				Moscow
+DK670-679.5			Georgia (Republic).  Georgian S.S.R.  Georgian Sakartvelo
+DK679.2-679.39				Tbilisi.  Tiflis
+DK680-689.5			Armenia (Republic).  Armenian S.S.R.
+DK689.2-689.39				Yerevan.  Erevan
+DK690-699.5			Azerbaijan.  Azerbaijan S.S.R.
+DK699.2-699.39				Baku
+DK751-781			Siberia
+DK845-860			Soviet Central Asia.  West Turkestan
+DK901-909.5			Kazakhstan.  Kazakh S.S.R.
+DK909.2-909.39				Alma Ata
+DK911-919.5			Kyrgyzstan.  Kirghiz S.S.R.  Kirghizia
+DK919.2-919.39				Frunze
+DK921-929.5			Tajikistan.  Tajik S.S.R.  Tadzhikistan
+DK929.2-929.39				Dushanbe
+DK931-939.5			Turkmenistan.  Turkmen S.S.R.  Turkmenia
+DK939.2-939.39				Ashkhabad
+DK941-949.5			Uzbekistan.  Uzbek S.S.R.
+DK949.2-949.39				Tashkent
+DK4010-4800	History of Poland
+DK4120-4122		Ethnography
+DK4123-4452		History
+DK4186-4348			To 1795
+DK4348.5-4395   			1795-1918.  19th century (General)
+DK4397-4420			1918-1945
+DK4429-4442			1945-1989.  People=s Republic
+DK4445-4452			1989-
+DK4600-4800		Local history and description
+DK4610-4645			Warsaw (Warszawa)
+DK4650-4685			Gdansk (Danzig)
+DK4700-4735			Krakow (Cracow)
+
+Subclass DL    
+
+DL1-1180	History of Northern Europe.  Scandinavia
+DL1-6.8		General
+DL7-11.5		Description and travel
+DL20-42.5		Antiquities.  Social life and customs.  Ethnography
+DL43-87		History
+DL43-49			General
+DL52-59			Military, naval, and political history.  Foreign relations
+DL61-87			By period
+DL61-65				Earliest to 1387.  Scandinavian Empire.  Northmen.  Vikings
+DL75-81				1387-1900
+DL83-87				1900-    .  Period of World War I, 1914-1918
+DL101-291		Denmark
+DL101-114.5			General
+DL115-120			Description and travel
+DL121-142.5			Antiquities.  Social life and customs.  Ethnography
+DL143-263.3			History
+
+DL143-151				General
+DL154-159.5				Military, naval, and political history.  Foreign relations
+DL160-263.3				By period
+DL160-183.9					Early and medieval to 1523
+DL162-173.8						750-1241.  Norwegian rule, 1042-1047
+DL174-183.9						1241-1523.  Union of Kalmar, 1397
+DL184-263.3					Modern, 1523-
+DL185-192.8						1523-1670
+DL190							War with Sweden, 1643-1645
+DL192							War with Sweden, 1657-1660
+DL193-199.8						1670-1808
+DL196.3							Period of Northern War, 1700-1721
+DL201-249						1808-1906.  19th century
+DL217-223							Schleswig-Holstein War, 1848-1850
+DL236-239.6							Schleswig-Holstein War, 1864
+DL250-263.3						20th century
+DL269-291			Local history and description
+DL271				Counties, regions, islands, etc., A-Z
+DL276				Copenhagen
+DL291				Other cities, towns, etc., A-Z
+DL301-398		Iceland
+DL301-334			General.  Description and travel, etc.
+DL335-380			History
+DL396-398			Local history and description
+DL401-596		Norway
+DL401-414			General
+DL415-419.2			Description and travel
+DL420-442.5			Antiquities.  Social life and customs.  Ethnography
+DL443-537			History
+DL443-451.5				General
+DL453-459				Military, naval, and political history.  Foreign relations
+DL460-537				By period
+DL460-478					Early and medieval to 1387
+DL480-502					1387-1814.  Union of Kalmar, 1397
+DL499						War of 1807-1814
+DL500-502						Union with Sweden, 1814
+DL503-526					1814-1905.  19th century
+DL525						Dissolution of the Swedish-Norwegian union, 1905
+DL527-537					20th century.  Period of World War II, 1939-1945
+DL576-596			Local history and description
+DL576				Counties, regions, etc., A-Z
+DL581				Oslo (Christiania)
+DL596				Other cities, towns, etc., A-Z
+DL601-991		Sweden
+DL601-614.5			General
+DL614.55-619.5  			Description and travel
+DL621-642			Antiquities.  Social life and customs.  Ethnography
+DL643-879			History
+DL643-651				General
+DL654-659				Military, naval, and political history.  Foreign relations
+DL660-879				By period
+
+DL660-700.9					Early and medieval to 1523.  Union of Kalmar, 1397
+DL701-879					Modern, 1523-
+DL701-719.9						Vasa dynasty, 1523-1654.  Gustaf II Adolf, 1611-1632
+DL710-712							Wars with Denmark, Russia, Poland
+DL721-743						Zweibrücken dynasty, 1654-1718
+DL733-743							Northern War, 1700-1721
+DL747-805						1718-1818
+DL790							Revolution and loss of Finland, 1809
+DL805							Union with Norway, 1814
+DL807-859						1814-1907.  19th century
+DL860-879						20th century
+DL971-991			Local history and description
+DL971				Provinces, regions, etc., A-Z
+DL976				Stockholm
+DL991				Other cities, towns, etc., A-Z
+DL1002-1180		Finland
+DL1002-1014.5			General
+DL1015-1015.4			Description and travel
+DL1016-1022			Antiquities.  Social life and customs.  Ethnography
+DL1024-1141.6			History
+DL1024-1033				General
+DL1036-1048				Military, naval, and political history.  Foreign relations
+DL1050-1141.6				By period
+DL1050-1052.9					Early to 1523
+DL1055-1141.6					Modern, 1523-
+DL1070-1078						Revolution, 1917-1918.  Civil War
+DL1090-1105						1939-1945
+DL1095-1105							Russo-Finnish War, 1939-1940
+DL1122-1135.5					1945-1981
+DL1140-1141.6					1981-
+DL1170-1180			Local history and description
+DL1170				Regions, provinces, historical regions, etc., A-Z
+DL1175-1175.95				Helsinki (Helsingfors)
+DL1180				Other cities, towns, etc., A-Z
+
+Subclass DP    
+
+DP1-402	History of Spain
+DP1-27		General
+DP27.5-43.2  		Description and travel
+DP44-53		Antiquities.  Social life and customs.  Ethnography
+DP56-272.4		History
+DP56-75			General
+DP76-86			Military, naval, and political history.  Foreign relations
+DP91-272.4			By period
+DP91-96				Earliest to 711
+DP92-96					Pre-Roman, Roman, and Gothic periods
+DP97.3-160.8				711-1516.  Moorish domination and the Reconquest
+DP100-123					Moors in Spain.  Córdoba.  Kingdom of Granada
+DP124-133.7					Aragon (Catalonia)
+DP134-143.8					Castile and Leon
+
+DP145-152.8					León (Asturias)
+DP153-160.8					Navarre
+DP161-272.4				Modern Spain, 1479/1516-
+DP161.5-166   					1479-1516.  Fernando V and Isabel I
+DP170-189					1516-1700.  Habsburgs
+DP192-200.8					1700-1808.  Bourbons
+DP201-232.6					1808-1886.  19th century
+DP204-208						1808-1814.  Napoleonic period
+DP212-220						1814-1868.  Bourbon restoration
+DP219-219.2							Carlist War, 1833-1840
+DP222-232.6						1868-1886
+DP224-226							Revolution, 1868-1870
+DP230-231.5							First Republic, 1873-1875
+DP233-272.4					20th century.  1886-
+DP250-269.9						Second Republic, 1931-1939
+DP269-269.9							Civil War, 1936-1939
+DP269.97-271   						1939-1975
+DP272-272.4						1975-
+DP285-402		Local history and description
+DP285-295			Northern, Northwestern, Southern Spain
+DP302			Provinces, regions, ets., A-Z
+DP350-374			Madrid
+DP402			Other cities, towns, etc., A-Z
+DP501-(900.22)	History of Portugal
+DP501-520		General
+DP521-526.5		Description and travel
+DP528-534.5		Antiquities.  Social life and customs.  Ethnography
+DP535-682.2		History
+DP535-546			General
+DP547-557			Military, naval, and political history.  Foreign relations
+DP558-682.2			By period
+DP558-618				Early and medieval to 1580
+DP568-578					House of Burgundy, 1095-1383
+DP580					Interregnum, 1383-1385
+DP582-618					House of Aviz, 1385-1580
+DP620-682.2				1580-
+DP622-629					1580-1640.  Spanish dynasty (Sixty years= captivity)
+DP632-644.9					1640-1816.  House of Braganza
+DP645-669					1816-1908
+DP650						Revolution of 1820
+DP657						Wars of succession, 1826-1840
+DP670-682.2					20th century
+DP674						Revolution of October 1910
+DP675-682.2						Republic, 1910-    .  Revolution of 1919
+DP702-802		Local history and description
+DP702			Provinces, regions, etc., A-Z
+DP752-776			Lisbon
+DP802			Other cities, towns, etc., A-Z
+
+Subclass DQ    
+
+
+DQ1-851	History of Switzerland
+DQ1-20		General
+DQ20.5-26  		Description and travel
+DQ30-49.5		Antiquities.  Social life and customs.  Ethnography
+DQ51-210		History
+DQ51-57			General
+DQ59-76			Military and political history.  Foreign relations
+DQ78-210			By period
+DQ78-110				Early and medieval to 1516
+DQ79-84					Early to 687.  Celts and Romans.  Teutonic tribes
+DQ85-87					687-1291.  Carolingian and German rule
+DQ88-110					1291-1516.  Federation and independence
+DQ111-123				1516-1798
+DQ124-191				19th century
+DQ131-151					1789/1798-1815.  Helvetic Republic, 1798-1803
+DQ154-161					1815-1848.  Sonderbund, 1845-1847
+DQ171-191					1848-1900
+DQ201-210				20th century
+DQ301-851		Local history and description
+DQ301-800.35			Cantons (and cantonal capitals)
+DQ820-829			Alps
+DQ841			Regions, peaks, etc., A-Z
+DQ851			Cities, towns, etc., A-Z
+
+Subclass DR    
+
+DR1-2285	History of Balkan Peninsula
+DR1-11		General
+DR11.5-16  		Description and travel
+DR20-27		Antiquities.  Social life and customs.  Ethnography
+DR32-48.5		History.  Balkan War, 1912-1913
+DR50-50.84		Thrace
+DR51-98		Bulgaria
+DR51-56.7			General
+DR57-60.2			Description and travel
+DR62-64.5			Antiquities.  Social life and customs.  Ethnography
+DR65-93.47			History
+DR65-69.5				General
+DR70-73				Military and political history.  Foreign relations
+DR73.7-93.47				By period
+DR73.7-80.8   					Early and medieval
+DR74.5-77.8   						First Bulgarian Empire, 681-1018
+DR79-79.25						Greek rule, 1018-1185
+DR80-80.8						Second Bulgarian Empire, 1185-1396
+DR81-84					Turkish rule, 1396-1878
+DR84.9-89.8    					1878-1944
+DR89.9-93.34   					1944-1990
+DR93.4-93.47  					1990-
+DR95-98			Local history and description
+DR95				Provinces, regions, etc., A-Z
+DR97				Sofia
+
+DR98				Other cities, towns, etc., A-Z
+DR201-296		Romania
+DR201-206			General
+DR207-210			Description and travel
+DR211-214.2			Antiquities.  Social life and customs.  Ethnography
+DR215-269.6			History
+DR215-218				General
+DR219-229				Military, naval, and political history.  Foreign relations
+DR238-269.6				By period
+DR238-240.5					Early and medieval to 1601.  Roman period
+DR241-241.5					Phanariote regime, 1601-1822
+DR242-249					1822-1881.  19th century
+DR250-266.5					1866/1881-1944
+DR267-267.5					1944-1989
+DR268-269.6					1989-
+DR279-296			Local history and description
+DR279-280.74				Transylvania
+DR281				Other provinces, regions, etc., A-Z
+DR286				Bucharest
+DR296				Other cities, towns, etc., A-Z
+DR401-741		Turkey
+DR401-419			General
+DR421-429.4			Description and travel
+DR431-435			Antiquities.  Social life and customs.  Ethnography
+DR436-605			History
+DR436-446				General
+DR448-479				Military, naval, and political history.  Foreign relations
+DR481-605				By period
+DR481					Earliest to 1281/1453
+DR485-555.7					1281/1453-1789.  Fall of Constantinople, 1453
+DR511-529					1566-1640.  Period of decline
+DR515-516						Cyprian War, 1570-1571.  Holy League, 1571
+DR531-555.7					1640-1789
+DR534.2-534.5  						War of Candia, 1644-1669
+DR556-567					1789-1861.  19th century
+DR568-575					1861-1909.  War with Russia, 1877-1878
+DR576-605					20th century.  Constitutional movement
+DR701-741			Local history and description (European Turkey)
+DR701				Provinces, regions, etc., A-Z
+DR716-739				Istanbul (Constantinople)
+DR741				Other cities, towns, etc., A-Z
+DR901-998		Albania
+DR901-914.5			General
+DR915-918			Description and travel
+DR921-926			Antiquities.  Social life and customs.  Ethnography
+DR927-978.52			History
+DR927-946				General
+DR947-953				Military, naval, and political history.  Foreign relations
+DR954-978.52				By period
+DR954-960.5					To 1501
+DR961-969					1501-1912.  Turkish rule
+
+DR969.8-978.52  					20th century
+DR996-998			Local history and description
+DR996				Provinces, regions, etc., A-Z
+DR997				Tiranë
+DR998				Other cities, towns, etc., A-Z
+DR1202-2285		Yugoslavia
+DR1202-1218			General
+DR1220-1224			Description and travel
+DR1227-1231			Antiquities.  Social life and customs.  Ethnography
+DR1232-1321			History
+DR1232-1249				General
+DR1250-1258				Military, naval, and political history.  Foreign relations
+DR1259-1321				By period
+DR1259-1265					Early and medieval to 1500
+DR1266-1272					1500-1800
+DR1273-1280					1800-1918
+DR1281-1321					1918-
+DR1313-1313.8						Yugoslav War, 1991-1995
+DR1350-2285			Local history and description
+DR1352-1485				Slovenia
+DR1502-1645				Croatia
+DR1620-1630.5					Dalmatia
+DR1633-1636.5					Slavonia
+DR1652-1785				Bosnia and Hercegovina
+DR1802-1928				Montenegro
+DR1932-2125				Serbia
+DR2075-2087.7					Kosovo
+DR2090-2101.5					Vojvodina
+DR2106-2124.5					Belgrade
+DR2152-2285				Macedonia
+
+Subclass DS
+
+DS1-937	History of Asia
+DS5.95-10		Description and travel
+DS11		Antiquities
+DS13-28		Ethnography
+DS31-35.2		History
+DS35.3-35.77		The Islamic World
+DS36-39.2		Arab countries
+DS36.9			Ethnography
+DS37-39.2			History
+DS41-66		Middle East.  Southwestern Asia.  Ancient Orient.  Arab East.  Near
+East
+DS51-54.95			Local history and description
+DS54-54.95				Cyprus
+DS58-59			Ethnography
+DS61-66			History
+DS67-79.9		Iraq (Assyria, Babylonia, Mesopotamia)
+DS69-70.5			Antiquities
+DS70.8			Ethnography
+
+DS70.82-79.9			History
+DS80-90		Lebanon (Phenicia)
+DS80.5-80.55			Ethnography
+DS80.7-87.6			History
+DS92-99		Syria
+DS94.7-94.8			Ethnography
+DS94.9-98.3			History
+DS99			Provinces, regions, cities, etc.
+DS101-151		Israel (Palestine).  The Jews
+DS109-109.94			Jerusalem
+DS111-111.9			Antiquities
+DS113.2-113.8			Ethnography.  Tribes of Israel
+DS114-128.2			History
+DS133-151			Jews outside of Palestine
+DS153-154.9		Jordan.  Transjordan
+DS153.5-153.55			Ethnography
+DS153.7-154.55			History
+DS155-156		Asia Minor
+DS161-195.5		Armenia
+DS173-195.5			History
+DS201-248		Arabian Peninsula.  Saudi Arabia
+DS218-219			Ethnography
+DS221-244.63			History
+DS247-248			Local history and description
+DS251-326		Iran (Persia)
+DS260.7-262			Antiquities
+DS268-269			Ethnography
+DS270-318.85			History
+DS324-326			Local history and description
+DS327-329.4		Central Asia
+DS331-349.9		Southern Asia.  Indian Ocean Region
+DS349.8-349.9			Islands of the Indian Ocean
+DS350-375		Afghanistan
+DS354.5-354.6			Ethnography
+DS355-371.3			History
+DS374-375			Local history and description
+DS376-392.2		Pakistan
+DS380			Ethnography
+DS381-389.22			History
+DS392-392.2			Local history and description
+DS393-396.9		Bangladesh.  East Pakistan
+DS393.82-393.83			Ethnography
+DS394.5-395.7			History
+DS396.8-396.9			Local history and description
+DS401-(486.8)		India (Bharat) 
+DS430-432			Ethnography.  Sects
+DS433-481			History
+DS483-(486.8)			Local history and description
+DS488-490		Sri Lanka
+DS489.2-489.25			Ethnography
+DS489.5-489.86			History
+
+DS491-492.9		Bhutan
+DS493-495.8		Nepal
+DS498-498.8		Goa.  Portuguese in India
+DS501-518.9		East Asia.  The Far East
+DS518.15-518.9			Relation of individual countries to East Asia
+DS520-560.72		Southeast Asia
+DS524-526.7			History
+DS527-530.9			Burma
+DS531-560.72			French Indochina
+DS541-553.7				History
+DS554-554.98				Cambodia
+DS555-555.98				Laos
+DS556-559.93				Vietnam.  Annam
+DS557-559.9					Vietnamese Conflict
+DS560-560.72				Democratic Republic (North Vietnam), 1945-
+DS561-589			Thailand (Siam)
+DS569-570				Ethnography
+DS570.95-586				History
+DS588-589				Local history and description
+DS591-599			Malaysia.  Malay Peninsula.  Straits Settlements
+DS595-595.2				Ethnography
+DS595.8-597.215				History
+DS597.22-599				Local history and description
+DS597.33-597.34					Sabah.  British North Borneo
+DS597.36-597.39					Sarawak
+DS600-605			Malay Archipelago
+DS608-610.9			Singapore
+DS611-649			Indonesia (Dutch East Indies)
+DS631-632				Ethnography
+DS633-644.46				History
+DS646.1-646.15				Sumatra
+DS646.17-646.29				Java
+DS646.3-646.34				Borneo.  Kalimantan, Indonesia
+DS646.4-646.49				Celebes.  Sulawesi
+DS646.5-646.59				Timor
+DS646.6-646.69				Moluccas.  Maluku
+DS650-650.99			Brunei
+DS651-689			Philippines
+DS665-666				Ethnography
+DS667-686.62				History
+DS688-689				Local history and description
+DS701-799.9		China
+DS730-731			Ethnography
+DS733-779.32			History
+DS781-796			Local history and description
+DS781-784.2				Manchuria
+DS785-786				Tibet
+DS796.H7				Hong Kong
+DS798			Outer Mongolia.  Mongolian People's Republic
+DS798.92-799.9			Taiwan
+DS801-897		Japan
+
+DS833-891.5			History
+DS894.215-897			Local history and description
+DS901-937		Korea
+DS904.8-922.4642			History
+DS918-921.8				War and intervention, 1950-1953
+DS924-925			Local history and description
+DS930-937			Democratic People's Republic, 1948-
+
+
+Subclass DT
+
+DT1-3415	History of Africa
+DT7-12.25		Description and travel
+DT15-16		Ethnography 
+DT17-39		History
+DT43-154		Egypt
+DT56.8-69.5			Antiquities
+DT63-63.5				Pyramids
+DT68-68.8				Religious antiquities
+DT71-72			Ethnography
+DT73			Local antiquities
+DT74-107.87			History
+DT115-154			Local history and description
+DT139-153.5				Cairo
+DT154.1-159.9		Sudan.  Anglo-Egyptian Sudan
+DT154.8			Antiquities
+DT155-155.2			Ethnography
+DT155.3-157.67			History
+DT159.6-159.9			Local history and description
+DT160-177		North Africa
+DT167-176			History
+DT168-169.5				Carthaginian period
+DT179.2-179.9		Northwest Africa
+DT181-346		Maghrib.  Barbary States
+DT211-239			Libya
+DT223-223.2				Ethnography
+DT223.3-236				History
+DT238-239				Local history and description
+DT241-269			Tunisia (Tunis)
+DT253-253.2				Ethnography
+DT253.4-264.49				History
+DT268-269				Local history and description
+DT271-299			Algeria
+DT283-283.6				Ethnography
+DT283.7-295.55				History
+DT298-299				Local history and description
+DT301-330			Morocco
+DT313-313.6				Ethnography
+DT313.7-325.92				History
+DT328-329				Local history and description
+DT330				Spanish Morocco
+
+DT331-346			Sahara
+DT348-363.3		Central Sub-Saharan Africa
+DT365-469		Eastern Africa
+DT365.5-365.78			History
+DT367-367.8			Northeast Africa
+DT371-390			Ethiopia (Abyssinia)
+DT380-380.4				Ethnography
+DT380.5-390				History
+DT391-398			Eritrea
+DT401-409			Somalia.  Somaliland and adjacent territory
+DT402.3-402.45				Ethnography
+DT402.5-407.3				History
+DT409				Local history and description
+DT411-411.9			Djibouti.  French Territory of the Afars and Issas.  French
+Somaliland
+DT411.42-411.45				Ethnography
+DT411.5-411.83				History
+DT411.9				Local history and description
+DT421-432.5			East Africa.  British East Africa
+DT433.2-433.29			Uganda
+DT433.242-433.245				Ethnography
+DT433.252-433.287				History
+DT433.29				Local history and description
+DT433.5-434			Kenya
+DT433.542-433.545				Ethnography
+DT433.552-433.584				History
+DT436-449			Tanzania.  Tanganyika.  German East Africa
+DT443-443.3				Ethnography
+DT443.5-448.25				History
+DT449.Z2				Zanzibar
+DT450-450.49			Rwanda.  Ruanda-Urundi
+DT450.24-450.25				Ethnography
+DT450.26-450.437				History
+DT450.49				Local history and description
+DT450.5-450.95			Burundi
+DT450.64-450.65				Ethnography
+DT450.66-450.855				History
+DT450.95				Local history and description
+DT468-469			Islands (East African coast)
+DT469.M21-.M38				Madagascar
+DT469.M39				Mascarene Islands
+DT469.M4-.M495				Mautitius (Ile de France)
+DT469.M4975				Mayotte
+DT469.R3-.R5				Reunion
+DT469.S4-.S49				Seychelles
+DT470-671		West Africa.  West Coast
+DT477			Upper Guinea
+DT479			Lower Guinea
+DT491-516.9			British West Africa
+DT507				Ashanti Empire
+DT509-509.9				Gambia
+
+DT509.42-509.45					Ethnography
+DT509.5-509.83					History
+DT509.9					Local history and description
+DT509.97-512.9				Ghana (Gold Coast)
+DT510.42-510.43					Ethnography
+DT510.5-512.34					History
+DT512.9					Local history and description
+DT515-515.9				Nigeria
+DT515.42-515.45					Ethnography
+DT515.53-515.842					History
+DT515.9					Local history and description
+DT516-516.9				Sierra Leone
+DT516.42-516.45					Ethnography
+DT516.5-516.82					History
+DT516.9					Local history and description
+DT521-555.9			French West Africa.  French Sahara.  West Sahara.  Sahel
+DT541-541.9				Benin.  Dahomey
+DT541.42-541.45					Ethnography
+DT541.5-541.845					History
+DT541.9					Local history and description
+DT543-543.9				Guinea
+DT543.42-543.45					Ethnography
+DT543.5-543.827					History
+DT543.9					Local history and description
+DT545-545.9				Côte d'Ivoire.  Ivory Coast
+DT545.42-545.45					Ethnography
+DT545.52-545.83					History
+DT545.9					Local history and description
+DT546.1-546.49				French-speaking Equatorial Africa
+DT546.1-546.19					Gabon (Gaboon, Gabun)
+DT546.142-546.145						Ethnography
+DT546.15-546.183						History
+DT546.19						Local history and description
+DT546.2-546.29					Congo (Brazzaville).  Middle Congo
+DT546.242-546.245						Ethnography
+DT546.25-546.283						History
+DT546.29						Local history and description
+DT546.3-546.39					Central African Republic.  Central African Empire. 
+Ubangi-Shari
+DT546.342-546.345						Ethnography
+DT546.348-546.3852						History
+DT546.39						Local history and description
+DT546.4-546.49					Chad (Tchad)
+DT546.442-546.445						Ethnography
+DT546.449-546.483						History
+DT546.49						Local history and description
+DT547-547.9				Niger
+DT547.42-547.45					Ethnography
+DT547.5-547.83					History
+DT547.9					Local history and description
+DT548				West Sahara
+
+DT549-549.9				Senegal 
+DT549.42-549.45					Ethnography
+DT549.47-549.83					History
+DT549.9					Local history and description
+DT551-551.9				Mali.  Mali Federation.  Sudanese Republic.  French Sudan
+DT551.42-551.45					Ethnography
+DT551.5-551.82					History
+DT551.9					Local history and description
+DT554-554.9				Mauritania
+DT554.42-554.45					Ethnography
+DT554.52-554.83					History
+DT554.9					Local history and description
+DT555-555.9				Burkina Faso.  Upper Volta
+DT555.42-555.45					Ethnography
+DT555.517-555.837					History
+DT555.9					Local history and description
+DT561-581			Cameroon (Cameroun, Kamerun)
+DT570-571				Ethnography
+DT572-578.4				History
+DT581				Local history and description
+DT582-582.9			Togo.  Togoland
+DT582.42-582.45				Ethnography
+DT582.5-582.82				History
+DT582.9				Local history and description
+DT591-615.9			Portuguese-speaking West Africa
+DT613-613.9				Guinea-Bissau.  Portuguese Guinea
+DT613.42-613.45					Ethnography
+DT613.5-613.83					History
+DT613.9					Local history and description
+DT615-615.9				Sao Tome and Principe
+DT615.42-615.45					Ethnography
+DT615.5-615.8					History
+DT615.9					Local history and description
+DT619-620.9			Spanish West Africa
+DT620-620.9				Equatorial Guinea (Spanish Guinea)
+DT620.42-620.45					Ethnography
+DT620.46-620.83					History
+DT620.9					Local history and description
+DT621-637			Liberia
+DT630-630.5				Ethnography
+DT630.8-636.53				History
+DT639			Congo (Kongo) River region
+DT641-665			Zaire.  Congo (Democratic Republic).  Belgian Congo
+DT649.5-650				Ethnography
+DT650.2-663				History
+DT665				Local history and description
+DT669-671			Islands
+DT671.C2				Cape Verde
+DT1001-1190		Southern Africa
+DT1054-1058			Ethnography
+DT1062-1182			History
+
+DT1190			Local history and description
+DT1251-1465		Angola
+DT1304-1308			Ethnography
+DT1314-1436			History
+DT1450-1465			Local history and description
+DT1501-1685		Namibia.  South-West Africa
+DT1554-1558			Ethnography
+DT1564-1651			History
+DT1670-1685			Local history and description
+DT1701-2405		South Africa
+DT1754-1770			Ethnography
+DT1757				Apartheid
+DT1758-1760				Blacks
+DT1772-1974			History
+DT1991-2054			Cape Province.  Cape of Good Hope
+DT2075-2145			Orange Free State.  Oranje Vrystaat
+DT2181-2278			KwaZulu-Natal.  Natal
+DT2291-2378			Transvaal.  South African Republic
+DT2421-2525		Botswana.  Bechuanaland
+DT2454-2458			Ethnography
+DT2464-2502			History
+DT2541-2686		Lesotho.  Basutoland
+DT2592-2596			Ethnography
+DT2604-2660			History
+DT2680-2686			Local history and description
+DT2701-2825		Swaziland
+DT2744-2746			Ethnography
+DT2754-2806			History
+DT2820-2825			Local history and description
+DT2831-2864		British Central Africa.  Federation of Rhodesia and Nyasaland
+DT2871-3025		Zimbabwe.  Southern Rhodesia
+DT2910-2913			Ethnography
+DT2914-3000			History
+DT3020-3025			Local history and description
+DT3031-3145		Zambia.  Northern Rhodesia
+DT3054-3058			Ethnography
+DT3064-3119			History
+DT3140-3145			Local history and description
+DT3161-3257		Malawi.  Nyasaland
+DT3189-3192			Ethnography
+DT3194-3237			History
+DT3252-3257			Local history and description
+DT3291-3415		Mozambique
+DT3324-3328			Ethnography
+DT3330-3398			History
+DT3410-3415			Local history and description
+
+
+Subclass DU
+
+DU1-950	History of Oceania (South Seas)
+
+DU28.11-68		History
+DU80-398		Australia
+DU108-117.2			History
+DU120-125			Ethnography
+DU125				Australian aborigines
+DU145			Australian Capital Territory.  Canberra
+DU150-180			New South Wales
+DU170-172				History
+DU178-180				Local history and description
+DU182-198			Tasmania.  Van Diemen's Land
+DU190-195.3				History
+DU200-230			Victoria
+DU220-222				History
+DU228-230				Local history and description
+DU250-280			Queensland
+DU270-272				History
+DU278-280				Local history and description
+DU300-330			South Australia
+DU320-322				History
+DU328-330				Local history and description
+DU350-380			Western Australia
+DU370-372				History
+DU378-380				Local history and description
+DU390			Central Australia
+DU391			Northern Australia
+DU392-398			Northern Territory of Australia
+DU400-430		New Zealand
+DU419-422			History
+DU422.5-424.5			Ethnography
+DU422.8-424				Maoris
+DU428-430			Local history and description
+DU490		Melanesia (General)
+DU500		Micronesia (General)
+DU510		Polynesia (General)
+DU520-950		Smaller island groups
+DU620-629			Hawaiian Islands.  Hawaii
+DU739-747			New Guinea
+DU810-819			Samoan Islands
+
+
+Subclass DX
+
+DX101-301	History of Romanies
