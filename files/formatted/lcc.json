@@ -1,4 +1,6157 @@
 {
+  "A": {
+    "description": "GENERAL WORKS", 
+    "subclasses": {
+      "C": [
+        {
+          "description": "Collections.  Series.  Collected works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Collections of monographs, essays, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 195, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "American and English", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Other languages", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 195, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9
+        }, 
+        {
+          "description": "Collections for Jewish readers", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 200, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 200
+        }, 
+        {
+          "description": "Inaugural and program dissertations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 895, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 801
+        }, 
+        {
+          "description": "Pamphlet collections", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 995, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 901
+        }, 
+        {
+          "description": "Scrapbooks", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 999
+        }
+      ], 
+      "E": [
+        {
+          "description": "Encyclopedias", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 90, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "By language", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 90, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5
+        }
+      ], 
+      "G": [
+        {
+          "description": "Dictionaries and other general reference works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 600, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2
+        }
+      ], 
+      "I": [
+        {
+          "description": "Indexes", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 21, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }
+      ], 
+      "M": [
+        {
+          "description": "Museums.  Collectors and collecting", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 501, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "By country", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 100, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 10
+        }, 
+        {
+          "description": "Museology.  Museum methods, technique, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 160, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 111
+        }, 
+        {
+          "description": "Collectors and collecting", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 501, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 200
+        }
+      ], 
+      "N": [
+        {
+          "description": "Newspapers", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 9999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }
+      ], 
+      "P": [
+        {
+          "description": "Periodicals", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 271, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Humorous periodicals", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 115, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 101
+        }, 
+        {
+          "description": "Juvenile periodicals", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 230, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 200
+        }, 
+        {
+          "description": "Periodicals for women", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 265, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 250
+        }, 
+        {
+          "description": "Periodicals for Blacks", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 271, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 270
+        }
+      ], 
+      "S": [
+        {
+          "description": "Academies and learned societies", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 945, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "International associations, congresses, conferences, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 2
+        }, 
+        {
+          "description": "By region or country", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 785, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 11
+        }
+      ], 
+      "Y": [
+        {
+          "description": "Yearbooks.  Almanacs.  Directories", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2001, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 10
+        }, 
+        {
+          "description": "Annuals", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 29, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 10
+        }, 
+        {
+          "description": "Almanacs", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1730, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 30
+        }, 
+        {
+          "description": "Directories Class directories by subject in B-Z", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 2001, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2001
+        }
+      ], 
+      "Z": [
+        {
+          "description": "History of scholarship and learning.  The humanities", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 20
+        }, 
+        {
+          "description": "Philosophy.  Theory", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 181, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 101
+        }, 
+        {
+          "description": "Evaluation", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 193, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 191
+        }, 
+        {
+          "description": "History", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 361, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 200
+        }, 
+        {
+          "description": "By region or country", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 908, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 501
+        }
+      ]
+    }
+  }, 
+  "B": {
+    "description": "PHILOSOPHY.  PSYCHOLOGY.  RELIGION", 
+    "subclasses": {
+      "": [
+        {
+          "description": "Philosophy (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5802, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "General works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 99, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 69
+        }, 
+        {
+          "description": "By period Including individual philosophers and schools of philosophy", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5802, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 108
+        }, 
+        {
+          "description": "Ancient", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 708, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 108
+        }, 
+        {
+          "description": "Medieval", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 765, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 720
+        }, 
+        {
+          "description": "Renaissance", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 785, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 770
+        }, 
+        {
+          "description": "Modern", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5802, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 790
+        }, 
+        {
+          "description": "Special topics and schools of philosophy", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 849, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 808
+        }, 
+        {
+          "description": "By region or country", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5739, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 850
+        }, 
+        {
+          "description": "By religion", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5802, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5800
+        }
+      ], 
+      "C": [
+        {
+          "description": "Logic", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 199, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "History", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 39, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 11
+        }, 
+        {
+          "description": "By period", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 39, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 25
+        }, 
+        {
+          "description": "General works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 99, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 60
+        }, 
+        {
+          "description": "Special topics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 199, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 171
+        }
+      ], 
+      "D": [
+        {
+          "description": "Speculative philosophy", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 701, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 10
+        }, 
+        {
+          "description": "General philosophical works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 41, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 10
+        }, 
+        {
+          "description": "Metaphysics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 131, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 95
+        }, 
+        {
+          "description": "Epistemology.  Theory of knowledge", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 237, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 143
+        }, 
+        {
+          "description": "Methodology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 260, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 240
+        }, 
+        {
+          "description": "Ontology Including being, the soul, life, death", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 450, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 300
+        }, 
+        {
+          "description": "Cosmology Including teleology, space and time, structure of matter, plurality of worlds", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 701, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 493
+        }
+      ], 
+      "F": [
+        {
+          "description": "Psychology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 990, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Philosophy.  Relation to other topics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 64, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 38
+        }, 
+        {
+          "description": "Psychoanalysis", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 175, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 173
+        }, 
+        {
+          "description": "Psychological tests and testing", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 176, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 176
+        }, 
+        {
+          "description": "Experimental psychology", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 198, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 180
+        }, 
+        {
+          "description": "Gestalt psychology", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 203, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 203
+        }, 
+        {
+          "description": "Psychotropic drugs and other substances", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 209, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 207
+        }, 
+        {
+          "description": "Sensation.  Aesthesiology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 299, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 231
+        }, 
+        {
+          "description": "Consciousness.  Cognition Including learning, attention, comprehension, memory, imagination, genius, intelligence, thought and thinking, psycholinguistics, mental fatigue", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 499, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 309
+        }, 
+        {
+          "description": "Motivation", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 505, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 501
+        }, 
+        {
+          "description": "Affection.  Feeling.  Emotion", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 593, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 511
+        }, 
+        {
+          "description": "Will.  Volition.  Choice.  Control", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 635, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 608
+        }, 
+        {
+          "description": "Applied psychology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 637, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 636
+        }, 
+        {
+          "description": "New Thought.  Menticulture, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 648, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 638
+        }, 
+        {
+          "description": "Comparative psychology.  Animal and human psychology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 685, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 660
+        }, 
+        {
+          "description": "Psychology of sex.  Sexual behavior", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 692, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 692
+        }, 
+        {
+          "description": "Differential psychology.  Individuality.  Self", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 697, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 697
+        }, 
+        {
+          "description": "Personality", 
+          "max_alphabetic": "", 
+          "max_numeric": 9, 
+          "max_topic": 698, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 698
+        }, 
+        {
+          "description": "Genetic psychology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 711, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 699
+        }, 
+        {
+          "description": "Developmental psychology Including infant psychology, child psychology, adolescence, adulthood", 
+          "max_alphabetic": "", 
+          "max_numeric": 85, 
+          "max_topic": 724, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 712
+        }, 
+        {
+          "description": "Class psychology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 727, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 725
+        }, 
+        {
+          "description": "Temperament.  Character", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 839, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 795
+        }, 
+        {
+          "description": "Physiognomy.  Phrenology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 885, 
+          "min_alphabetic": "", 
+          "min_numeric": 8, 
+          "min_topic": 839
+        }, 
+        {
+          "description": "Graphology.  Study of handwriting", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 905, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 889
+        }, 
+        {
+          "description": "The hand.  Palmistry", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 940, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 908
+        }, 
+        {
+          "description": "Parapsychology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1389, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1001
+        }, 
+        {
+          "description": "Psychic research.  Psychology of the conscious", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1045, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1001
+        }, 
+        {
+          "description": "Hallucinations.  Sleep.  Dreaming.  Visions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1108, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1048
+        }, 
+        {
+          "description": "Hypnotism.  Suggestion.  Mesmerism.  Subliminal projection", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1156, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1111
+        }, 
+        {
+          "description": "Telepathy.  Mind reading.  Thought transference", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1171, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1161
+        }, 
+        {
+          "description": "Spiritualism Including mediumship, spirit messages, clairvoyance", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1389, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1228
+        }, 
+        {
+          "description": "Occult sciences", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2055, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1404
+        }, 
+        {
+          "description": "Ghosts.  Apparitions.  Hauntings", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1486, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1444
+        }, 
+        {
+          "description": "Demonology.  Satanism.  Possession", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1562, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1501
+        }, 
+        {
+          "description": "Witchcraft", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1584, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 1562
+        }, 
+        {
+          "description": "Magic.  Hermetics.  Necromancy", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1623, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1585
+        }, 
+        {
+          "description": "Astrology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1729, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1651
+        }, 
+        {
+          "description": "Oracles.  Sibyls.  Divinations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1779, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1745
+        }, 
+        {
+          "description": "Seers.  Prophets.  Prophecies", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1815, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1783
+        }, 
+        {
+          "description": "Fortune-telling", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1891, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1845
+        }, 
+        {
+          "description": "Human-alien encounters.  Contact between humans and extraterrestrials", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2055, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2050
+        }
+      ], 
+      "H": [
+        {
+          "description": "Aesthetics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 301, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "History", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 208, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 81
+        }, 
+        {
+          "description": "Special topics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 301, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 301
+        }
+      ], 
+      "J": [
+        {
+          "description": "Ethics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1725, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "History and general works Including individual ethical philosophers", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1185, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 71
+        }, 
+        {
+          "description": "Religious ethics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1295, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1188
+        }, 
+        {
+          "description": "Evolutionary and genetic ethics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1335, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1298
+        }, 
+        {
+          "description": "Positivist ethics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1385, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1365
+        }, 
+        {
+          "description": "Socialist ethics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1388, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1388
+        }, 
+        {
+          "description": "Communist ethics", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 1390, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1390
+        }, 
+        {
+          "description": "Totalitarian ethics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1392, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1392
+        }, 
+        {
+          "description": "Feminist ethics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1395, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1395
+        }, 
+        {
+          "description": "Individual ethics.  Character.  Virtue Including practical and applied ethics, conduct of life, vices, success, ethics for children", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1697, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1518
+        }, 
+        {
+          "description": "Ethics of social groups, classes, etc.  Professional ethics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1725, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1725
+        }, 
+        {
+          "description": "Social usages.  Etiquette", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2195, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1801
+        }, 
+        {
+          "description": "Etiquette of entertaining", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2078, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2021
+        }, 
+        {
+          "description": "Etiquette of travel", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2156, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2139
+        }, 
+        {
+          "description": "Telephone etiquette", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 2195, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2195
+        }
+      ], 
+      "L": [
+        {
+          "description": "Religions.  Mythology.  Rationalism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2790, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Religion (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 50, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Philosophy of religion.  Psychology of religion.  Religion in relation to other subjects", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 65, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 51
+        }, 
+        {
+          "description": "Sacred books (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 71, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 70
+        }, 
+        {
+          "description": "Biography", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 73, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 71
+        }, 
+        {
+          "description": "Religions of the world", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 99, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 74
+        }, 
+        {
+          "description": "Natural theology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 265, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 175
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 190, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 175
+        }, 
+        {
+          "description": "Theism", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 200, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 200
+        }, 
+        {
+          "description": "Nature and attributes of Deity", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 216, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 205
+        }, 
+        {
+          "description": "Polytheism", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 217, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 217
+        }, 
+        {
+          "description": "Dualism", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 218, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 218
+        }, 
+        {
+          "description": "Pantheism", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 220, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 220
+        }, 
+        {
+          "description": "Monotheism", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 221, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 221
+        }, 
+        {
+          "description": "Creation.  Theory of the earth", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 227, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 224
+        }, 
+        {
+          "description": "Religion and science", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 265, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 239
+        }, 
+        {
+          "description": "Unity and plurality", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 270, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 270
+        }, 
+        {
+          "description": "The soul", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 290, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 290
+        }, 
+        {
+          "description": "The myth.  Comparative mythology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 325, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 300
+        }, 
+        {
+          "description": "Classification of religions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 385, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 350
+        }, 
+        {
+          "description": "Religions in relation to one another", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 410, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 410
+        }, 
+        {
+          "description": "Religious doctrines (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 490, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 425
+        }, 
+        {
+          "description": "Origins of religion", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 430, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 430
+        }, 
+        {
+          "description": "Nature worship", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 457, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 435
+        }, 
+        {
+          "description": "Women in comparative religion", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 458, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 458
+        }, 
+        {
+          "description": "Sex worship.  Phallicism", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 460, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 460
+        }, 
+        {
+          "description": "Worship of human beings", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 470, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 465
+        }, 
+        {
+          "description": "Other", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 490, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 473
+        }, 
+        {
+          "description": "Eschatology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 547, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 500
+        }, 
+        {
+          "description": "Worship.  Cultus", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 619, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 550
+        }, 
+        {
+          "description": "Religious life", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 629, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 624
+        }, 
+        {
+          "description": "Religious organization", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 632, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 630
+        }, 
+        {
+          "description": "History and principles of religions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2680, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 660
+        }, 
+        {
+          "description": "Indo-European.  Aryan", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 660, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 660
+        }, 
+        {
+          "description": "Ural-Altaic", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 685, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 685
+        }, 
+        {
+          "description": "Mediterranean region", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 687, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 687
+        }, 
+        {
+          "description": "European.  Occidental", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 980, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 689
+        }, 
+        {
+          "description": "Classical (Etruscan, Greek, Roman)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 820, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 700
+        }, 
+        {
+          "description": "Germanic and Norse", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 875, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 830
+        }, 
+        {
+          "description": "Other European", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 980, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 900
+        }, 
+        {
+          "description": "Asian.  Oriental", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2370, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1000
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1035, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1000
+        }, 
+        {
+          "description": "Northern and Central Asia", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1050, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1050
+        }, 
+        {
+          "description": "Southern and Eastern Asia", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1055, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1055
+        }, 
+        {
+          "description": "Southwestern Asia.  Asia Minor.  Levant", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1060, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1060
+        }, 
+        {
+          "description": "Hinduism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1295, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1100
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 1107, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1100
+        }, 
+        {
+          "description": "Religious education", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 1108, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 1108
+        }, 
+        {
+          "description": "Antiquities.  Archaeology.  Inscriptions", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 1109, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 1109
+        }, 
+        {
+          "description": "Sacred books.  Sources", 
+          "max_alphabetic": "", 
+          "max_numeric": 2, 
+          "max_topic": 1143, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1111
+        }, 
+        {
+          "description": "Vedic texts", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 1137, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 1112
+        }, 
+        {
+          "description": "Pur~as", 
+          "max_alphabetic": "", 
+          "max_numeric": 4, 
+          "max_topic": 1140, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 1140
+        }, 
+        {
+          "description": "Tantric texts", 
+          "max_alphabetic": "", 
+          "max_numeric": 6, 
+          "max_topic": 1142, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 1141
+        }, 
+        {
+          "description": "Hindu literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1146, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1145
+        }, 
+        {
+          "description": "By region or country", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1168, 
+          "min_alphabetic": "", 
+          "min_numeric": 7, 
+          "min_topic": 1153
+        }, 
+        {
+          "description": "Doctrines.  Theology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1215, 
+          "min_alphabetic": "", 
+          "min_numeric": 32, 
+          "min_topic": 1212
+        }, 
+        {
+          "description": "Hindu pantheon.  Deities", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1225, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1216
+        }, 
+        {
+          "description": "Religious life", 
+          "max_alphabetic": "", 
+          "max_numeric": 58, 
+          "max_topic": 1243, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 1225
+        }, 
+        {
+          "description": "Monasteries.  Temples, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": 78, 
+          "max_topic": 1243, 
+          "min_alphabetic": "", 
+          "min_numeric": 72, 
+          "min_topic": 1243
+        }, 
+        {
+          "description": "Modifications.  Sects", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1295, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 1271
+        }, 
+        {
+          "description": "Vaishnavism", 
+          "max_alphabetic": "", 
+          "max_numeric": 592, 
+          "max_topic": 1289, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 1284
+        }, 
+        {
+          "description": "Jainism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1380, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1300
+        }, 
+        {
+          "description": "Sacred books.  Sources", 
+          "max_alphabetic": "", 
+          "max_numeric": 2, 
+          "max_topic": 1314, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1310
+        }, 
+        {
+          "description": "Jain literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1317, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1315
+        }, 
+        {
+          "description": "Jaina pantheon.  Deities", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 1375, 
+          "min_alphabetic": "", 
+          "min_numeric": 3, 
+          "min_topic": 1375
+        }, 
+        {
+          "description": "Forms of worship", 
+          "max_alphabetic": "", 
+          "max_numeric": 85, 
+          "max_topic": 1378, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1376
+        }, 
+        {
+          "description": "Modifications, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1380, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1379
+        }, 
+        {
+          "description": "Zoroastrianism (Mazdeism).  Parseeism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1590, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1500
+        }, 
+        {
+          "description": "Yezidis", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1595, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1595
+        }, 
+        {
+          "description": "Semitic religions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1695, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1600
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1605, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1600
+        }, 
+        {
+          "description": "Aramean", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1610, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1610
+        }, 
+        {
+          "description": "Sumerian", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1616, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1615
+        }, 
+        {
+          "description": "Assyro-Babylonian", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1625, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1620
+        }, 
+        {
+          "description": "Chaldean", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1630, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1630
+        }, 
+        {
+          "description": "Harranian.  Pseudo-Sabian", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1635, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1635
+        }, 
+        {
+          "description": "Syrian.  Palestinian.  Samaritan", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1645, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1640
+        }, 
+        {
+          "description": "Hebrew For Judaism, see subclass BM", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1650, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1650
+        }, 
+        {
+          "description": "Phoenician.  Carthaginian, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1665, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1660
+        }, 
+        {
+          "description": "Canaanite", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1672, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1670
+        }, 
+        {
+          "description": "Moabite.  Philistine", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1675, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1675
+        }, 
+        {
+          "description": "Arabian (except Islam)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1685, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1680
+        }, 
+        {
+          "description": "Druses", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1695, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1695
+        }, 
+        {
+          "description": "Ethiopian", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1710, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1710
+        }, 
+        {
+          "description": "By region or country", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2350, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1750
+        }, 
+        {
+          "description": "China", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1975, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1790
+        }, 
+        {
+          "description": "Confucianism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1883, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1830
+        }, 
+        {
+          "description": "Taoism", 
+          "max_alphabetic": "", 
+          "max_numeric": 85, 
+          "max_topic": 1942, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1899
+        }, 
+        {
+          "description": "India", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2032, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2000
+        }, 
+        {
+          "description": "Sikhism", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 2018, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2017
+        }, 
+        {
+          "description": "Japan", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2228, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2195
+        }, 
+        {
+          "description": "Shinto", 
+          "max_alphabetic": "", 
+          "max_numeric": 8, 
+          "max_topic": 2227, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2216
+        }, 
+        {
+          "description": "Korea", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2240, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2230
+        }, 
+        {
+          "description": "African", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2490, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2390
+        }, 
+        {
+          "description": "Egyptian", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2460, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2420
+        }, 
+        {
+          "description": "American For American Indians, see classes E-F", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2592, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2500
+        }, 
+        {
+          "description": "Pacific Ocean islands.  Oceania", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2630, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2600
+        }, 
+        {
+          "description": "Arctic regions", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 2670, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2670
+        }, 
+        {
+          "description": "Rationalism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2790, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2700
+        }
+      ], 
+      "M": [
+        {
+          "description": "Judaism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 990, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 449, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Study and teaching", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 135, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 70
+        }, 
+        {
+          "description": "History", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 449, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 150
+        }, 
+        {
+          "description": "By region or country", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 449, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 201
+        }, 
+        {
+          "description": "Pre-Talmudic Jewish literature (non-Biblical)", 
+          "max_alphabetic": "", 
+          "max_numeric": 8, 
+          "max_topic": 488, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 480
+        }, 
+        {
+          "description": "Sources of Jewish religion.  Rabbinical literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 532, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 495
+        }, 
+        {
+          "description": "Talmudic literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 509, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 497
+        }, 
+        {
+          "description": "Mishnah", 
+          "max_alphabetic": "", 
+          "max_numeric": 8, 
+          "max_topic": 497, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 497
+        }, 
+        {
+          "description": "Palestinian Talmud", 
+          "max_alphabetic": "", 
+          "max_numeric": 8, 
+          "max_topic": 498, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 498
+        }, 
+        {
+          "description": "Babylonian Talmud", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 504, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 499
+        }, 
+        {
+          "description": "Baraita", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 507, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 507
+        }, 
+        {
+          "description": "Tosefta", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 508, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 508
+        }, 
+        {
+          "description": "Midrash", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 518, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 510
+        }, 
+        {
+          "description": "Halacha", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 523, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 520
+        }, 
+        {
+          "description": "Cabala", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 526, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 525
+        }, 
+        {
+          "description": "Jewish tradition", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 529, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 529
+        }, 
+        {
+          "description": "Relation of Judaism to special subject fields", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 538, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 534
+        }, 
+        {
+          "description": "Religions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 536, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 534
+        }, 
+        {
+          "description": "Principles of Judaism (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 582, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 545
+        }, 
+        {
+          "description": "Controversial works against the Jews", 
+          "max_alphabetic": "", 
+          "max_numeric": 4, 
+          "max_topic": 585, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 585
+        }, 
+        {
+          "description": "Jewish works against Christianity and Islam", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 591, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 590
+        }, 
+        {
+          "description": "Dogmatic Judaism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 645, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 600
+        }, 
+        {
+          "description": "Heresy, heresies", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 646, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 646
+        }, 
+        {
+          "description": "Apologetics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 648, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 648
+        }, 
+        {
+          "description": "Practical Judaism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 747, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 650
+        }, 
+        {
+          "description": "Priests, rabbis, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 652, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 651
+        }, 
+        {
+          "description": "Congregations.  Synagogues", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 653, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 653
+        }, 
+        {
+          "description": "The tabernacle.  The temple", 
+          "max_alphabetic": "", 
+          "max_numeric": 6, 
+          "max_topic": 655, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 654
+        }, 
+        {
+          "description": "Forms of worship", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 657, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 656
+        }, 
+        {
+          "description": "Liturgy and ritual", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 679, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 660
+        }, 
+        {
+          "description": "Festivals and fasts", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 695, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 690
+        }, 
+        {
+          "description": "Rites and customs", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 720, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 700
+        }, 
+        {
+          "description": "Jewish way of life.  Spiritual life.  Mysticism.  Personal religion.  Moral theology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 729, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 723
+        }, 
+        {
+          "description": "Preaching.  Homiletics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 747, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 730
+        }, 
+        {
+          "description": "Biography", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 755, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 750
+        }, 
+        {
+          "description": "Samaritans", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 990, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 900
+        }
+      ], 
+      "P": [
+        {
+          "description": "Islam.  Bahai Faith.  Theosophy, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 610, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Islam", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 253, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 68, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Study and teaching", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 48, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 42
+        }, 
+        {
+          "description": "History", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 68, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 50
+        }, 
+        {
+          "description": "Biography", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 80, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 70
+        }, 
+        {
+          "description": "Muammad, Prophet, d. 632", 
+          "max_alphabetic": "", 
+          "max_numeric": 75, 
+          "max_topic": 77, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 75
+        }, 
+        {
+          "description": "Islamic literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 89, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 87
+        }, 
+        {
+          "description": "Sacred books", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 157, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 100
+        }, 
+        {
+          "description": "Koran", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 134, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 100
+        }, 
+        {
+          "description": "Special parts and chapters", 
+          "max_alphabetic": "", 
+          "max_numeric": 83, 
+          "max_topic": 129, 
+          "min_alphabetic": "", 
+          "min_numeric": 15, 
+          "min_topic": 128
+        }, 
+        {
+          "description": "Works about the Koran", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 134, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 130
+        }, 
+        {
+          "description": "Hadith literature.  Traditions.  Sunna", 
+          "max_alphabetic": "", 
+          "max_numeric": 9, 
+          "max_topic": 136, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 135
+        }, 
+        {
+          "description": "Koranic and other Islamic legends", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 137, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 137
+        }, 
+        {
+          "description": "General works on Islam", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 165, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 160
+        }, 
+        {
+          "description": "Dogma (>Aq~=id)", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 165, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 165
+        }, 
+        {
+          "description": "Theology (Kal~m)", 
+          "max_alphabetic": "", 
+          "max_numeric": 94, 
+          "max_topic": 166, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 166
+        }, 
+        {
+          "description": "Heresy, heresies, heretics", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 167, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 167
+        }, 
+        {
+          "description": "Apostasy from Islam", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 168, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 168
+        }, 
+        {
+          "description": "Works against Islam and the Koran", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 169, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 169
+        }, 
+        {
+          "description": "Works in defense of Islam.  Islamic apologetics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 170, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 170
+        }, 
+        {
+          "description": "Benevolent work.  Social work.  Welfare work, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": 2, 
+          "max_topic": 170, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 170
+        }, 
+        {
+          "description": "Missionary work of Islam", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 170, 
+          "min_alphabetic": "", 
+          "min_numeric": 3, 
+          "min_topic": 170
+        }, 
+        {
+          "description": "Relation of Islam to other religions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 173, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 171
+        }, 
+        {
+          "description": "Islamic sociology", 
+          "max_alphabetic": "", 
+          "max_numeric": 45, 
+          "max_topic": 173, 
+          "min_alphabetic": "", 
+          "min_numeric": 25, 
+          "min_topic": 173
+        }, 
+        {
+          "description": "The practice of Islam", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 190, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 174
+        }, 
+        {
+          "description": "The five duties of a Moslem.  Pillars of Islam", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 181, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 176
+        }, 
+        {
+          "description": "Jihad (Holy War)", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 182, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 182
+        }, 
+        {
+          "description": "Religious ceremonies, rites, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": 9, 
+          "max_topic": 184, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 184
+        }, 
+        {
+          "description": "Special days and seasons, fasts, feasts, festivals, etc.  Relics", 
+          "max_alphabetic": "", 
+          "max_numeric": 97, 
+          "max_topic": 186, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 186
+        }, 
+        {
+          "description": "Shrines, sacred places, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": 9, 
+          "max_topic": 187, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 187
+        }, 
+        {
+          "description": "Islamic religious life", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 190, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 188
+        }, 
+        {
+          "description": "Devotional literature", 
+          "max_alphabetic": "", 
+          "max_numeric": 3, 
+          "max_topic": 188, 
+          "min_alphabetic": "", 
+          "min_numeric": 2, 
+          "min_topic": 188
+        }, 
+        {
+          "description": "Sufism.  Mysticism.  Dervishes", 
+          "max_alphabetic": "", 
+          "max_numeric": 65, 
+          "max_topic": 189, 
+          "min_alphabetic": "", 
+          "min_numeric": 45, 
+          "min_topic": 188
+        }, 
+        {
+          "description": "Monasticism", 
+          "max_alphabetic": "", 
+          "max_numeric": 7, 
+          "max_topic": 189, 
+          "min_alphabetic": "", 
+          "min_numeric": 68, 
+          "min_topic": 189
+        }, 
+        {
+          "description": "Branches, sects, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 253, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 191
+        }, 
+        {
+          "description": "Shiites", 
+          "max_alphabetic": "", 
+          "max_numeric": 9, 
+          "max_topic": 194, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 192
+        }, 
+        {
+          "description": "Black Muslims", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 223, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 221
+        }, 
+        {
+          "description": "Moorish Science Temple of America", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 232, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 232
+        }, 
+        {
+          "description": "Nurculuk", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 253, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 251
+        }, 
+        {
+          "description": "Bahai Faith", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 395, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 300
+        }, 
+        {
+          "description": "Theosophy", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 585, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 500
+        }, 
+        {
+          "description": "Anthroposophy", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 597, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 595
+        }, 
+        {
+          "description": "Other beliefs and movements", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 610, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 600
+        }
+      ], 
+      "Q": [
+        {
+          "description": "Buddhism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9800, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Periodicals.  Yearbooks (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 10, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Societies, councils, associations, clubs, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 93, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 12
+        }, 
+        {
+          "description": "Financial institutions.  Trusts", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 99, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 96
+        }, 
+        {
+          "description": "Congresses.  Conferences (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 102, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 100
+        }, 
+        {
+          "description": "Directories (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 105, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 104
+        }, 
+        {
+          "description": "Museums.  Exhibitions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 109, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 107
+        }, 
+        {
+          "description": "General collections.  Collected works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 126, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 115
+        }, 
+        {
+          "description": "Encyclopedias (General)", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 128, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 128
+        }, 
+        {
+          "description": "Dictionaries (General)", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 130, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 130
+        }, 
+        {
+          "description": "Terminology", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 133, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 133
+        }, 
+        {
+          "description": "Questions and answers.  Maxims (General)", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 135, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 135
+        }, 
+        {
+          "description": "Religious education (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 209, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 141
+        }, 
+        {
+          "description": "Research", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 219, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 210
+        }, 
+        {
+          "description": "Antiquities.  Archaeology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 249, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 221
+        }, 
+        {
+          "description": "Literary discoveries", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 244, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 240
+        }, 
+        {
+          "description": "Inscriptions, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 249, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 246
+        }, 
+        {
+          "description": "History", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 799, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 251
+        }, 
+        {
+          "description": "Persecutions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 829, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 800
+        }, 
+        {
+          "description": "Biography", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 840
+        }, 
+        {
+          "description": "Collective", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 858, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 840
+        }, 
+        {
+          "description": "Individual", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 860
+        }, 
+        {
+          "description": "Gautama Buddha", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 939, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 860
+        }, 
+        {
+          "description": "Other", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 940
+        }, 
+        {
+          "description": "Buddhist literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1045, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1001
+        }, 
+        {
+          "description": "Tripiaka (Canonical literature)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 3340, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1100
+        }, 
+        {
+          "description": "General works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4060, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4000
+        }, 
+        {
+          "description": "Doctrinal and systematic Buddhism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4570, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4061
+        }, 
+        {
+          "description": "Special doctrines", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4565, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4180
+        }, 
+        {
+          "description": "Special topics and relations to special subjects", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 4570, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4570
+        }, 
+        {
+          "description": "Relation to other religious and philosophical systems", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4610, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4600
+        }, 
+        {
+          "description": "Buddhist pantheon", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4905, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4620
+        }, 
+        {
+          "description": "Practice of Buddhism.  Forms of worship", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5720, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4911
+        }, 
+        {
+          "description": "Ceremonies and rites.  Ceremonial rules", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5030, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4965
+        }, 
+        {
+          "description": "Hymns.  Chants.  Recitations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5065, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5035
+        }, 
+        {
+          "description": "Altar, liturgical objects, ornaments, memorials, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5075, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5070
+        }, 
+        {
+          "description": "Vestments, altar cloths, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5085, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5080
+        }, 
+        {
+          "description": "Liturgical functions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5095, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5090
+        }, 
+        {
+          "description": "Symbols and symbolism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5125, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5100
+        }, 
+        {
+          "description": "Temple.  Temple organization", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5137, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5130
+        }, 
+        {
+          "description": "Buddhist ministry.  Priesthood.  Organization", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5355, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5140
+        }, 
+        {
+          "description": "Education and training", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5305, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5251
+        }, 
+        {
+          "description": "Preaching", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5350, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5310
+        }, 
+        {
+          "description": "Religious life", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5680, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5360
+        }, 
+        {
+          "description": "Precepts for laymen", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5530, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5485
+        }, 
+        {
+          "description": "Devotional literature.  Meditations.  Prayers", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5594, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5535
+        }, 
+        {
+          "description": "Devotion.  Meditation.  Prayer", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5633, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5595
+        }, 
+        {
+          "description": "Spiritual life.  Mysticism.  Englightenment.  Perfection", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5675, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5635
+        }, 
+        {
+          "description": "Festivals.  Days and seasons", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5720, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5700
+        }, 
+        {
+          "description": "Folklore", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5845, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5725
+        }, 
+        {
+          "description": "Miracle literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5845, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5821
+        }, 
+        {
+          "description": "Benevolent work.  Social work.  Welfare work, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5899, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5851
+        }, 
+        {
+          "description": "Missionary work", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5975, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5901
+        }, 
+        {
+          "description": "Monasticism and monastic life  Sagha (Order)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6160, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6001
+        }, 
+        {
+          "description": "Asceticism.  Hermits.  Wayfaring life", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6240, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6200
+        }, 
+        {
+          "description": "Monasteries.  Temples.  Shrines.  Sites", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6388, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6300
+        }, 
+        {
+          "description": "Pilgrims and pilgrimages", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6495, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6400
+        }, 
+        {
+          "description": "Modifications, schools, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9800, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7001
+        }, 
+        {
+          "description": "Therav~da (Hinayana) Buddhism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7285, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7100
+        }, 
+        {
+          "description": "Mahayana Buddhism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7529, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7300
+        }, 
+        {
+          "description": "Tibetan Buddhism (Lamaism)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7950, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7530
+        }, 
+        {
+          "description": "Bonpo (Sect)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7989, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7960
+        }, 
+        {
+          "description": "Special modifications, sects, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9800, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8000
+        }, 
+        {
+          "description": "Pure Land Buddhism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8769, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8500
+        }, 
+        {
+          "description": "Tantric Buddhism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9099, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8900
+        }, 
+        {
+          "description": "Zen Buddhism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9519, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9250
+        }
+      ], 
+      "R": [
+        {
+          "description": "Christianity", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1725, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Early Christian literature.  Fathers of the Church, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 67, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 60
+        }, 
+        {
+          "description": "Christianity in relation to special subjects", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 115, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 115
+        }, 
+        {
+          "description": "Christian antiquities.  Archaeology.  Museums", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 133, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 130
+        }, 
+        {
+          "description": "History", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1510, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 140
+        }, 
+        {
+          "description": "By period", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 481, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 160
+        }, 
+        {
+          "description": "Early and medieval", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 275, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 160
+        }, 
+        {
+          "description": "Renaissance.  Renaissance and Reformation", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 280, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 280
+        }, 
+        {
+          "description": "Modern period", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 481, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 290
+        }, 
+        {
+          "description": "Luther, Martin", 
+          "max_alphabetic": "", 
+          "max_numeric": 2, 
+          "max_topic": 334, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 323
+        }, 
+        {
+          "description": "By region or country", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1510, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 500
+        }, 
+        {
+          "description": "Persecution.  Martyrs", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1609, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1600
+        }, 
+        {
+          "description": "Dissent", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 1609, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 1609
+        }, 
+        {
+          "description": "Tolerance and toleration", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1610, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1610
+        }, 
+        {
+          "description": "Liberalism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1617, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1615
+        }, 
+        {
+          "description": "Sacrilege (History)", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1620, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1620
+        }, 
+        {
+          "description": "Biography", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1725, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1690
+        }
+      ], 
+      "S": [
+        {
+          "description": "The Bible", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2970, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Early versions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 115, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 11
+        }, 
+        {
+          "description": "Modern texts and versions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 355, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 125
+        }, 
+        {
+          "description": "English", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 198, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 125
+        }, 
+        {
+          "description": "Other European languages", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 313, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 199
+        }, 
+        {
+          "description": "Non-European languages", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 355, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 315
+        }, 
+        {
+          "description": "Asian languages", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 315, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 315
+        }, 
+        {
+          "description": "African languages", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 325, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 325
+        }, 
+        {
+          "description": "Languages of Oceania and Australasia", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 335, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 335
+        }, 
+        {
+          "description": "American Indian languages", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 345, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 345
+        }, 
+        {
+          "description": "Mixed languages", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 350, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 350
+        }, 
+        {
+          "description": "Artificial languages", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 355, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 355
+        }, 
+        {
+          "description": "Works about the Bible", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 680, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 410
+        }, 
+        {
+          "description": "Criticism and interpretation", 
+          "max_alphabetic": "", 
+          "max_numeric": 8, 
+          "max_topic": 534, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 500
+        }, 
+        {
+          "description": "The Bible as literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 537, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 535
+        }, 
+        {
+          "description": "Bible stories.  Paraphrases of Bible stories.  The Bible story", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 558, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 546
+        }, 
+        {
+          "description": "Men, women, and children of the Bible", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 580, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 569
+        }, 
+        {
+          "description": "Individual Old Testament characters", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 580, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 580
+        }, 
+        {
+          "description": "Study and teaching", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 613, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 585
+        }, 
+        {
+          "description": "Prophecy", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 649, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 647
+        }, 
+        {
+          "description": "Bible and science", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 667, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 650
+        }, 
+        {
+          "description": "Bible and social sciences", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 672, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 670
+        }, 
+        {
+          "description": "Old Testament", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1830, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 701
+        }, 
+        {
+          "description": "Early versions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 815, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 705
+        }, 
+        {
+          "description": "Modern texts and versions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1013, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 825
+        }, 
+        {
+          "description": "Selections.  Quotations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1099, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1091
+        }, 
+        {
+          "description": "Works about the Old Testament", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1199, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1110
+        }, 
+        {
+          "description": "Criticism and interpretation", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 1191, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1160
+        }, 
+        {
+          "description": "Special parts of the Old Testament", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1830, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1200
+        }, 
+        {
+          "description": "New Testament", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2970, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1901
+        }, 
+        {
+          "description": "Early texts and versions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2020, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1937
+        }, 
+        {
+          "description": "Modern texts and versions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2213, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2025
+        }, 
+        {
+          "description": "Selections.  Quotations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2269, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2260
+        }, 
+        {
+          "description": "Works about the New Testament", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2545, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2280
+        }, 
+        {
+          "description": "Criticism and interpretation", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2393, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2350
+        }, 
+        {
+          "description": "The teachings of Jesus", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2417, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2415
+        }, 
+        {
+          "description": "Men, women, and children of the New Testament", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2520, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2430
+        }, 
+        {
+          "description": "Study and teaching", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2544, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2525
+        }, 
+        {
+          "description": "Special parts of the New Testament", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2970, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2547
+        }, 
+        {
+          "description": "Epistles of Paul", 
+          "max_alphabetic": "", 
+          "max_numeric": 6, 
+          "max_topic": 2765, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2640
+        }
+      ], 
+      "T": [
+        {
+          "description": "Doctrinal Theology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1480, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 10
+        }, 
+        {
+          "description": "Doctrine and dogma", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 37, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 19
+        }, 
+        {
+          "description": "Judaism", 
+          "max_alphabetic": "", 
+          "max_numeric": 6, 
+          "max_topic": 93, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 93
+        }, 
+        {
+          "description": "Divine law.  Moral government", 
+          "max_alphabetic": "", 
+          "max_numeric": 2, 
+          "max_topic": 97, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 95
+        }, 
+        {
+          "description": "God", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 180, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 98
+        }, 
+        {
+          "description": "Doctrine of the Trinity", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 115, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 109
+        }, 
+        {
+          "description": "Holy Spirit.  The Paraclete", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 123, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 117
+        }, 
+        {
+          "description": "Revelation", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 127, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 126
+        }, 
+        {
+          "description": "Divine attributes", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 153, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 130
+        }, 
+        {
+          "description": "Christology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 590, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 198
+        }, 
+        {
+          "description": "Life of Christ", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 500, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 296
+        }, 
+        {
+          "description": "Miracles.  Apparitions.  Shrines, sanctuaries, images, processions, etc.", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 580, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 580
+        }, 
+        {
+          "description": "Relics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 587, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 587
+        }, 
+        {
+          "description": "Mary, Mother of Jesus Christ.  Mariology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 680, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 595
+        }, 
+        {
+          "description": "Miracles.  Apparitions.  Shrines, sanctuaries, images, processions, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 660, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 650
+        }, 
+        {
+          "description": "Creation", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 749, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 695
+        }, 
+        {
+          "description": "Salvation.  Soteriology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 811, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 750
+        }, 
+        {
+          "description": "Eschatology.  Last things", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 891, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 819
+        }, 
+        {
+          "description": "Future state.  Future life", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 940, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 899
+        }, 
+        {
+          "description": "Invisible world (saints, demons, etc.)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 985, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 960
+        }, 
+        {
+          "description": "Creeds, confessions, covenants, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1010, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 990
+        }, 
+        {
+          "description": "Catechisms", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1040, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1029
+        }, 
+        {
+          "description": "Apologetics.  Evidences of Christianity", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1255, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1095
+        }, 
+        {
+          "description": "History of specific doctrines and movements.  Heresies and schisms", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1480, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1313
+        }
+      ], 
+      "V": [
+        {
+          "description": "Practical Theology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5099, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Worship (Public and private)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 530, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5
+        }, 
+        {
+          "description": "Times and seasons.  The Church year", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 135, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 30
+        }, 
+        {
+          "description": "Feast days", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 64, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 43
+        }, 
+        {
+          "description": "Saints= days", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 70, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 65
+        }, 
+        {
+          "description": "Fasts", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 105, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 80
+        }, 
+        {
+          "description": "Lord=s Day.  Sunday.  Sabbath", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 133, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 107
+        }, 
+        {
+          "description": "Christian symbols and symbolism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 168, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 150
+        }, 
+        {
+          "description": "Liturgy and ritual", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 199, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 169
+        }, 
+        {
+          "description": "Family worship", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 200, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 200
+        }, 
+        {
+          "description": "Prayer", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 287, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 205
+        }, 
+        {
+          "description": "Hymnology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 530, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 301
+        }, 
+        {
+          "description": "Denominational and special types of hymnbooks in English", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 465, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 360
+        }, 
+        {
+          "description": "Hymns in languages other than English", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 510, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 467
+        }, 
+        {
+          "description": "Ecclesiastical theology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1652, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 590
+        }, 
+        {
+          "description": "The Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 603, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 598
+        }, 
+        {
+          "description": "Church and state", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 631, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 629
+        }, 
+        {
+          "description": "City churches", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 637, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 637
+        }, 
+        {
+          "description": "The rural church.  The church and country life", 
+          "max_alphabetic": "", 
+          "max_numeric": 8, 
+          "max_topic": 638, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 638
+        }, 
+        {
+          "description": "Church polity", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 651, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 646
+        }, 
+        {
+          "description": "Church management.  Efficiency", 
+          "max_alphabetic": "", 
+          "max_numeric": 9, 
+          "max_topic": 652, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 652
+        }, 
+        {
+          "description": "Mass media and telecommunication in religion", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 657, 
+          "min_alphabetic": "", 
+          "min_numeric": 95, 
+          "min_topic": 652
+        }, 
+        {
+          "description": "Ministry.  Clergy.  Religious vocations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 683, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 659
+        }, 
+        {
+          "description": "Parish.  Congregation.  The local church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 707, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 700
+        }, 
+        {
+          "description": "Church finance.  Church property", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 777, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 770
+        }, 
+        {
+          "description": "Sacraments.  Ordinances", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 873, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 800
+        }, 
+        {
+          "description": "Baptism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 814, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 803
+        }, 
+        {
+          "description": "Holy Communion.  Lord=s Supper.  Eucharist", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 828, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 823
+        }, 
+        {
+          "description": "Marriage", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 838, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 835
+        }, 
+        {
+          "description": "Penance", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 850, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 840
+        }, 
+        {
+          "description": "Shrines.  Holy places", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 896, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 895
+        }, 
+        {
+          "description": "Religious societies, associations, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1450, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 900
+        }, 
+        {
+          "description": "Religious societies of men, brotherhoods, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1280, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 950
+        }, 
+        {
+          "description": "Young Men=s Christian Associations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1220, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1000
+        }, 
+        {
+          "description": "Religious societies of women", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1395, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1300
+        }, 
+        {
+          "description": "Young Women=s Christian Associations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1393, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1300
+        }, 
+        {
+          "description": "Religious education (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1615, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1460
+        }, 
+        {
+          "description": "Social life, recreation, etc., in the church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1652, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1620
+        }, 
+        {
+          "description": "Missions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 3705, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2000
+        }, 
+        {
+          "description": "Special churches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2595, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2123
+        }, 
+        {
+          "description": "Roman Catholic Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2300, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2130
+        }, 
+        {
+          "description": "Protestant churches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2595, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2350
+        }, 
+        {
+          "description": "Special types of missions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2695, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2610
+        }, 
+        {
+          "description": "Missions in individual countries", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 3695, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2750
+        }, 
+        {
+          "description": "Evangelism.  Revivals", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 3799, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 3750
+        }, 
+        {
+          "description": "Pastoral theology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4470, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4000
+        }, 
+        {
+          "description": "Education", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4180, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4019
+        }, 
+        {
+          "description": "Training for the ordained ministry", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4167, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4019
+        }, 
+        {
+          "description": "Training for lay workers", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4180, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4168
+        }, 
+        {
+          "description": "Preaching.  Homiletics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4317, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4200
+        }, 
+        {
+          "description": "Sermons", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4317, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4239
+        }, 
+        {
+          "description": "Personal life of the clergy", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4399, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4390
+        }, 
+        {
+          "description": "Practical church work.  Social work.  Work of the layman", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4470, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4400
+        }, 
+        {
+          "description": "Practical religion.  The Christian life", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5099, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4485
+        }, 
+        {
+          "description": "Religious duties", 
+          "max_alphabetic": "", 
+          "max_numeric": 2, 
+          "max_topic": 4526, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4520
+        }, 
+        {
+          "description": "Moral theology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4780, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4625
+        }, 
+        {
+          "description": "Sins and vices", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4627, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4625
+        }, 
+        {
+          "description": "Virtues", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4647, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4630
+        }, 
+        {
+          "description": "Precepts from the Bible", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4715, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4650
+        }, 
+        {
+          "description": "Precepts of the Church.  Commandments of the Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4780, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4720
+        }, 
+        {
+          "description": "Works of meditation and devotion", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4897, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4800
+        }, 
+        {
+          "description": "Works of consolation and cheer", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4911, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4900
+        }, 
+        {
+          "description": "Conversion literature", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4950, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4912
+        }, 
+        {
+          "description": "Asceticism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5068, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5015
+        }, 
+        {
+          "description": "Mysticism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5095, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5070
+        }, 
+        {
+          "description": "Quietism", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 5099, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5099
+        }
+      ], 
+      "X": [
+        {
+          "description": "Christian Denominations", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Church unity.  Ecumenical movement.  Interdenominational cooperation", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 9, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1
+        }, 
+        {
+          "description": "Eastern churches.  Oriental churches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 189, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 100
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 107, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 100
+        }, 
+        {
+          "description": "Armenian Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 129, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 120
+        }, 
+        {
+          "description": "Coptic Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 139, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 130
+        }, 
+        {
+          "description": "Ethiopic or Abyssinian Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 149, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 140
+        }, 
+        {
+          "description": "Nestorian, Chaldean, or East Syrian Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 159, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 150
+        }, 
+        {
+          "description": "St. Thomas Christians.  Malabar Christians.  Mar Thoma Syrian Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 169, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 160
+        }, 
+        {
+          "description": "Syrian or Jacobite Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 179, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 170
+        }, 
+        {
+          "description": "Maronite Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 189, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 180
+        }, 
+        {
+          "description": "Orthodox Eastern Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 756, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 200
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 395, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 200
+        }, 
+        {
+          "description": "Divisions of the church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 756, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 400
+        }, 
+        {
+          "description": "Patriarchates of the East.  Melchites", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 440, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 400
+        }, 
+        {
+          "description": "Church of Cyprus", 
+          "max_alphabetic": "", 
+          "max_numeric": 93, 
+          "max_topic": 450, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 450
+        }, 
+        {
+          "description": "Russian Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 605, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 460
+        }, 
+        {
+          "description": "Church of Greece", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 620, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 610
+        }, 
+        {
+          "description": "Orthodox Church in Austria and Hungary", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 639, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 630
+        }, 
+        {
+          "description": "Bulgarian Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 659, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 650
+        }, 
+        {
+          "description": "Georgian Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 669, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 660
+        }, 
+        {
+          "description": "Montenegrin Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 679, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 670
+        }, 
+        {
+          "description": "Romanian Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 699, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 690
+        }, 
+        {
+          "description": "Serbian Church.  Yugoslav Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 719, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 710
+        }, 
+        {
+          "description": "Orthodox Eastern Church, Macedonian", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 729, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 720
+        }, 
+        {
+          "description": "Orthodox Eastern Church, Ukrainian", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 729, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 729
+        }, 
+        {
+          "description": "Orthodox Church in other regions or countries", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 755, 
+          "min_alphabetic": "", 
+          "min_numeric": 9, 
+          "min_topic": 729
+        }, 
+        {
+          "description": "Catholic Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4795, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 800
+        }, 
+        {
+          "description": "Periodicals.  Societies, councils, congresses, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 839, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 800
+        }, 
+        {
+          "description": "Museums.  Exhibitions", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 840, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 840
+        }, 
+        {
+          "description": "Dictionaries.  Encyclopedias", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 841, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 841
+        }, 
+        {
+          "description": "Directories.  Yearbooks", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 845, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 845
+        }, 
+        {
+          "description": "Atlases", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 847, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 847
+        }, 
+        {
+          "description": "Documents", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 875, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 850
+        }, 
+        {
+          "description": "General collected works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 891, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 880
+        }, 
+        {
+          "description": "Study and teaching", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 939, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 895
+        }, 
+        {
+          "description": "History Including lives of popes", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1745, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 940
+        }, 
+        {
+          "description": "Theology.  Doctrine.  Dogmatics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1755, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1746
+        }, 
+        {
+          "description": "Sermons", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1756, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1756
+        }, 
+        {
+          "description": "Controversial works", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 1779, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1760
+        }, 
+        {
+          "description": "Catholic Church and other churches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1788, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1781
+        }, 
+        {
+          "description": "Catholic Church and the state", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1793, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1790
+        }, 
+        {
+          "description": "Government and organization", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1920, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1800
+        }, 
+        {
+          "description": "Creeds and catechisms", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 1968, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1958
+        }, 
+        {
+          "description": "Forms of worship.  Catholic practice", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 1969, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1969
+        }, 
+        {
+          "description": "Liturgy and ritual", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2175, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 1970
+        }, 
+        {
+          "description": "Prayers and devotions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2175, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2050
+        }, 
+        {
+          "description": "Meditations.  Devotional readings.  Spiritual exercises, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2198, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2177
+        }, 
+        {
+          "description": "Sacraments", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2292, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2200
+        }, 
+        {
+          "description": "Sacramentals", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2310, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2295
+        }, 
+        {
+          "description": "Images", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 2312, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2312
+        }, 
+        {
+          "description": "Relics.  Shrines.  Pilgrimages.  Processions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2324, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2315
+        }, 
+        {
+          "description": "Saints.  Hagiology", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2333, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2325
+        }, 
+        {
+          "description": "Practical religion.  Christian life", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2377, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2347
+        }, 
+        {
+          "description": "Religious life.  Religious state", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 2386, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2380
+        }, 
+        {
+          "description": "Monasticism.  Religious orders", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4563, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2400
+        }, 
+        {
+          "description": "Religious orders of men", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4192, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 2890
+        }, 
+        {
+          "description": "Religious orders of women", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4563, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4200
+        }, 
+        {
+          "description": "Churches, cathedrals, abbeys (as parish churches), etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4644, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4600
+        }, 
+        {
+          "description": "Biography and portraits", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4705, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4650
+        }, 
+        {
+          "description": "Collective", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4698, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4650
+        }, 
+        {
+          "description": "Saints and martyrs", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4662, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4654
+        }, 
+        {
+          "description": "Individual", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4705, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4700
+        }, 
+        {
+          "description": "Saints", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 4700, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4700
+        }, 
+        {
+          "description": "Eastern churches in communion with Rome.  Catholics of the Oriental rites.  Uniats", 
+          "max_alphabetic": "", 
+          "max_numeric": 95, 
+          "max_topic": 4715, 
+          "min_alphabetic": "", 
+          "min_numeric": 1, 
+          "min_topic": 4710
+        }, 
+        {
+          "description": "Dissenting sects other than Protestant", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4795, 
+          "min_alphabetic": "", 
+          "min_numeric": 4, 
+          "min_topic": 4716
+        }, 
+        {
+          "description": "Jansenists", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4735, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 4718
+        }, 
+        {
+          "description": "French schisms of the 19th century", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 4737, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4737
+        }, 
+        {
+          "description": "German Catholics", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 4740, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4740
+        }, 
+        {
+          "description": "Old Catholics", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4793, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4751
+        }, 
+        {
+          "description": "Independent Catholic Churches", 
+          "max_alphabetic": "", 
+          "max_numeric": 25, 
+          "max_topic": 4794, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 4793
+        }, 
+        {
+          "description": "Other", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 4795, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4795
+        }, 
+        {
+          "description": "Protestantism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4800
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4861, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4800
+        }, 
+        {
+          "description": "Pre-Reformation", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4924, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4872
+        }, 
+        {
+          "description": "Waldenses and Albigenses", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4893, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4872
+        }, 
+        {
+          "description": "Lollards.  Wycliffites", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4906, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4900
+        }, 
+        {
+          "description": "Hussites", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4924, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4913
+        }, 
+        {
+          "description": "Bohemian Brethren", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4924, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4920
+        }, 
+        {
+          "description": "Post-Reformation", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4951, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4929
+        }, 
+        {
+          "description": "Anabaptists", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4946, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4929
+        }, 
+        {
+          "description": "Plain People", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 4951, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 4950
+        }, 
+        {
+          "description": "Anglican Communion (General)", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5009, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5001
+        }, 
+        {
+          "description": "Church of England", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5207, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5011
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5050, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5011
+        }, 
+        {
+          "description": "History.  Local divisions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5110, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5051
+        }, 
+        {
+          "description": "Special parties and movements", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5126, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5115
+        }, 
+        {
+          "description": "Church of England and other churches", 
+          "max_alphabetic": "", 
+          "max_numeric": 8, 
+          "max_topic": 5129, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5127
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5132, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5130
+        }, 
+        {
+          "description": "Sermons.  Tracts.  Addresses.  Essays", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 5133, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5133
+        }, 
+        {
+          "description": "Controversial works", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5136, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5135
+        }, 
+        {
+          "description": "Creeds and catechisms, etc.", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5139, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5137
+        }, 
+        {
+          "description": "Liturgy and ritual", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5147, 
+          "min_alphabetic": "", 
+          "min_numeric": 5, 
+          "min_topic": 5140
+        }, 
+        {
+          "description": "Sacraments", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5149, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5148
+        }, 
+        {
+          "description": "Government.  Organization.  Discipline", 
+          "max_alphabetic": "", 
+          "max_numeric": 5, 
+          "max_topic": 5182, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5150
+        }, 
+        {
+          "description": "Religious communities.  Conventual life.  Religious societies", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5187, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5183
+        }, 
+        {
+          "description": "Cathedrals, churches, etc. in England and Wales", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5195, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5194
+        }, 
+        {
+          "description": "Biography", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5199, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5197
+        }, 
+        {
+          "description": "Dissent and nonconformity", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5207, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5200
+        }, 
+        {
+          "description": "Episcopal Church in Scotland", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5395, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5210
+        }, 
+        {
+          "description": "Church of Ireland", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5595, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5410
+        }, 
+        {
+          "description": "Church in Wales", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5598, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5596
+        }, 
+        {
+          "description": "Church of England outside of Great Britain", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5740, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5600
+        }, 
+        {
+          "description": "Anglican Church of Canada", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5620, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5601
+        }, 
+        {
+          "description": "Protestant Episcopal Church in the United States of America", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 5995, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5800
+        }, 
+        {
+          "description": "Protestant Episcopal Church outside the United States", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6030, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 5996
+        }, 
+        {
+          "description": "Reformed Episcopal Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6093, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6051
+        }, 
+        {
+          "description": "Other Protestant denominations Alphabetical; only larger denominations listed The subarrangement is essentially the same for each sect, the primary features being indicated by way of example under Baptists", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6101
+        }, 
+        {
+          "description": "Adventists.  AMillerites@", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6193, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6101
+        }, 
+        {
+          "description": "Arminians.  Remonstrants", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6197, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6195
+        }, 
+        {
+          "description": "Baptists", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6495, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6201
+        }, 
+        {
+          "description": "General", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6227, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6201
+        }, 
+        {
+          "description": "History.  Local divisions", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6328, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6231
+        }, 
+        {
+          "description": "Baptists and other churches", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 6329, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6329
+        }, 
+        {
+          "description": "Doctrine", 
+          "max_alphabetic": "", 
+          "max_numeric": 2, 
+          "max_topic": 6331, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6330
+        }, 
+        {
+          "description": "Sermons.  Tracts", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 6333, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6333
+        }, 
+        {
+          "description": "Controversial works", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 6334, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6334
+        }, 
+        {
+          "description": "Creeds.  Catechisms", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6336, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6335
+        }, 
+        {
+          "description": "Service.  Ritual.  Liturgy", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 6337, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6337
+        }, 
+        {
+          "description": "Sacraments", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6339, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6338
+        }, 
+        {
+          "description": "Government.  Discipline", 
+          "max_alphabetic": "", 
+          "max_numeric": 3, 
+          "max_topic": 6346, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6340
+        }, 
+        {
+          "description": "Individual branches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6470, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6349
+        }, 
+        {
+          "description": "Individual Baptist churches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6490, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6480
+        }, 
+        {
+          "description": "Biography", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6495, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6493
+        }, 
+        {
+          "description": "Catholic Apostolic Church.  Irvingites", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6593, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6551
+        }, 
+        {
+          "description": "Christadelphians.  Brothers of Christ", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6693, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6651
+        }, 
+        {
+          "description": "Christian Church See also Disciples of Christ", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6793, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6751
+        }, 
+        {
+          "description": "Christian Reformed Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6843, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6801
+        }, 
+        {
+          "description": "Christian Science", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 6997, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 6901
+        }, 
+        {
+          "description": "Christian Union", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 7003, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7003
+        }, 
+        {
+          "description": "Church of God", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7060, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7020
+        }, 
+        {
+          "description": "Churches of God", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7097, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7079
+        }, 
+        {
+          "description": "Congregationalism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7260, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7101
+        }, 
+        {
+          "description": "Disciples of Christ.  Campbellites", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7343, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7301
+        }, 
+        {
+          "description": "Dowieism.  Christian Catholic Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7430, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7401
+        }, 
+        {
+          "description": "Evangelical and Reformed Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7493, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7451
+        }, 
+        {
+          "description": "Evangelical United Brethren Church", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 7556, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7556
+        }, 
+        {
+          "description": "Free Congregations (Germany).  Freie Gemeinden", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7583, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7580
+        }, 
+        {
+          "description": "Friends.  Society of Friends.  Quakers", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7795, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7601
+        }, 
+        {
+          "description": "German Baptist Brethren.  Church of the Brethren. Dunkards", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7843, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7801
+        }, 
+        {
+          "description": "German Evangelical Protestant Church of North America. Evangelical Protestant Church of North America", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7865, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7850
+        }, 
+        {
+          "description": "German Evangelical Synod of North America", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 7943, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 7901
+        }, 
+        {
+          "description": "Holiness churches", 
+          "max_alphabetic": "H", 
+          "max_numeric": "69", 
+          "max_topic": 7990, 
+          "min_alphabetic": "H", 
+          "min_numeric": 6, 
+          "min_topic": 7990
+        }, 
+        {
+          "description": "Lutheran churches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8080, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8001
+        }, 
+        {
+          "description": "Mennonites", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8144, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8101
+        }, 
+        {
+          "description": "Methodism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8495, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8201
+        }, 
+        {
+          "description": "Millennial Dawnists.  Jehovah=s Witnesses", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8528, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8525
+        }, 
+        {
+          "description": "Moravian Church.  United Brethren.  Unitas Fratrum. Herrnhuters", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8593, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8551
+        }, 
+        {
+          "description": "Mormons.  Church of Jesus Christ of Latter-Day Saints", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8695, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8601
+        }, 
+        {
+          "description": "New Jerusalem Church.  New Church.  Swedenborgianism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8749, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8701
+        }, 
+        {
+          "description": "Pentecostal churches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8785, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8762
+        }, 
+        {
+          "description": "Plymouth Brethren.  Darbyites", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 8809, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8799
+        }, 
+        {
+          "description": "Presbyterianism.  Calvinistic Methodism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9225, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 8901
+        }, 
+        {
+          "description": "Puritanism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9359, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9301
+        }, 
+        {
+          "description": "Reformed or Calvinistic Churches", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9640, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9401
+        }, 
+        {
+          "description": "River Brethren.  Brethren in Christ", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 9675, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9675
+        }, 
+        {
+          "description": "Salvation Army", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9743, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9701
+        }, 
+        {
+          "description": "Shakers.  United Society of Believers.  Millennial Church", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9793, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9751
+        }, 
+        {
+          "description": "Unitarianism", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9869, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9801
+        }, 
+        {
+          "description": "United Brethren in Christ.  Church of the United Brethren in Christ", 
+          "max_alphabetic": "", 
+          "max_numeric": 1, 
+          "max_topic": 9877, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9875
+        }, 
+        {
+          "description": "United Church of Canada", 
+          "max_alphabetic": "", 
+          "max_numeric": 95, 
+          "max_topic": 9882, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9881
+        }, 
+        {
+          "description": "United Church of Christ", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9886, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9884
+        }, 
+        {
+          "description": "United Evangelical Church", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 9887, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9887
+        }, 
+        {
+          "description": "United Missionary Church", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 9889, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9889
+        }, 
+        {
+          "description": "Unviersalism.  Universalists", 
+          "max_alphabetic": "", 
+          "max_numeric": "", 
+          "max_topic": 9969, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9901
+        }, 
+        {
+          "description": "Volunteers of America", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 9975, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9975
+        }, 
+        {
+          "description": "Walloon Church", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 9980, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9980
+        }, 
+        {
+          "description": "Other beliefs and movements akin to Christianity", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 9998, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9998
+        }, 
+        {
+          "description": "Independent churches, parishes, societies, etc.", 
+          "max_alphabetic": null, 
+          "max_numeric": null, 
+          "max_topic": 9999, 
+          "min_alphabetic": null, 
+          "min_numeric": null, 
+          "min_topic": 9999
+        }
+      ]
+    }
+  }, 
   "C": {
     "description": "AUXILIARY SCIENCES OF HISTORY", 
     "subclasses": {

@@ -1,0 +1,740 @@
+LIBRARY OF CONGRESS CLASSIFICATION OUTLINE
+
+CLASS B - PHILOSOPHY.  PSYCHOLOGY.  RELIGION
+
+Subclass B
+
+B1-5802	Philosophy (General)
+B69-99		General works
+B108-5802		By period
+Including individual philosophers and schools of philosophy
+B108-708			Ancient
+B720-765			Medieval
+B770-785			Renaissance
+B790-5802			Modern
+B808-849				Special topics and schools of philosophy
+B850-5739				By region or country
+B5800-5802				By religion
+
+Subclass BC
+
+BC1-199	Logic
+BC11-39		History
+BC25-39			By period
+BC60-99		General works
+BC171-199		Special topics
+
+Subclass BD
+
+BD10-701	Speculative philosophy
+BD10-41		General philosophical works
+BD95-131		Metaphysics
+BD143-237		Epistemology.  Theory of knowledge
+BD240-260		Methodology
+BD300-450		Ontology
+Including being, the soul, life, death
+BD493-701		Cosmology
+Including teleology, space and time, structure of matter,
+plurality of worlds
+
+Subclass BF
+
+BF1-990	Psychology
+BF38-64		Philosophy.  Relation to other topics
+BF173-175.5		Psychoanalysis
+BF176-176.5		Psychological tests and testing
+BF180-198.7		Experimental psychology
+BF203		Gestalt psychology
+BF207-209		Psychotropic drugs and other substances
+BF231-299		Sensation.  Aesthesiology
+BF309-499		Consciousness.  Cognition
+
+Including learning, attention, comprehension, memory,
+imagination, genius, intelligence, thought and
+thinking, psycholinguistics, mental fatigue
+BF501-505		Motivation
+BF511-593		Affection.  Feeling.  Emotion
+BF608-635		Will.  Volition.  Choice.  Control
+BF636-637		Applied psychology
+BF638-648		New Thought.  Menticulture, etc.
+BF660-685		Comparative psychology.  Animal and human psychology
+BF692-692.5		Psychology of sex.  Sexual behavior
+BF697-697.5		Differential psychology.  Individuality.  Self
+BF698-698.9		Personality
+BF699-711		Genetic psychology
+BF712-724.85		Developmental psychology
+Including infant psychology, child psychology, adolescence,
+adulthood
+BF725-727		Class psychology
+BF795-839		Temperament.  Character
+BF839.8-885		Physiognomy.  Phrenology
+BF889-905		Graphology.  Study of handwriting
+BF908-940		The hand.  Palmistry
+BF1001-1389	Parapsychology
+BF1001-1045		Psychic research.  Psychology of the conscious
+BF1048-1108		Hallucinations.  Sleep.  Dreaming.  Visions
+BF1111-1156		Hypnotism.  Suggestion.  Mesmerism.  Subliminal projection
+BF1161-1171		Telepathy.  Mind reading.  Thought transference
+BF1228-1389		Spiritualism
+Including mediumship, spirit messages, clairvoyance
+BF1404-2055	Occult sciences
+BF1444-1486		Ghosts.  Apparitions.  Hauntings
+BF1501-1562		Demonology.  Satanism.  Possession
+BF1562.5-1584		Witchcraft
+BF1585-1623		Magic.  Hermetics.  Necromancy
+BF1651-1729		Astrology
+BF1745-1779		Oracles.  Sibyls.  Divinations
+BF1783-1815		Seers.  Prophets.  Prophecies
+BF1845-1891		Fortune-telling
+BF2050-2055		Human-alien encounters.  Contact between humans and
+extraterrestrials
+
+Subclass BH
+
+BH1-301	Aesthetics
+BH81-208		History
+BH301		Special topics
+
+Subclass BJ
+
+BJ1-1725	Ethics
+BJ71-1185		History and general works
+Including individual ethical philosophers
+
+BJ1188-1295		Religious ethics
+BJ1298-1335		Evolutionary and genetic ethics
+BJ1365-1385		Positivist ethics
+BJ1388		Socialist ethics
+BJ1390-1390.5		Communist ethics
+BJ1392		Totalitarian ethics
+BJ1395		Feminist ethics
+BJ1518-1697		Individual ethics.  Character.  Virtue
+Including practical and applied ethics, conduct of life, vices,
+success, ethics for children
+BJ1725		Ethics of social groups, classes, etc.  Professional ethics
+BJ1801-2195	Social usages.  Etiquette
+BJ2021-2078		Etiquette of entertaining
+BJ2139-2156		Etiquette of travel
+BJ2195		Telephone etiquette
+
+Subclass BL
+
+BL1-2790	Religions.  Mythology.  Rationalism
+BL1-50		Religion (General)
+BL51-65		Philosophy of religion.  Psychology of religion.  Religion
+in relation to other subjects
+BL70-71		Sacred books (General)
+BL71.5-73		Biography
+BL74-99		Religions of the world
+BL175-265		Natural theology
+BL175-190			General
+BL200			Theism
+BL205-216			Nature and attributes of Deity
+BL217			Polytheism
+BL218			Dualism
+BL220			Pantheism
+BL221			Monotheism
+BL224-227			Creation.  Theory of the earth
+BL239-265			Religion and science
+BL270		Unity and plurality
+BL290		The soul
+BL300-325		The myth.  Comparative mythology
+BL350-385		Classification of religions
+BL410		Religions in relation to one another
+BL425-490		Religious doctrines (General)
+BL430			Origins of religion
+BL435-457			Nature worship
+BL458			Women in comparative religion
+BL460			Sex worship.  Phallicism
+BL465-470			Worship of human beings
+BL473-490			Other
+BL500-547		Eschatology
+BL550-619		Worship.  Cultus
+BL624-629.5		Religious life
+BL630-(632.5)		Religious organization
+
+BL660-2680		History and principles of religions
+BL660			Indo-European.  Aryan
+BL685			Ural-Altaic
+BL687			Mediterranean region
+BL689-980			European.  Occidental
+BL700-820				Classical (Etruscan, Greek, Roman)
+BL830-875				Germanic and Norse
+BL900-980				Other European
+BL1000-2370			Asian.  Oriental
+BL1000-1035				General
+BL1050				Northern and Central Asia
+BL1055				Southern and Eastern Asia
+BL1060				Southwestern Asia.  Asia Minor.  Levant
+BL1100-1295				Hinduism
+BL1100-1107.5					General
+BL1108.2-1108.7					Religious education
+BL1109.2-1109.7					Antiquities.  Archaeology.  Inscriptions
+BL1111-1143.2					Sacred books.  Sources
+BL1112.2-1137.5						Vedic texts
+BL1140.2-1140.4						Pur~as
+BL1141.2-1142.6						Tantric texts
+BL1145-1146					Hindu literature
+BL1153.7-1168					By region or country
+BL1212.32-1215					Doctrines.  Theology
+BL1216-1225					Hindu pantheon.  Deities
+BL1225.2-1243.58					Religious life
+BL1243.72-1243.78					Monasteries.  Temples, etc.
+BL1271.2-1295					Modifications.  Sects
+BL1284.5-1289.592						Vaishnavism
+BL1300-1380				Jainism
+BL1310-1314.2					Sacred books.  Sources
+BL1315-1317					Jain literature
+BL1375.3-1375.7					Jaina pantheon.  Deities
+BL1376-1378.85					Forms of worship
+BL1379-1380					Modifications, etc.
+BL1500-1590				Zoroastrianism (Mazdeism).  Parseeism
+BL1595				Yezidis
+BL1600-1695				Semitic religions
+BL1600-1605					General
+BL1610					Aramean
+BL1615-1616					Sumerian
+BL1620-1625					Assyro-Babylonian
+BL1630					Chaldean
+BL1635					Harranian.  Pseudo-Sabian
+BL1640-1645					Syrian.  Palestinian.  Samaritan
+BL1650					Hebrew
+For Judaism, see subclass BM
+BL1660-1665					Phoenician.  Carthaginian, etc.
+BL1670-1672					Canaanite
+BL1675					Moabite.  Philistine
+BL1680-1685					Arabian (except Islam)
+
+BL1695					Druses
+BL1710				Ethiopian
+BL1750-2350				By region or country
+BL1790-1975					China
+BL1830-1883						Confucianism
+BL1899-1942.85						Taoism
+BL2000-2032					India
+BL2017-2018.7						Sikhism
+BL2195-2228					Japan
+BL2216-2227.8						Shinto
+BL2230-2240					Korea
+BL2390-2490			African
+BL2420-2460				Egyptian
+BL2500-2592			American
+For American Indians, see classes E-F
+BL2600-2630			Pacific Ocean islands.  Oceania
+BL2670			Arctic regions
+BL2700-2790		Rationalism
+
+Subclass BM			
+
+BM1-990	Judaism
+BM1-449		General
+BM70-135			Study and teaching
+BM150-449			History
+BM201-449				By region or country
+BM480-488.8		Pre-Talmudic Jewish literature (non-Biblical)
+BM495-532		Sources of Jewish religion.  Rabbinical literature
+BM497-509			Talmudic literature
+BM497-497.8				Mishnah
+BM498-498.8				Palestinian Talmud
+BM499-504.7				Babylonian Talmud
+BM507-507.5				Baraita
+BM508-508.5				Tosefta
+BM510-518			Midrash
+BM520-523.7			Halacha
+BM525-526			Cabala
+BM529			Jewish tradition
+BM534-538		Relation of Judaism to special subject fields
+BM534-536			Religions
+BM545-582		Principles of Judaism (General)
+BM585-585.4		Controversial works against the Jews
+BM590-591		Jewish works against Christianity and Islam
+BM600-645		Dogmatic Judaism
+BM646		Heresy, heresies
+BM648		Apologetics
+BM650-747		Practical Judaism
+BM651-652.7			Priests, rabbis, etc.
+BM653-653.7			Congregations.  Synagogues
+BM654-655.6			The tabernacle.  The temple
+BM656-657			Forms of worship
+
+BM660-679			Liturgy and ritual
+BM690-695			Festivals and fasts
+BM700-720			Rites and customs
+BM723-729			Jewish way of life.  Spiritual life.  Mysticism.  Personal
+religion.  Moral theology
+BM730-747			Preaching.  Homiletics
+BM750-755		Biography
+BM900-990		Samaritans
+
+Subclass BP
+
+BP1-610	Islam.  Bahai Faith.  Theosophy, etc.
+BP1-253		Islam
+BP1-68			General
+BP42-48				Study and teaching
+BP50-68				History
+BP70-80			Biography
+BP75-77.75				Muammad, Prophet, d. 632
+BP87-89			Islamic literature
+BP100-(157)			Sacred books
+BP100-134				Koran
+BP128.15-129.83					Special parts and chapters
+BP130-134					Works about the Koran
+BP135-136.9				Hadith literature.  Traditions.  Sunna
+BP137-137.5				Koranic and other Islamic legends
+BP160-165			General works on Islam
+BP165.5			Dogma (>Aq~=id)
+BP166-166.94			Theology (Kal~m)
+BP167.5			Heresy, heresies, heretics
+BP168			Apostasy from Islam
+BP169			Works against Islam and the Koran
+BP170			Works in defense of Islam.  Islamic apologetics
+BP170.2			Benevolent work.  Social work.  Welfare work, etc.
+BP170.3-170.5			Missionary work of Islam
+BP171-173			Relation of Islam to other religions
+BP173.25-173.45			Islamic sociology
+BP174-190			The practice of Islam
+BP176-181				The five duties of a Moslem.  Pillars of Islam
+BP182				Jihad (Holy War)
+BP184-184.9				Religious ceremonies, rites, etc.
+BP186-186.97				Special days and seasons, fasts, feasts, 
+festivals, etc.  Relics
+BP187-187.9				Shrines, sacred places, etc.
+BP188-190				Islamic religious life
+BP188.2-188.3					Devotional literature
+BP188.45-189.65					Sufism.  Mysticism.  Dervishes
+BP189.68-189.7					Monasticism
+BP191-253			Branches, sects, etc.
+BP192-194.9				Shiites
+BP221-223				Black Muslims
+BP232				Moorish Science Temple of America
+
+BP251-253				Nurculuk
+BP300-395		Bahai Faith
+BP500-585		Theosophy
+BP595-597		Anthroposophy
+BP600-610		Other beliefs and movements
+
+Subclass BQ
+
+BQ1-9800	Buddhism
+BQ1-10		Periodicals.  Yearbooks (General)
+BQ12-93		Societies, councils, associations, clubs, etc.
+BQ96-99		Financial institutions.  Trusts
+BQ100-102		Congresses.  Conferences (General)
+BQ104-105		Directories (General)
+BQ107-109		Museums.  Exhibitions
+BQ115-126		General collections.  Collected works
+BQ128		Encyclopedias (General)
+BQ130		Dictionaries (General)
+BQ133		Terminology
+BQ135		Questions and answers.  Maxims (General)
+BQ141-209		Religious education (General)
+BQ210-219		Research
+BQ221-249		Antiquities.  Archaeology
+BQ240-244			Literary discoveries
+BQ246-249			Inscriptions, etc.
+BQ251-799		History
+BQ800-829		Persecutions
+BQ840-999		Biography
+BQ840-858			Collective
+BQ860-999			Individual
+BQ860-939				Gautama Buddha
+BQ940-999				Other
+BQ1001-1045		Buddhist literature
+BQ1100-3340		Tripiaka (Canonical literature)
+BQ4000-4060		General works
+BQ4061-4570		Doctrinal and systematic Buddhism
+BQ4180-4565			Special doctrines
+BQ4570			Special topics and relations to special subjects
+BQ4600-4610		Relation to other religious and philosophical systems
+BQ4620-4905		Buddhist pantheon
+BQ4911-5720		Practice of Buddhism.  Forms of worship
+BQ4965-5030			Ceremonies and rites.  Ceremonial rules
+BQ5035-5065			Hymns.  Chants.  Recitations
+BQ5070-5075			Altar, liturgical objects, ornaments, memorials, etc.
+BQ5080-5085			Vestments, altar cloths, etc.
+BQ5090-5095			Liturgical functions
+BQ5100-5125			Symbols and symbolism
+BQ5130-5137			Temple.  Temple organization
+BQ5140-5355			Buddhist ministry.  Priesthood.  Organization
+BQ5251-5305				Education and training
+BQ5310-5350				Preaching
+
+BQ5360-5680			Religious life
+BQ5485-5530				Precepts for laymen
+BQ5535-5594				Devotional literature.  Meditations.  Prayers
+BQ5595-5633				Devotion.  Meditation.  Prayer
+BQ5635-5675				Spiritual life.  Mysticism.  Englightenment.  Perfection
+BQ5700-5720			Festivals.  Days and seasons
+BQ5725-5845			Folklore
+BQ5821-5845				Miracle literature
+BQ5851-5899			Benevolent work.  Social work.  Welfare work, etc.
+BQ5901-5975			Missionary work
+BQ6001-6160			Monasticism and monastic life  Sagha (Order)
+BQ6200-6240			Asceticism.  Hermits.  Wayfaring life
+BQ6300-6388			Monasteries.  Temples.  Shrines.  Sites
+BQ6400-6495			Pilgrims and pilgrimages
+BQ7001-9800			Modifications, schools, etc.
+BQ7100-7285				Therav~da (Hinayana) Buddhism
+BQ7300-7529				Mahayana Buddhism
+BQ7530-7950				Tibetan Buddhism (Lamaism)
+BQ7960-7989				Bonpo (Sect)
+BQ8000-9800				Special modifications, sects, etc.
+BQ8500-8769					Pure Land Buddhism
+BQ8900-9099					Tantric Buddhism
+BQ9250-9519					Zen Buddhism
+
+Subclass BR
+
+BR1-1725	Christianity
+BR60-67		Early Christian literature.  Fathers of the Church, etc.
+BR115		Christianity in relation to special subjects
+BR130-133.5		Christian antiquities.  Archaeology.  Museums
+BR140-1510		History
+BR160-481			By period
+BR160-275				Early and medieval
+BR280				Renaissance.  Renaissance and Reformation
+BR290-481				Modern period
+BR323.5-334.2					Luther, Martin
+BR500-1510			By region or country
+BR1600-1609		Persecution.  Martyrs
+BR1609.5		Dissent
+BR1610		Tolerance and toleration
+BR1615-1617		Liberalism
+BR1620		Sacrilege (History)
+BR1690-1725		Biography
+
+Subclass BS
+
+BS1-2970	The Bible
+BS11-115		Early versions
+BS125-355		Modern texts and versions
+BS125-198			English
+BS199-313			Other European languages
+
+BS315-355			Non-European languages
+BS315				Asian languages
+BS325				African languages
+BS335				Languages of Oceania and Australasia
+BS345				American Indian languages
+BS350				Mixed languages
+BS355				Artificial languages
+BS410-680		Works about the Bible
+BS500-534.8			Criticism and interpretation
+BS535-537			The Bible as literature
+BS546-558			Bible stories.  Paraphrases of Bible stories.  The Bible story
+BS569-580			Men, women, and children of the Bible
+BS580				Individual Old Testament characters
+BS585-613			Study and teaching
+BS647-649			Prophecy
+BS650-667			Bible and science
+BS670-672			Bible and social sciences
+BS701-1830		Old Testament
+BS705-815			Early versions
+BS825-1013			Modern texts and versions
+BS1091-1099			Selections.  Quotations
+BS1110-1199			Works about the Old Testament
+BS1160-1191.5				Criticism and interpretation
+BS1200-1830			Special parts of the Old Testament
+BS1901-2970		New Testament
+BS1937-2020			Early texts and versions
+BS2025-2213			Modern texts and versions
+BS2260-2269			Selections.  Quotations
+BS2280-2545			Works about the New Testament
+BS2350-2393				Criticism and interpretation
+BS2415-2417				The teachings of Jesus
+BS2430-2520				Men, women, and children of the New Testament
+BS2525-2544				Study and teaching
+BS2547-2970			Special parts of the New Testament
+BS2640-2765.6				Epistles of Paul
+
+Subclass BT
+
+BT10-1480	Doctrinal Theology
+BT19-37		Doctrine and dogma
+BT93-93.6		Judaism
+BT95-97.2		Divine law.  Moral government
+BT98-180		God
+BT109-115			Doctrine of the Trinity
+BT117-123			Holy Spirit.  The Paraclete
+BT126-127.5			Revelation
+BT130-153			Divine attributes
+BT198-590		Christology
+BT296-500			Life of Christ
+BT580			Miracles.  Apparitions.  Shrines, sanctuaries, images,
+processions, etc.
+
+BT587			Relics
+BT595-680		Mary, Mother of Jesus Christ.  Mariology
+BT650-660			Miracles.  Apparitions.  Shrines, sanctuaries, images,
+processions, etc.
+BT695-749		Creation
+BT750-811		Salvation.  Soteriology
+BT819-891		Eschatology.  Last things
+BT899-940		Future state.  Future life
+BT960-985		Invisible world (saints, demons, etc.)
+BT990-1010		Creeds, confessions, covenants, etc.
+BT1029-1040		Catechisms
+BT1095-1255		Apologetics.  Evidences of Christianity
+BT1313-1480		History of specific doctrines and movements.  Heresies and schisms
+
+Subclass BV
+
+BV1-5099	Practical Theology
+BV5-530		Worship (Public and private)
+BV30-135			Times and seasons.  The Church year
+BV43-64				Feast days
+BV65-70				Saints= days
+BV80-105				Fasts
+BV107-133				Lord=s Day.  Sunday.  Sabbath
+BV150-168			Christian symbols and symbolism
+BV169-199			Liturgy and ritual
+BV200			Family worship
+BV205-287			Prayer
+BV301-530			Hymnology
+BV360-465				Denominational and special types of hymnbooks in English
+BV467-510				Hymns in languages other than English
+BV590-1652		Ecclesiastical theology
+BV598-603			The Church
+BV629-631			Church and state
+BV637-637.5			City churches
+BV638-638.8			The rural church.  The church and country life
+BV646-651			Church polity
+BV652-652.9			Church management.  Efficiency
+BV652.95-657			Mass media and telecommunication in religion
+BV659-683			Ministry.  Clergy.  Religious vocations
+BV700-707			Parish.  Congregation.  The local church
+BV770-777			Church finance.  Church property
+BV800-873			Sacraments.  Ordinances
+BV803-814				Baptism
+BV823-828				Holy Communion.  Lord=s Supper.  Eucharist
+BV835-838				Marriage
+BV840-850				Penance
+BV895-896			Shrines.  Holy places
+BV900-1450			Religious societies, associations, etc.
+BV950-1280				Religious societies of men, brotherhoods, etc.
+BV1000-1220					Young Men=s Christian Associations
+BV1300-1395				Religious societies of women
+
+BV1300-1393					Young Women=s Christian Associations
+BV1460-1615			Religious education (General)
+BV1620-1652			Social life, recreation, etc., in the church
+BV2000-3705		Missions
+BV2123-2595			Special churches
+BV2130-2300				Roman Catholic Church
+BV2350-2595				Protestant churches
+BV2610-2695			Special types of missions
+BV2750-3695			Missions in individual countries
+BV3750-3799		Evangelism.  Revivals
+BV4000-4470		Pastoral theology
+BV4019-4180			Education
+BV4019-4167				Training for the ordained ministry
+BV4168-4180				Training for lay workers
+BV4200-4317			Preaching.  Homiletics
+BV4239-4317				Sermons
+BV4390-4399			Personal life of the clergy
+BV4400-4470			Practical church work.  Social work.  Work of the layman
+BV4485-5099		Practical religion.  The Christian life
+BV4520-4526.2			Religious duties
+BV4625-4780			Moral theology
+BV4625-4627				Sins and vices
+BV4630-4647				Virtues
+BV4650-4715				Precepts from the Bible
+BV4720-4780				Precepts of the Church.  Commandments of the Church
+BV4800-4897			Works of meditation and devotion
+BV4900-4911			Works of consolation and cheer
+BV4912-4950			Conversion literature
+BV5015-5068			Asceticism
+BV5070-5095			Mysticism
+BV5099			Quietism
+
+Subclass BX
+
+BX1-9999	Christian Denominations
+BX1-9.5		Church unity.  Ecumenical movement.  Interdenominational
+cooperation
+BX100-189		Eastern churches.  Oriental churches
+BX100-107			General
+BX120-129			Armenian Church
+BX130-139			Coptic Church
+BX140-149			Ethiopic or Abyssinian Church
+BX150-159			Nestorian, Chaldean, or East Syrian Church
+BX160-169			St. Thomas Christians.  Malabar Christians.  Mar Thoma Syrian
+Church
+BX170-179			Syrian or Jacobite Church
+BX180-189			Maronite Church
+BX200-756		Orthodox Eastern Church
+BX200-395			General
+BX400-756			Divisions of the church
+BX400-440				Patriarchates of the East.  Melchites
+
+BX450-450.93				Church of Cyprus
+BX460-605				Russian Church
+BX610-620				Church of Greece
+BX630-639				Orthodox Church in Austria and Hungary
+BX650-659				Bulgarian Church
+BX660-669				Georgian Church
+BX670-679				Montenegrin Church
+BX690-699				Romanian Church
+BX710-719				Serbian Church.  Yugoslav Church
+BX720-729				Orthodox Eastern Church, Macedonian
+BX729.5				Orthodox Eastern Church, Ukrainian
+BX729.9-755				Orthodox Church in other regions or countries
+BX800-4795		Catholic Church
+BX800-839			Periodicals.  Societies, councils, congresses, etc.
+BX840			Museums.  Exhibitions
+BX841			Dictionaries.  Encyclopedias
+BX845			Directories.  Yearbooks
+BX847			Atlases
+BX850-875			Documents
+BX880-891			General collected works
+BX895-939			Study and teaching
+BX940-1745			History
+Including lives of popes
+BX1746-1755			Theology.  Doctrine.  Dogmatics
+BX1756			Sermons
+BX1760-1779.5			Controversial works
+BX1781-1788			Catholic Church and other churches
+BX1790-1793			Catholic Church and the state
+BX1800-1920			Government and organization
+BX1958-1968			Creeds and catechisms
+BX1969			Forms of worship.  Catholic practice
+BX1970-2175			Liturgy and ritual
+BX2050-2175				Prayers and devotions
+BX2177-2198			Meditations.  Devotional readings.  Spiritual exercises, etc.
+BX2200-2292			Sacraments
+BX2295-2310			Sacramentals
+BX2312			Images
+BX2315-2324			Relics.  Shrines.  Pilgrimages.  Processions
+BX2325-2333			Saints.  Hagiology
+BX2347-2377			Practical religion.  Christian life
+BX2380-2386			Religious life.  Religious state
+BX2400-4563			Monasticism.  Religious orders
+BX2890-4192				Religious orders of men
+BX4200-4563				Religious orders of women
+BX4600-4644			Churches, cathedrals, abbeys (as parish churches), etc.
+BX4650-4705			Biography and portraits
+BX4650-4698				Collective
+BX4654-4662					Saints and martyrs
+BX4700-4705				Individual
+BX4700					Saints
+BX4710.1-4715.95			Eastern churches in communion with Rome.  Catholics of the
+
+Oriental rites.  Uniats
+BX4716.4-4795			Dissenting sects other than Protestant
+BX4718.5-4735				Jansenists
+BX4737				French schisms of the 19th century
+BX4740				German Catholics
+BX4751-4793				Old Catholics
+BX4793.5-4794.25				Independent Catholic Churches
+BX4795				Other
+BX4800-9999		Protestantism
+BX4800-4861			General
+BX4872-4924			Pre-Reformation
+BX4872-4893				Waldenses and Albigenses
+BX4900-4906				Lollards.  Wycliffites
+BX4913-4924				Hussites
+BX4920-4924					Bohemian Brethren
+BX4929-4951			Post-Reformation
+BX4929-4946				Anabaptists
+BX4950-4951				Plain People
+BX5001-5009			Anglican Communion (General)
+BX5011-5207			Church of England
+BX5011-5050				General
+BX5051-5110				History.  Local divisions
+BX5115-5126				Special parties and movements
+BX5127-5129.8				Church of England and other churches
+BX5130-5132				General
+BX5133				Sermons.  Tracts.  Addresses.  Essays
+BX5135-5136				Controversial works
+BX5137-5139				Creeds and catechisms, etc.
+BX5140.5-5147				Liturgy and ritual
+BX5148-5149				Sacraments
+BX5150-5182.5				Government.  Organization.  Discipline
+BX5183-5187				Religious communities.  Conventual life.  Religious
+societies
+BX5194-5195				Cathedrals, churches, etc. in England and Wales
+BX5197-5199				Biography
+BX5200-5207				Dissent and nonconformity
+BX5210-5395				Episcopal Church in Scotland
+BX5410-5595				Church of Ireland
+BX5596-5598				Church in Wales
+BX5600-5740				Church of England outside of Great Britain
+BX5601-5620					Anglican Church of Canada
+BX5800-5995			Protestant Episcopal Church in the United States of America
+BX5996-6030			Protestant Episcopal Church outside the United States
+BX6051-6093			Reformed Episcopal Church
+BX6101-9999			Other Protestant denominations
+Alphabetical; only larger denominations listed
+The subarrangement is essentially the same for
+each sect, the primary features being 
+indicated by way of example under Baptists
+BX6101-6193				Adventists.  AMillerites@
+BX6195-6197				Arminians.  Remonstrants
+
+BX6201-6495				Baptists
+BX6201-6227					General
+BX6231-6328					History.  Local divisions
+BX6329					Baptists and other churches
+BX6330-6331.2					Doctrine
+BX6333					Sermons.  Tracts
+BX6334					Controversial works
+BX6335-6336					Creeds.  Catechisms
+BX6337					Service.  Ritual.  Liturgy
+BX6338-6339					Sacraments
+BX6340-6346.3					Government.  Discipline
+BX6349-6470					Individual branches
+BX6480-6490					Individual Baptist churches
+BX6493-6495					Biography
+BX6551-6593				Catholic Apostolic Church.  Irvingites
+BX6651-6693				Christadelphians.  Brothers of Christ
+BX6751-6793				Christian Church
+See also Disciples of Christ
+BX6801-6843				Christian Reformed Church
+BX6901-6997				Christian Science
+BX7003				Christian Union
+BX7020-7060				Church of God
+BX7079-7097				Churches of God
+BX7101-7260				Congregationalism
+BX7301-7343				Disciples of Christ.  Campbellites
+BX7401-7430				Dowieism.  Christian Catholic Church
+BX7451-7493				Evangelical and Reformed Church
+BX7556				Evangelical United Brethren Church
+BX7580-7583				Free Congregations (Germany).  Freie Gemeinden
+BX7601-7795				Friends.  Society of Friends.  Quakers
+BX7801-7843				German Baptist Brethren.  Church of the Brethren.
+Dunkards
+BX7850-7865				German Evangelical Protestant Church of North America. 
+Evangelical Protestant Church of North America
+BX7901-7943				German Evangelical Synod of North America
+BX7990.H6-.H69				Holiness churches
+BX8001-8080				Lutheran churches
+BX8101-8144				Mennonites
+BX8201-8495				Methodism
+BX8525-8528				Millennial Dawnists.  Jehovah=s Witnesses
+BX8551-8593				Moravian Church.  United Brethren.  Unitas Fratrum. 
+Herrnhuters
+BX8601-8695				Mormons.  Church of Jesus Christ of Latter-Day Saints
+BX8701-8749				New Jerusalem Church.  New Church.  Swedenborgianism
+BX8762-8785				Pentecostal churches
+BX8799-8809				Plymouth Brethren.  Darbyites
+BX8901-9225				Presbyterianism.  Calvinistic Methodism
+BX9301-9359				Puritanism
+BX9401-9640				Reformed or Calvinistic Churches
+BX9675				River Brethren.  Brethren in Christ
+BX9701-9743				Salvation Army
+
+BX9751-9793				Shakers.  United Society of Believers.  Millennial Church
+BX9801-9869				Unitarianism
+BX9875-9877.1				United Brethren in Christ.  Church of the United Brethren in
+Christ
+BX9881-9882.95				United Church of Canada
+BX9884-9886				United Church of Christ
+BX9887				United Evangelical Church
+BX9889				United Missionary Church
+BX9901-9969				Unviersalism.  Universalists
+BX9975				Volunteers of America
+BX9980				Walloon Church
+BX9998				Other beliefs and movements akin to Christianity
+BX9999				Independent churches, parishes, societies, etc.
